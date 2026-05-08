@@ -1,1 +1,1 @@
-# client-clarity-intake-os
+# Client Clarity Intake OS
