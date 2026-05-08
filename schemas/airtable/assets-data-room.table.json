@@ -1,0 +1,24 @@
+{
+  "table_name": "Client Clarity OS - Assets & Data Room",
+  "purpose": "Track supporting files/assets.",
+  "fields": [
+    { "name": "Asset Name", "type": "singleLineText", "required": true },
+    { "name": "Client Name", "type": "singleLineText", "required": true },
+    { "name": "Project Name", "type": "singleLineText" },
+    {
+      "name": "Asset Type",
+      "type": "singleSelect",
+      "options": ["Website", "Instagram", "Deck", "Offer", "Sales Page", "Testimonial", "Transcript", "Brand Board", "Video", "Photos", "CRM", "Pricing", "Other"]
+    },
+    { "name": "Asset URL", "type": "url" },
+    { "name": "Source Platform", "type": "singleLineText" },
+    {
+      "name": "Status",
+      "type": "singleSelect",
+      "options": ["Uploaded", "Reviewed", "Needs Follow-up", "Missing"]
+    },
+    { "name": "Useful For", "type": "multilineText" },
+    { "name": "Operator Notes", "type": "multilineText" },
+    { "name": "Date Added", "type": "date" }
+  ]
+}

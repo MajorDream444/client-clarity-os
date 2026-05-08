@@ -1,0 +1,23 @@
+{
+  "table_name": "Client Clarity OS - Master Schema Reference",
+  "purpose": "Canonical schema governance table for Airtable, Notion, Sheets, Codex, and n8n.",
+  "fields": [
+    { "name": "Field Name", "type": "singleLineText", "required": true },
+    {
+      "name": "Table Name",
+      "type": "singleSelect",
+      "options": ["clarity_intake_master", "clarity_offers", "clarity_assets", "clarity_media_properties", "clarity_build_log", "operator_internal"]
+    },
+    { "name": "Field Type", "type": "singleLineText" },
+    { "name": "Source Section", "type": "singleLineText" },
+    { "name": "Client Facing?", "type": "checkbox" },
+    { "name": "Required?", "type": "checkbox" },
+    { "name": "Description", "type": "multilineText" },
+    { "name": "Sync Notes", "type": "multilineText" },
+    {
+      "name": "Status",
+      "type": "singleSelect",
+      "options": ["Planned", "Mapped", "Built", "Needs Review"]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "table_name": "Client Clarity OS - Clients",
+  "purpose": "Master CRM / deal flow.",
+  "fields": [
+    { "name": "Client Name", "type": "singleLineText", "required": true },
+    { "name": "Brand / Project Name", "type": "singleLineText", "required": false },
+    {
+      "name": "Client Type",
+      "type": "singleSelect",
+      "options": ["Creator-Healer", "Retreat / Wellness", "Media / PR", "Athlete / Creator", "Local Business", "AI Client", "Other"]
+    },
+    { "name": "Primary Contact", "type": "singleLineText" },
+    { "name": "Email", "type": "email" },
+    { "name": "WhatsApp", "type": "phoneNumber" },
+    {
+      "name": "Status",
+      "type": "singleSelect",
+      "options": ["New", "Intake Sent", "Intake Started", "Intake Complete", "Reviewing", "Blueprint Generated", "Proposal Sent", "Closed Won", "Closed Lost", "Build Active", "Paused"]
+    },
+    { "name": "Source", "type": "singleLineText" },
+    { "name": "Current Offer Stage", "type": "singleLineText" },
+    {
+      "name": "Build Track",
+      "type": "singleSelect",
+      "options": ["Foundation Only", "Foundation + Front Door", "Revenue Engine", "Full OS"]
+    },
+    { "name": "Assigned System", "type": "singleLineText" },
+    { "name": "Notion Intake URL", "type": "url" },
+    { "name": "Notion Dossier URL", "type": "url" },
+    { "name": "Drive / Data Room URL", "type": "url" },
+    { "name": "Next Action", "type": "singleLineText" },
+    { "name": "Next Action Date", "type": "date" },
+    { "name": "Deal Value", "type": "currency" },
+    { "name": "Performance %", "type": "percent" },
+    {
+      "name": "Payment Status",
+      "type": "singleSelect",
+      "options": ["Not Sent", "Stage 1 Sent", "Stage 1 Paid", "Stage 2 Paid", "Stage 3 Paid", "Overdue"]
+    },
+    { "name": "Operator Notes", "type": "multilineText" }
+  ]
+}

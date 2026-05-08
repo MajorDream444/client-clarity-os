@@ -19,3 +19,11 @@ It is intended to become a media company with systemized infrastructure, reusabl
 Key operating question:
 
 How do we turn founder authority, relationships, and campaigns into a repeatable operating system?
+
+## First-Pass Notes
+
+- Identify what has already made money.
+- Package the strongest recurring revenue path before expanding the full OS.
+- Separate front-end offer packaging from back-end media infrastructure.
+- Keep fundability and acquisition language grounded in real proof.
+- Proposal pricing remains human-reviewed.

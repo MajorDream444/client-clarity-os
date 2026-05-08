@@ -1,0 +1,32 @@
+{
+  "table_name": "Client Clarity OS - Build Tasks",
+  "purpose": "Convert approved blueprints into staged execution.",
+  "fields": [
+    { "name": "Task ID", "type": "singleLineText", "required": true },
+    { "name": "Client Name", "type": "singleLineText", "required": true },
+    { "name": "Project Name", "type": "singleLineText" },
+    {
+      "name": "Stage",
+      "type": "singleSelect",
+      "options": ["Stage 1 — Foundation", "Stage 2 — Build", "Stage 3 — Activate", "Post-Launch Optimization"]
+    },
+    { "name": "Task Name", "type": "singleLineText", "required": true },
+    { "name": "Description", "type": "multilineText" },
+    { "name": "Owner", "type": "singleLineText" },
+    {
+      "name": "Status",
+      "type": "singleSelect",
+      "options": ["Backlog", "Ready", "In Progress", "Blocked", "Needs Review", "Done"]
+    },
+    {
+      "name": "Priority",
+      "type": "singleSelect",
+      "options": ["High", "Medium", "Low"]
+    },
+    { "name": "Due Date", "type": "date" },
+    { "name": "Dependencies", "type": "multilineText" },
+    { "name": "Related Blueprint", "type": "singleLineText" },
+    { "name": "Related Asset", "type": "singleLineText" },
+    { "name": "Notes", "type": "multilineText" }
+  ]
+}

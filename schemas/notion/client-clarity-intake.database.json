@@ -1,0 +1,35 @@
+{
+  "database_name": "Client Clarity Intake",
+  "properties": [
+    { "name": "Client Name", "type": "title", "required": true },
+    { "name": "Brand / Project", "type": "rich_text" },
+    {
+      "name": "Template Type",
+      "type": "select",
+      "options": ["Creator-Healer", "Shakti System", "Media Engine", "Generic Client Blueprint"]
+    },
+    {
+      "name": "Status",
+      "type": "status",
+      "options": ["Draft", "In Progress", "Submitted", "Complete", "Needs Follow-up"]
+    },
+    { "name": "Client Email", "type": "email" },
+    { "name": "WhatsApp", "type": "phone_number" },
+    { "name": "Origin", "type": "rich_text" },
+    { "name": "Work / Authority", "type": "rich_text" },
+    { "name": "People / ICP", "type": "rich_text" },
+    { "name": "Offer / Revenue", "type": "rich_text" },
+    { "name": "Resistance / Boundaries", "type": "rich_text" },
+    { "name": "Expression / Delivery", "type": "rich_text" },
+    { "name": "Vision", "type": "rich_text" },
+    { "name": "Reality Check", "type": "rich_text" },
+    { "name": "Final Reflection", "type": "rich_text" },
+    { "name": "Asset Links", "type": "rich_text" },
+    { "name": "Drive / Data Room URL", "type": "url" },
+    { "name": "Consent to Process", "type": "checkbox" },
+    { "name": "Submitted Date", "type": "date" },
+    { "name": "Airtable Record ID", "type": "rich_text" },
+    { "name": "Blueprint Generated", "type": "checkbox" }
+  ],
+  "views": ["All Intakes", "By Client Type", "Incomplete", "Ready for Review", "Completed", "Client Intake Form"]
+}

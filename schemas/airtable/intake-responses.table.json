@@ -1,0 +1,45 @@
+{
+  "table_name": "Client Clarity OS - Intake Responses",
+  "purpose": "Long-form answers synced from Notion and prepared for AI extraction.",
+  "fields": [
+    { "name": "Response ID", "type": "singleLineText", "required": true },
+    { "name": "Client Name", "type": "singleLineText", "required": true },
+    { "name": "Project Name", "type": "singleLineText" },
+    {
+      "name": "Template Type",
+      "type": "singleSelect",
+      "options": ["Creator-Healer", "Shakti System", "Media Engine", "Generic Client Blueprint"]
+    },
+    {
+      "name": "Completion Status",
+      "type": "singleSelect",
+      "options": ["Draft", "Submitted", "Synced", "AI Processing", "Blueprint Generated", "Needs Review"]
+    },
+    { "name": "Origin Answer", "type": "multilineText" },
+    { "name": "Work / Authority Answer", "type": "multilineText" },
+    { "name": "People / ICP Answer", "type": "multilineText" },
+    { "name": "Offer / Revenue Answer", "type": "multilineText" },
+    { "name": "Resistance / Boundaries Answer", "type": "multilineText" },
+    { "name": "Expression / Delivery Answer", "type": "multilineText" },
+    { "name": "Vision Answer", "type": "multilineText" },
+    { "name": "Reality Check Answer", "type": "multilineText" },
+    { "name": "Final Reflection", "type": "multilineText" },
+    { "name": "Assets Provided", "type": "multilineText" },
+    { "name": "Drive URL", "type": "url" },
+    { "name": "Raw Notion Page URL", "type": "url" },
+    { "name": "AI Summary", "type": "multilineText" },
+    { "name": "Doctrine Extract", "type": "multilineText" },
+    { "name": "ICP Extract", "type": "multilineText" },
+    { "name": "Offer Extract", "type": "multilineText" },
+    { "name": "Revenue Leaks", "type": "multilineText" },
+    { "name": "Recommended First Build", "type": "multilineText" },
+    { "name": "30-Day Plan", "type": "multilineText" },
+    {
+      "name": "Review Status",
+      "type": "singleSelect",
+      "options": ["Unreviewed", "Reviewing", "Approved", "Needs Follow-up"]
+    },
+    { "name": "Created Date", "type": "createdTime" },
+    { "name": "Last Updated", "type": "lastModifiedTime" }
+  ]
+}

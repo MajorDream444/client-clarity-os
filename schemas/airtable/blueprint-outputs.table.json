@@ -1,0 +1,25 @@
+{
+  "table_name": "Client Clarity OS - Blueprint Outputs",
+  "purpose": "AI-generated and operator-reviewed blueprint outputs.",
+  "fields": [
+    { "name": "Blueprint ID", "type": "singleLineText", "required": true },
+    { "name": "Client Name", "type": "singleLineText", "required": true },
+    { "name": "Project Name", "type": "singleLineText" },
+    { "name": "Blueprint Type", "type": "singleLineText" },
+    { "name": "Founder Profile", "type": "multilineText" },
+    { "name": "Doctrine Map", "type": "multilineText" },
+    { "name": "ICP", "type": "multilineText" },
+    { "name": "Offer Ladder", "type": "multilineText" },
+    { "name": "Current Revenue Proof", "type": "multilineText" },
+    { "name": "Lead Flow Diagnosis", "type": "multilineText" },
+    { "name": "Conversion Diagnosis", "type": "multilineText" },
+    { "name": "System Recommendation", "type": "multilineText" },
+    { "name": "Priority Build", "type": "multilineText" },
+    { "name": "Suggested Pricing", "type": "multilineText" },
+    { "name": "30-Day Roadmap", "type": "multilineText" },
+    { "name": "Proposal Notes", "type": "multilineText" },
+    { "name": "Generated Date", "type": "date" },
+    { "name": "Approved?", "type": "checkbox" },
+    { "name": "Notion Dossier URL", "type": "url" }
+  ]
+}
