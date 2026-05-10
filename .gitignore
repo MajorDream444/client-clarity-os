@@ -3,3 +3,6 @@
 node_modules/
 .DS_Store
 *.log
+graphify-out/.graphify_root
+graphify-out/.rebuild.lock
+graphify-out/manifest.json

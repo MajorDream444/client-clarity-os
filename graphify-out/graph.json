@@ -1,0 +1,5102 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "validate-env.js",
+      "file_type": "code",
+      "source_file": "scripts/validate-env.js",
+      "source_location": "L1",
+      "id": "scripts_validate_env_js",
+      "community": 37,
+      "norm_label": "validate-env.js"
+    },
+    {
+      "label": "required",
+      "file_type": "code",
+      "source_file": "scripts/validate-env.js",
+      "source_location": "L3",
+      "id": "scripts_validate_env_required",
+      "community": 37,
+      "norm_label": "required"
+    },
+    {
+      "label": "missing",
+      "file_type": "code",
+      "source_file": "scripts/validate-env.js",
+      "source_location": "L27",
+      "id": "scripts_validate_env_missing",
+      "community": 37,
+      "norm_label": "missing"
+    },
+    {
+      "label": "validate-blueprint-json.js",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L1",
+      "id": "scripts_validate_blueprint_json_js",
+      "community": 7,
+      "norm_label": "validate-blueprint-json.js"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L3",
+      "id": "scripts_validate_blueprint_json_fs",
+      "community": 7,
+      "norm_label": "fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L4",
+      "id": "scripts_validate_blueprint_json_path",
+      "community": 7,
+      "norm_label": "path"
+    },
+    {
+      "label": "schemaPath",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L13",
+      "id": "scripts_validate_blueprint_json_schemapath",
+      "community": 7,
+      "norm_label": "schemapath"
+    },
+    {
+      "label": "schema",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L14",
+      "id": "scripts_validate_blueprint_json_schema",
+      "community": 7,
+      "norm_label": "schema"
+    },
+    {
+      "label": "data",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L15",
+      "id": "scripts_validate_blueprint_json_data",
+      "community": 7,
+      "norm_label": "data"
+    },
+    {
+      "label": "errors",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L17",
+      "id": "scripts_validate_blueprint_json_errors",
+      "community": 7,
+      "norm_label": "errors"
+    },
+    {
+      "label": "typeOf()",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L19",
+      "id": "scripts_validate_blueprint_json_typeof",
+      "community": 7,
+      "norm_label": "typeof()"
+    },
+    {
+      "label": "actualType",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L42",
+      "id": "scripts_validate_blueprint_json_actualtype",
+      "community": 7,
+      "norm_label": "actualtype"
+    },
+    {
+      "label": "itemType",
+      "file_type": "code",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L50",
+      "id": "scripts_validate_blueprint_json_itemtype",
+      "community": 7,
+      "norm_label": "itemtype"
+    },
+    {
+      "label": "generate-client-slug.js",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L1",
+      "id": "scripts_generate_client_slug_js",
+      "community": 8,
+      "norm_label": "generate-client-slug.js"
+    },
+    {
+      "label": "[clientName = \"\", projectName = \"\"]",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L3",
+      "id": "scripts_generate_client_slug_clientname_projectname",
+      "community": 8,
+      "norm_label": "[clientname = \"\", projectname = \"\"]"
+    },
+    {
+      "label": "stopWords",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L10",
+      "id": "scripts_generate_client_slug_stopwords",
+      "community": 8,
+      "norm_label": "stopwords"
+    },
+    {
+      "label": "words()",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L22",
+      "id": "scripts_generate_client_slug_words",
+      "community": 8,
+      "norm_label": "words()"
+    },
+    {
+      "label": "clientWords",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L33",
+      "id": "scripts_generate_client_slug_clientwords",
+      "community": 8,
+      "norm_label": "clientwords"
+    },
+    {
+      "label": "projectWords",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L34",
+      "id": "scripts_generate_client_slug_projectwords",
+      "community": 8,
+      "norm_label": "projectwords"
+    },
+    {
+      "label": "slugWords",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L36",
+      "id": "scripts_generate_client_slug_slugwords",
+      "community": 8,
+      "norm_label": "slugwords"
+    },
+    {
+      "label": "seen",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L38",
+      "id": "scripts_generate_client_slug_seen",
+      "community": 8,
+      "norm_label": "seen"
+    },
+    {
+      "label": "slug",
+      "file_type": "code",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L39",
+      "id": "scripts_generate_client_slug_slug",
+      "community": 8,
+      "norm_label": "slug"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 0,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Client Clarity Intake OS",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "community": 0,
+      "norm_label": "client clarity intake os"
+    },
+    {
+      "label": "Core Workflow",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "id": "client_clarity_intake_os_readme_core_workflow",
+      "community": 0,
+      "norm_label": "core workflow"
+    },
+    {
+      "label": "code:text (Client)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "id": "client_clarity_intake_os_readme_codeblock_1",
+      "community": 0,
+      "norm_label": "code:text (client)"
+    },
+    {
+      "label": "Current Stack",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "id": "client_clarity_intake_os_readme_current_stack",
+      "community": 0,
+      "norm_label": "current stack"
+    },
+    {
+      "label": "Repo Map",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "id": "client_clarity_intake_os_readme_repo_map",
+      "community": 0,
+      "norm_label": "repo map"
+    },
+    {
+      "label": "code:text (docs/                 Architecture, implementation plan, sch)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L37",
+      "id": "client_clarity_intake_os_readme_codeblock_2",
+      "community": 0,
+      "norm_label": "code:text (docs/                 architecture, implementation plan, sch)"
+    },
+    {
+      "label": "Setup",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L48",
+      "id": "client_clarity_intake_os_readme_setup",
+      "community": 0,
+      "norm_label": "setup"
+    },
+    {
+      "label": "code:bash (node scripts/validate-env.js)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L55",
+      "id": "client_clarity_intake_os_readme_codeblock_3",
+      "community": 0,
+      "norm_label": "code:bash (node scripts/validate-env.js)"
+    },
+    {
+      "label": "code:bash (node scripts/validate-blueprint-json.js path/to/blueprint-ou)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L61",
+      "id": "client_clarity_intake_os_readme_codeblock_4",
+      "community": 0,
+      "norm_label": "code:bash (node scripts/validate-blueprint-json.js path/to/blueprint-ou)"
+    },
+    {
+      "label": "code:bash (node scripts/generate-client-slug.js \"Sheetal Kandola\" \"Shak)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "id": "client_clarity_intake_os_readme_codeblock_5",
+      "community": 0,
+      "norm_label": "code:bash (node scripts/generate-client-slug.js \"sheetal kandola\" \"shak)"
+    },
+    {
+      "label": "Required Environment Variables",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L71",
+      "id": "client_clarity_intake_os_readme_required_environment_variables",
+      "community": 0,
+      "norm_label": "required environment variables"
+    },
+    {
+      "label": "Airtable Tables",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L75",
+      "id": "client_clarity_intake_os_readme_airtable_tables",
+      "community": 0,
+      "norm_label": "airtable tables"
+    },
+    {
+      "label": "Notion Target",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L88",
+      "id": "client_clarity_intake_os_readme_notion_target",
+      "community": 0,
+      "norm_label": "notion target"
+    },
+    {
+      "label": "Workflow Order",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L101",
+      "id": "client_clarity_intake_os_readme_workflow_order",
+      "community": 0,
+      "norm_label": "workflow order"
+    },
+    {
+      "label": "Manual Test Path",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L110",
+      "id": "client_clarity_intake_os_readme_manual_test_path",
+      "community": 0,
+      "norm_label": "manual test path"
+    },
+    {
+      "label": "Not Yet Automated",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L121",
+      "id": "client_clarity_intake_os_readme_not_yet_automated",
+      "community": 0,
+      "norm_label": "not yet automated"
+    },
+    {
+      "label": "Operating Rules",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L131",
+      "id": "client_clarity_intake_os_readme_operating_rules",
+      "community": 0,
+      "norm_label": "operating rules"
+    },
+    {
+      "label": "First Build Recommendation Logic",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L145",
+      "id": "client_clarity_intake_os_readme_first_build_recommendation_logic",
+      "community": 0,
+      "norm_label": "first build recommendation logic"
+    },
+    {
+      "label": "AGENTS.md",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "id": "agents_md",
+      "community": 39,
+      "norm_label": "agents.md"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "id": "client_clarity_intake_os_agents_graphify",
+      "community": 39,
+      "norm_label": "graphify"
+    },
+    {
+      "label": "intake-template.md",
+      "file_type": "document",
+      "source_file": "clients/shaun-graffiti-media/intake-template.md",
+      "source_location": "L1",
+      "id": "clients_shaun_graffiti_media_intake_template_md",
+      "community": 33,
+      "norm_label": "intake-template.md"
+    },
+    {
+      "label": "Shaun \u2014 Graffiti Media Engine Intake Template",
+      "file_type": "document",
+      "source_file": "clients/shaun-graffiti-media/intake-template.md",
+      "source_location": "L1",
+      "id": "shaun_graffiti_media_intake_template_shaun_graffiti_media_engine_intake_template",
+      "community": 33,
+      "norm_label": "shaun \u2014 graffiti media engine intake template"
+    },
+    {
+      "label": "Specific Emphasis",
+      "file_type": "document",
+      "source_file": "clients/shaun-graffiti-media/intake-template.md",
+      "source_location": "L5",
+      "id": "shaun_graffiti_media_intake_template_specific_emphasis",
+      "community": 33,
+      "norm_label": "specific emphasis"
+    },
+    {
+      "label": "Guardrails",
+      "file_type": "document",
+      "source_file": "clients/shaun-graffiti-media/intake-template.md",
+      "source_location": "L16",
+      "id": "shaun_graffiti_media_intake_template_guardrails",
+      "community": 33,
+      "norm_label": "guardrails"
+    },
+    {
+      "label": "handoff.md",
+      "file_type": "document",
+      "source_file": "clients/shaun-graffiti-media/handoff.md",
+      "source_location": "L1",
+      "id": "clients_shaun_graffiti_media_handoff_md",
+      "community": 38,
+      "norm_label": "handoff.md"
+    },
+    {
+      "label": "Shaun \u2014 Graffiti Media Engine",
+      "file_type": "document",
+      "source_file": "clients/shaun-graffiti-media/handoff.md",
+      "source_location": "L1",
+      "id": "shaun_graffiti_media_handoff_shaun_graffiti_media_engine",
+      "community": 38,
+      "norm_label": "shaun \u2014 graffiti media engine"
+    },
+    {
+      "label": "First-Pass Notes",
+      "file_type": "document",
+      "source_file": "clients/shaun-graffiti-media/handoff.md",
+      "source_location": "L23",
+      "id": "shaun_graffiti_media_handoff_first_pass_notes",
+      "community": 38,
+      "norm_label": "first-pass notes"
+    },
+    {
+      "label": "intake-template.md",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/intake-template.md",
+      "source_location": "L1",
+      "id": "clients_sheetal_shakti_system_intake_template_md",
+      "community": 34,
+      "norm_label": "intake-template.md"
+    },
+    {
+      "label": "Sheetal \u2014 Shakti System Intake Template",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/intake-template.md",
+      "source_location": "L1",
+      "id": "sheetal_shakti_system_intake_template_sheetal_shakti_system_intake_template",
+      "community": 34,
+      "norm_label": "sheetal \u2014 shakti system intake template"
+    },
+    {
+      "label": "Specific Emphasis",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/intake-template.md",
+      "source_location": "L5",
+      "id": "sheetal_shakti_system_intake_template_specific_emphasis",
+      "community": 34,
+      "norm_label": "specific emphasis"
+    },
+    {
+      "label": "Guardrails",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/intake-template.md",
+      "source_location": "L16",
+      "id": "sheetal_shakti_system_intake_template_guardrails",
+      "community": 34,
+      "norm_label": "guardrails"
+    },
+    {
+      "label": "handoff.md",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L1",
+      "id": "clients_sheetal_shakti_system_handoff_md",
+      "community": 21,
+      "norm_label": "handoff.md"
+    },
+    {
+      "label": "Sheetal \u2014 Shakti System Handoff",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L1",
+      "id": "sheetal_shakti_system_handoff_sheetal_shakti_system_handoff",
+      "community": 21,
+      "norm_label": "sheetal \u2014 shakti system handoff"
+    },
+    {
+      "label": "Archetype",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L3",
+      "id": "sheetal_shakti_system_handoff_archetype",
+      "community": 21,
+      "norm_label": "archetype"
+    },
+    {
+      "label": "Focus",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L7",
+      "id": "sheetal_shakti_system_handoff_focus",
+      "community": 21,
+      "norm_label": "focus"
+    },
+    {
+      "label": "Operating Question",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L17",
+      "id": "sheetal_shakti_system_handoff_operating_question",
+      "community": 21,
+      "norm_label": "operating question"
+    },
+    {
+      "label": "First-Pass Notes",
+      "file_type": "document",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L21",
+      "id": "sheetal_shakti_system_handoff_first_pass_notes",
+      "community": 21,
+      "norm_label": "first-pass notes"
+    },
+    {
+      "label": "proposal-notes.md",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L1",
+      "id": "clients_theo_howling_mune_proposal_notes_md",
+      "community": 22,
+      "norm_label": "proposal-notes.md"
+    },
+    {
+      "label": "Theo \u2014 Howling Mune Proposal Notes",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L1",
+      "id": "theo_howling_mune_proposal_notes_theo_howling_mune_proposal_notes",
+      "community": 22,
+      "norm_label": "theo \u2014 howling mune proposal notes"
+    },
+    {
+      "label": "Proposal Boundary",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L3",
+      "id": "theo_howling_mune_proposal_notes_proposal_boundary",
+      "community": 22,
+      "norm_label": "proposal boundary"
+    },
+    {
+      "label": "Likely Proposal Angle",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L7",
+      "id": "theo_howling_mune_proposal_notes_likely_proposal_angle",
+      "community": 22,
+      "norm_label": "likely proposal angle"
+    },
+    {
+      "label": "Must Confirm Before Proposal",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L11",
+      "id": "theo_howling_mune_proposal_notes_must_confirm_before_proposal",
+      "community": 22,
+      "norm_label": "must confirm before proposal"
+    },
+    {
+      "label": "Do Not Invent",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L20",
+      "id": "theo_howling_mune_proposal_notes_do_not_invent",
+      "community": 22,
+      "norm_label": "do not invent"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L1",
+      "id": "clients_theo_howling_mune_readme_md",
+      "community": 9,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Theo / Howling Mune",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L1",
+      "id": "theo_howling_mune_readme_theo_howling_mune",
+      "community": 9,
+      "norm_label": "theo / howling mune"
+    },
+    {
+      "label": "code:text (/Users/majordreamwilliams/Desktop/theo-howling-mune-client-f)",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L7",
+      "id": "theo_howling_mune_readme_codeblock_1",
+      "community": 9,
+      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)"
+    },
+    {
+      "label": "code:text (https://github.com/MajorDream444/theo-howling-mune-client-fl)",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L13",
+      "id": "theo_howling_mune_readme_codeblock_2",
+      "community": 9,
+      "norm_label": "code:text (https://github.com/majordream444/theo-howling-mune-client-fl)"
+    },
+    {
+      "label": "Boundary",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L17",
+      "id": "theo_howling_mune_readme_boundary",
+      "community": 9,
+      "norm_label": "boundary"
+    },
+    {
+      "label": "OS Loop",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L21",
+      "id": "theo_howling_mune_readme_os_loop",
+      "community": 9,
+      "norm_label": "os loop"
+    },
+    {
+      "label": "code:text (Client record in Airtable)",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L25",
+      "id": "theo_howling_mune_readme_codeblock_3",
+      "community": 9,
+      "norm_label": "code:text (client record in airtable)"
+    },
+    {
+      "label": "Rules",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L37",
+      "id": "theo_howling_mune_readme_rules",
+      "community": 9,
+      "norm_label": "rules"
+    },
+    {
+      "label": "handoff.md",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L1",
+      "id": "clients_theo_howling_mune_handoff_md",
+      "community": 10,
+      "norm_label": "handoff.md"
+    },
+    {
+      "label": "Theo \u2014 Howling Mune Handoff",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L1",
+      "id": "theo_howling_mune_handoff_theo_howling_mune_handoff",
+      "community": 10,
+      "norm_label": "theo \u2014 howling mune handoff"
+    },
+    {
+      "label": "Archetype",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L3",
+      "id": "theo_howling_mune_handoff_archetype",
+      "community": 10,
+      "norm_label": "archetype"
+    },
+    {
+      "label": "Focus",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L7",
+      "id": "theo_howling_mune_handoff_focus",
+      "community": 10,
+      "norm_label": "focus"
+    },
+    {
+      "label": "Operating Question",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L19",
+      "id": "theo_howling_mune_handoff_operating_question",
+      "community": 10,
+      "norm_label": "operating question"
+    },
+    {
+      "label": "First-Pass Notes",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L23",
+      "id": "theo_howling_mune_handoff_first_pass_notes",
+      "community": 10,
+      "norm_label": "first-pass notes"
+    },
+    {
+      "label": "Dedicated Implementation Repo",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L30",
+      "id": "theo_howling_mune_handoff_dedicated_implementation_repo",
+      "community": 10,
+      "norm_label": "dedicated implementation repo"
+    },
+    {
+      "label": "code:text (/Users/majordreamwilliams/Desktop/theo-howling-mune-client-f)",
+      "file_type": "document",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L34",
+      "id": "theo_howling_mune_handoff_codeblock_1",
+      "community": 10,
+      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)"
+    },
+    {
+      "label": "n8n-workflows.md",
+      "file_type": "document",
+      "source_file": "docs/n8n-workflows.md",
+      "source_location": "L1",
+      "id": "docs_n8n_workflows_md",
+      "community": 35,
+      "norm_label": "n8n-workflows.md"
+    },
+    {
+      "label": "n8n Workflows",
+      "file_type": "document",
+      "source_file": "docs/n8n-workflows.md",
+      "source_location": "L1",
+      "id": "docs_n8n_workflows_n8n_workflows",
+      "community": 35,
+      "norm_label": "n8n workflows"
+    },
+    {
+      "label": "Workflow Order",
+      "file_type": "document",
+      "source_file": "docs/n8n-workflows.md",
+      "source_location": "L5",
+      "id": "docs_n8n_workflows_workflow_order",
+      "community": 35,
+      "norm_label": "workflow order"
+    },
+    {
+      "label": "Safety Rules",
+      "file_type": "document",
+      "source_file": "docs/n8n-workflows.md",
+      "source_location": "L12",
+      "id": "docs_n8n_workflows_safety_rules",
+      "community": 35,
+      "norm_label": "safety rules"
+    },
+    {
+      "label": "airtable-schema.md",
+      "file_type": "document",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L1",
+      "id": "docs_airtable_schema_md",
+      "community": 11,
+      "norm_label": "airtable-schema.md"
+    },
+    {
+      "label": "Airtable Schema",
+      "file_type": "document",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L1",
+      "id": "docs_airtable_schema_airtable_schema",
+      "community": 11,
+      "norm_label": "airtable schema"
+    },
+    {
+      "label": "Client Clarity OS - Clients",
+      "file_type": "document",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L7",
+      "id": "docs_airtable_schema_client_clarity_os_clients",
+      "community": 11,
+      "norm_label": "client clarity os - clients"
+    },
+    {
+      "label": "Client Clarity OS - Intake Responses",
+      "file_type": "document",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L15",
+      "id": "docs_airtable_schema_client_clarity_os_intake_responses",
+      "community": 11,
+      "norm_label": "client clarity os - intake responses"
+    },
+    {
+      "label": "Client Clarity OS - Blueprint Outputs",
+      "file_type": "document",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L21",
+      "id": "docs_airtable_schema_client_clarity_os_blueprint_outputs",
+      "community": 11,
+      "norm_label": "client clarity os - blueprint outputs"
+    },
+    {
+      "label": "Client Clarity OS - Assets & Data Room",
+      "file_type": "document",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L27",
+      "id": "docs_airtable_schema_client_clarity_os_assets_data_room",
+      "community": 11,
+      "norm_label": "client clarity os - assets & data room"
+    },
+    {
+      "label": "Client Clarity OS - Build Tasks",
+      "file_type": "document",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L33",
+      "id": "docs_airtable_schema_client_clarity_os_build_tasks",
+      "community": 11,
+      "norm_label": "client clarity os - build tasks"
+    },
+    {
+      "label": "Client Clarity OS - Master Schema Reference",
+      "file_type": "document",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L39",
+      "id": "docs_airtable_schema_client_clarity_os_master_schema_reference",
+      "community": 11,
+      "norm_label": "client clarity os - master schema reference"
+    },
+    {
+      "label": "testing-checklist.md",
+      "file_type": "document",
+      "source_file": "docs/testing-checklist.md",
+      "source_location": "L1",
+      "id": "docs_testing_checklist_md",
+      "community": 36,
+      "norm_label": "testing-checklist.md"
+    },
+    {
+      "label": "Testing Checklist",
+      "file_type": "document",
+      "source_file": "docs/testing-checklist.md",
+      "source_location": "L1",
+      "id": "docs_testing_checklist_testing_checklist",
+      "community": 36,
+      "norm_label": "testing checklist"
+    },
+    {
+      "label": "Local Scaffold Checks",
+      "file_type": "document",
+      "source_file": "docs/testing-checklist.md",
+      "source_location": "L16",
+      "id": "docs_testing_checklist_local_scaffold_checks",
+      "community": 36,
+      "norm_label": "local scaffold checks"
+    },
+    {
+      "label": "Production Readiness Gate",
+      "file_type": "document",
+      "source_file": "docs/testing-checklist.md",
+      "source_location": "L22",
+      "id": "docs_testing_checklist_production_readiness_gate",
+      "community": 36,
+      "norm_label": "production readiness gate"
+    },
+    {
+      "label": "architecture.md",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L1",
+      "id": "docs_architecture_md",
+      "community": 14,
+      "norm_label": "architecture.md"
+    },
+    {
+      "label": "Architecture",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L1",
+      "id": "docs_architecture_architecture",
+      "community": 14,
+      "norm_label": "architecture"
+    },
+    {
+      "label": "Purpose",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L3",
+      "id": "docs_architecture_purpose",
+      "community": 14,
+      "norm_label": "purpose"
+    },
+    {
+      "label": "System Flow",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L7",
+      "id": "docs_architecture_system_flow",
+      "community": 14,
+      "norm_label": "system flow"
+    },
+    {
+      "label": "code:text (Client)",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L9",
+      "id": "docs_architecture_codeblock_1",
+      "community": 14,
+      "norm_label": "code:text (client)"
+    },
+    {
+      "label": "Layer Responsibilities",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L21",
+      "id": "docs_architecture_layer_responsibilities",
+      "community": 14,
+      "norm_label": "layer responsibilities"
+    },
+    {
+      "label": "Invariants",
+      "file_type": "document",
+      "source_file": "docs/architecture.md",
+      "source_location": "L33",
+      "id": "docs_architecture_invariants",
+      "community": 14,
+      "norm_label": "invariants"
+    },
+    {
+      "label": "notion-schema.md",
+      "file_type": "document",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L1",
+      "id": "docs_notion_schema_md",
+      "community": 27,
+      "norm_label": "notion-schema.md"
+    },
+    {
+      "label": "Notion Schema",
+      "file_type": "document",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L1",
+      "id": "docs_notion_schema_notion_schema",
+      "community": 27,
+      "norm_label": "notion schema"
+    },
+    {
+      "label": "Properties",
+      "file_type": "document",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L7",
+      "id": "docs_notion_schema_properties",
+      "community": 27,
+      "norm_label": "properties"
+    },
+    {
+      "label": "Views",
+      "file_type": "document",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L33",
+      "id": "docs_notion_schema_views",
+      "community": 27,
+      "norm_label": "views"
+    },
+    {
+      "label": "Templates",
+      "file_type": "document",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L42",
+      "id": "docs_notion_schema_templates",
+      "community": 27,
+      "norm_label": "templates"
+    },
+    {
+      "label": "implementation-plan.md",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L1",
+      "id": "docs_implementation_plan_md",
+      "community": 1,
+      "norm_label": "implementation-plan.md"
+    },
+    {
+      "label": "Implementation Plan",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L1",
+      "id": "docs_implementation_plan_implementation_plan",
+      "community": 1,
+      "norm_label": "implementation plan"
+    },
+    {
+      "label": "Stage 0 \u2014 Repo Scaffold",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L3",
+      "id": "docs_implementation_plan_stage_0_repo_scaffold",
+      "community": 1,
+      "norm_label": "stage 0 \u2014 repo scaffold"
+    },
+    {
+      "label": "Stage 1 \u2014 Notion Intake Database",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L12",
+      "id": "docs_implementation_plan_stage_1_notion_intake_database",
+      "community": 1,
+      "norm_label": "stage 1 \u2014 notion intake database"
+    },
+    {
+      "label": "Stage 2 \u2014 Airtable Contract Verification",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L20",
+      "id": "docs_implementation_plan_stage_2_airtable_contract_verification",
+      "community": 1,
+      "norm_label": "stage 2 \u2014 airtable contract verification"
+    },
+    {
+      "label": "Stage 3 \u2014 AI Blueprint Extraction",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L27",
+      "id": "docs_implementation_plan_stage_3_ai_blueprint_extraction",
+      "community": 1,
+      "norm_label": "stage 3 \u2014 ai blueprint extraction"
+    },
+    {
+      "label": "Stage 4 \u2014 n8n Workflow Wiring",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L35",
+      "id": "docs_implementation_plan_stage_4_n8n_workflow_wiring",
+      "community": 1,
+      "norm_label": "stage 4 \u2014 n8n workflow wiring"
+    },
+    {
+      "label": "Stage 5 \u2014 Stripe Payment Stages",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L42",
+      "id": "docs_implementation_plan_stage_5_stripe_payment_stages",
+      "community": 1,
+      "norm_label": "stage 5 \u2014 stripe payment stages"
+    },
+    {
+      "label": "Stage 6 \u2014 Build Task Execution",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L49",
+      "id": "docs_implementation_plan_stage_6_build_task_execution",
+      "community": 1,
+      "norm_label": "stage 6 \u2014 build task execution"
+    },
+    {
+      "label": "First Live Implementation Example \u2014 Theo / Howling Mune",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L55",
+      "id": "docs_implementation_plan_first_live_implementation_example_theo_howling_mune",
+      "community": 1,
+      "norm_label": "first live implementation example \u2014 theo / howling mune"
+    },
+    {
+      "label": "code:text (/Users/majordreamwilliams/Desktop/theo-howling-mune-client-f)",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L59",
+      "id": "docs_implementation_plan_codeblock_1",
+      "community": 1,
+      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)"
+    },
+    {
+      "label": "code:text (Client record -> Intake/source material -> Blueprint extract)",
+      "file_type": "document",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L67",
+      "id": "docs_implementation_plan_codeblock_2",
+      "community": 1,
+      "norm_label": "code:text (client record -> intake/source material -> blueprint extract)"
+    },
+    {
+      "label": "sync-map.md",
+      "file_type": "document",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L1",
+      "id": "docs_sync_map_md",
+      "community": 23,
+      "norm_label": "sync-map.md"
+    },
+    {
+      "label": "Sync Map",
+      "file_type": "document",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L1",
+      "id": "docs_sync_map_sync_map",
+      "community": 23,
+      "norm_label": "sync map"
+    },
+    {
+      "label": "Client Identity",
+      "file_type": "document",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L3",
+      "id": "docs_sync_map_client_identity",
+      "community": 23,
+      "norm_label": "client identity"
+    },
+    {
+      "label": "Notion to Airtable Intake Mapping",
+      "file_type": "document",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L12",
+      "id": "docs_sync_map_notion_to_airtable_intake_mapping",
+      "community": 23,
+      "norm_label": "notion to airtable intake mapping"
+    },
+    {
+      "label": "AI Output to Airtable Blueprint Mapping",
+      "file_type": "document",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L33",
+      "id": "docs_sync_map_ai_output_to_airtable_blueprint_mapping",
+      "community": 23,
+      "norm_label": "ai output to airtable blueprint mapping"
+    },
+    {
+      "label": "Stripe to Airtable Mapping",
+      "file_type": "document",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L49",
+      "id": "docs_sync_map_stripe_to_airtable_mapping",
+      "community": 23,
+      "norm_label": "stripe to airtable mapping"
+    },
+    {
+      "label": "stripe-payment-flow.md",
+      "file_type": "document",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L1",
+      "id": "docs_stripe_payment_flow_md",
+      "community": 24,
+      "norm_label": "stripe-payment-flow.md"
+    },
+    {
+      "label": "Stripe Payment Flow",
+      "file_type": "document",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L1",
+      "id": "docs_stripe_payment_flow_stripe_payment_flow",
+      "community": 24,
+      "norm_label": "stripe payment flow"
+    },
+    {
+      "label": "Stages",
+      "file_type": "document",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L5",
+      "id": "docs_stripe_payment_flow_stages",
+      "community": 24,
+      "norm_label": "stages"
+    },
+    {
+      "label": "Required Metadata",
+      "file_type": "document",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L13",
+      "id": "docs_stripe_payment_flow_required_metadata",
+      "community": 24,
+      "norm_label": "required metadata"
+    },
+    {
+      "label": "Webhook Behavior",
+      "file_type": "document",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L23",
+      "id": "docs_stripe_payment_flow_webhook_behavior",
+      "community": 24,
+      "norm_label": "webhook behavior"
+    },
+    {
+      "label": "Human Review Boundary",
+      "file_type": "document",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L34",
+      "id": "docs_stripe_payment_flow_human_review_boundary",
+      "community": 24,
+      "norm_label": "human review boundary"
+    },
+    {
+      "label": "handover.md",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L1",
+      "id": "docs_handover_md",
+      "community": 2,
+      "norm_label": "handover.md"
+    },
+    {
+      "label": "Client Clarity Intake OS \u2014 Project Handover",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L1",
+      "id": "docs_handover_client_clarity_intake_os_project_handover",
+      "community": 2,
+      "norm_label": "client clarity intake os \u2014 project handover"
+    },
+    {
+      "label": "Core Workflow",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L11",
+      "id": "docs_handover_core_workflow",
+      "community": 2,
+      "norm_label": "core workflow"
+    },
+    {
+      "label": "code:text (Client Conversation)",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L13",
+      "id": "docs_handover_codeblock_1",
+      "community": 2,
+      "norm_label": "code:text (client conversation)"
+    },
+    {
+      "label": "Proven Archetypes",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L35",
+      "id": "docs_handover_proven_archetypes",
+      "community": 2,
+      "norm_label": "proven archetypes"
+    },
+    {
+      "label": "Theo \u2014 Creator-Healer OS",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L37",
+      "id": "docs_handover_theo_creator_healer_os",
+      "community": 2,
+      "norm_label": "theo \u2014 creator-healer os"
+    },
+    {
+      "label": "Sheetal \u2014 Shakti System OS",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L40",
+      "id": "docs_handover_sheetal_shakti_system_os",
+      "community": 2,
+      "norm_label": "sheetal \u2014 shakti system os"
+    },
+    {
+      "label": "Shaun \u2014 Graffiti Media Engine",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L43",
+      "id": "docs_handover_shaun_graffiti_media_engine",
+      "community": 2,
+      "norm_label": "shaun \u2014 graffiti media engine"
+    },
+    {
+      "label": "Current Implementation State",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L46",
+      "id": "docs_handover_current_implementation_state",
+      "community": 2,
+      "norm_label": "current implementation state"
+    },
+    {
+      "label": "System Layers",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L55",
+      "id": "docs_handover_system_layers",
+      "community": 2,
+      "norm_label": "system layers"
+    },
+    {
+      "label": "Agent Stop Rules",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L65",
+      "id": "docs_handover_agent_stop_rules",
+      "community": 2,
+      "norm_label": "agent stop rules"
+    },
+    {
+      "label": "Master Rule",
+      "file_type": "document",
+      "source_file": "docs/handover.md",
+      "source_location": "L73",
+      "id": "docs_handover_master_rule",
+      "community": 2,
+      "norm_label": "master rule"
+    },
+    {
+      "label": "generic-blueprint.template.md",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L1",
+      "id": "schemas_notion_generic_blueprint_template_md",
+      "community": 3,
+      "norm_label": "generic-blueprint.template.md"
+    },
+    {
+      "label": "Generic Client Blueprint Intake",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L1",
+      "id": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "community": 3,
+      "norm_label": "generic client blueprint intake"
+    },
+    {
+      "label": "Opening",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L5",
+      "id": "notion_generic_blueprint_template_opening",
+      "community": 3,
+      "norm_label": "opening"
+    },
+    {
+      "label": "Origin",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L9",
+      "id": "notion_generic_blueprint_template_origin",
+      "community": 3,
+      "norm_label": "origin"
+    },
+    {
+      "label": "Work / Authority",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L15",
+      "id": "notion_generic_blueprint_template_work_authority",
+      "community": 3,
+      "norm_label": "work / authority"
+    },
+    {
+      "label": "People / ICP",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L21",
+      "id": "notion_generic_blueprint_template_people_icp",
+      "community": 3,
+      "norm_label": "people / icp"
+    },
+    {
+      "label": "Offer / Revenue",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L27",
+      "id": "notion_generic_blueprint_template_offer_revenue",
+      "community": 3,
+      "norm_label": "offer / revenue"
+    },
+    {
+      "label": "Resistance / Boundaries",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L33",
+      "id": "notion_generic_blueprint_template_resistance_boundaries",
+      "community": 3,
+      "norm_label": "resistance / boundaries"
+    },
+    {
+      "label": "Expression / Delivery",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L38",
+      "id": "notion_generic_blueprint_template_expression_delivery",
+      "community": 3,
+      "norm_label": "expression / delivery"
+    },
+    {
+      "label": "Vision",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L43",
+      "id": "notion_generic_blueprint_template_vision",
+      "community": 3,
+      "norm_label": "vision"
+    },
+    {
+      "label": "Reality Check",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L48",
+      "id": "notion_generic_blueprint_template_reality_check",
+      "community": 3,
+      "norm_label": "reality check"
+    },
+    {
+      "label": "Final Reflection",
+      "file_type": "document",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L53",
+      "id": "notion_generic_blueprint_template_final_reflection",
+      "community": 3,
+      "norm_label": "final reflection"
+    },
+    {
+      "label": "creator-healer.template.md",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L1",
+      "id": "schemas_notion_creator_healer_template_md",
+      "community": 4,
+      "norm_label": "creator-healer.template.md"
+    },
+    {
+      "label": "Creator-Healer Intake",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L1",
+      "id": "notion_creator_healer_template_creator_healer_intake",
+      "community": 4,
+      "norm_label": "creator-healer intake"
+    },
+    {
+      "label": "Opening",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L5",
+      "id": "notion_creator_healer_template_opening",
+      "community": 4,
+      "norm_label": "opening"
+    },
+    {
+      "label": "Origin",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L11",
+      "id": "notion_creator_healer_template_origin",
+      "community": 4,
+      "norm_label": "origin"
+    },
+    {
+      "label": "Work / Authority",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L17",
+      "id": "notion_creator_healer_template_work_authority",
+      "community": 4,
+      "norm_label": "work / authority"
+    },
+    {
+      "label": "People / ICP",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L23",
+      "id": "notion_creator_healer_template_people_icp",
+      "community": 4,
+      "norm_label": "people / icp"
+    },
+    {
+      "label": "Offer / Revenue",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L30",
+      "id": "notion_creator_healer_template_offer_revenue",
+      "community": 4,
+      "norm_label": "offer / revenue"
+    },
+    {
+      "label": "Resistance / Boundaries",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L37",
+      "id": "notion_creator_healer_template_resistance_boundaries",
+      "community": 4,
+      "norm_label": "resistance / boundaries"
+    },
+    {
+      "label": "Expression / Delivery",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L43",
+      "id": "notion_creator_healer_template_expression_delivery",
+      "community": 4,
+      "norm_label": "expression / delivery"
+    },
+    {
+      "label": "Vision",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L49",
+      "id": "notion_creator_healer_template_vision",
+      "community": 4,
+      "norm_label": "vision"
+    },
+    {
+      "label": "Reality Check",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L54",
+      "id": "notion_creator_healer_template_reality_check",
+      "community": 4,
+      "norm_label": "reality check"
+    },
+    {
+      "label": "Final Reflection",
+      "file_type": "document",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L60",
+      "id": "notion_creator_healer_template_final_reflection",
+      "community": 4,
+      "norm_label": "final reflection"
+    },
+    {
+      "label": "media-engine.template.md",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L1",
+      "id": "schemas_notion_media_engine_template_md",
+      "community": 5,
+      "norm_label": "media-engine.template.md"
+    },
+    {
+      "label": "Media Engine Intake",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L1",
+      "id": "notion_media_engine_template_media_engine_intake",
+      "community": 5,
+      "norm_label": "media engine intake"
+    },
+    {
+      "label": "Opening",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L5",
+      "id": "notion_media_engine_template_opening",
+      "community": 5,
+      "norm_label": "opening"
+    },
+    {
+      "label": "Origin",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L11",
+      "id": "notion_media_engine_template_origin",
+      "community": 5,
+      "norm_label": "origin"
+    },
+    {
+      "label": "Work / Authority",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L17",
+      "id": "notion_media_engine_template_work_authority",
+      "community": 5,
+      "norm_label": "work / authority"
+    },
+    {
+      "label": "People / ICP",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L23",
+      "id": "notion_media_engine_template_people_icp",
+      "community": 5,
+      "norm_label": "people / icp"
+    },
+    {
+      "label": "Offer / Revenue",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L29",
+      "id": "notion_media_engine_template_offer_revenue",
+      "community": 5,
+      "norm_label": "offer / revenue"
+    },
+    {
+      "label": "Resistance / Boundaries",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L35",
+      "id": "notion_media_engine_template_resistance_boundaries",
+      "community": 5,
+      "norm_label": "resistance / boundaries"
+    },
+    {
+      "label": "Expression / Delivery",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L41",
+      "id": "notion_media_engine_template_expression_delivery",
+      "community": 5,
+      "norm_label": "expression / delivery"
+    },
+    {
+      "label": "Vision",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L47",
+      "id": "notion_media_engine_template_vision",
+      "community": 5,
+      "norm_label": "vision"
+    },
+    {
+      "label": "Reality Check",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L53",
+      "id": "notion_media_engine_template_reality_check",
+      "community": 5,
+      "norm_label": "reality check"
+    },
+    {
+      "label": "Final Reflection",
+      "file_type": "document",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L58",
+      "id": "notion_media_engine_template_final_reflection",
+      "community": 5,
+      "norm_label": "final reflection"
+    },
+    {
+      "label": "shakti-system.template.md",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L1",
+      "id": "schemas_notion_shakti_system_template_md",
+      "community": 6,
+      "norm_label": "shakti-system.template.md"
+    },
+    {
+      "label": "Shakti System Intake",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L1",
+      "id": "notion_shakti_system_template_shakti_system_intake",
+      "community": 6,
+      "norm_label": "shakti system intake"
+    },
+    {
+      "label": "Opening",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L5",
+      "id": "notion_shakti_system_template_opening",
+      "community": 6,
+      "norm_label": "opening"
+    },
+    {
+      "label": "Origin",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L11",
+      "id": "notion_shakti_system_template_origin",
+      "community": 6,
+      "norm_label": "origin"
+    },
+    {
+      "label": "Work / Authority",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L17",
+      "id": "notion_shakti_system_template_work_authority",
+      "community": 6,
+      "norm_label": "work / authority"
+    },
+    {
+      "label": "People / ICP",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L23",
+      "id": "notion_shakti_system_template_people_icp",
+      "community": 6,
+      "norm_label": "people / icp"
+    },
+    {
+      "label": "Offer / Revenue",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L30",
+      "id": "notion_shakti_system_template_offer_revenue",
+      "community": 6,
+      "norm_label": "offer / revenue"
+    },
+    {
+      "label": "Resistance / Boundaries",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L36",
+      "id": "notion_shakti_system_template_resistance_boundaries",
+      "community": 6,
+      "norm_label": "resistance / boundaries"
+    },
+    {
+      "label": "Expression / Delivery",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L42",
+      "id": "notion_shakti_system_template_expression_delivery",
+      "community": 6,
+      "norm_label": "expression / delivery"
+    },
+    {
+      "label": "Vision",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L48",
+      "id": "notion_shakti_system_template_vision",
+      "community": 6,
+      "norm_label": "vision"
+    },
+    {
+      "label": "Reality Check",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L53",
+      "id": "notion_shakti_system_template_reality_check",
+      "community": 6,
+      "norm_label": "reality check"
+    },
+    {
+      "label": "Final Reflection",
+      "file_type": "document",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L59",
+      "id": "notion_shakti_system_template_final_reflection",
+      "community": 6,
+      "norm_label": "final reflection"
+    },
+    {
+      "label": "codex-operator-prompt.md",
+      "file_type": "document",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L1",
+      "id": "prompts_codex_operator_prompt_md",
+      "community": 28,
+      "norm_label": "codex-operator-prompt.md"
+    },
+    {
+      "label": "Codex Operator Prompt",
+      "file_type": "document",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L1",
+      "id": "prompts_codex_operator_prompt_codex_operator_prompt",
+      "community": 28,
+      "norm_label": "codex operator prompt"
+    },
+    {
+      "label": "Mission",
+      "file_type": "document",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L5",
+      "id": "prompts_codex_operator_prompt_mission",
+      "community": 28,
+      "norm_label": "mission"
+    },
+    {
+      "label": "Rules",
+      "file_type": "document",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L9",
+      "id": "prompts_codex_operator_prompt_rules",
+      "community": 28,
+      "norm_label": "rules"
+    },
+    {
+      "label": "Validation",
+      "file_type": "document",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L23",
+      "id": "prompts_codex_operator_prompt_validation",
+      "community": 28,
+      "norm_label": "validation"
+    },
+    {
+      "label": "proposal-generator.md",
+      "file_type": "document",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L1",
+      "id": "prompts_proposal_generator_md",
+      "community": 29,
+      "norm_label": "proposal-generator.md"
+    },
+    {
+      "label": "Proposal Generator Prompt",
+      "file_type": "document",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L1",
+      "id": "prompts_proposal_generator_proposal_generator_prompt",
+      "community": 29,
+      "norm_label": "proposal generator prompt"
+    },
+    {
+      "label": "Inputs",
+      "file_type": "document",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L5",
+      "id": "prompts_proposal_generator_inputs",
+      "community": 29,
+      "norm_label": "inputs"
+    },
+    {
+      "label": "Rules",
+      "file_type": "document",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L14",
+      "id": "prompts_proposal_generator_rules",
+      "community": 29,
+      "norm_label": "rules"
+    },
+    {
+      "label": "Sections",
+      "file_type": "document",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L24",
+      "id": "prompts_proposal_generator_sections",
+      "community": 29,
+      "norm_label": "sections"
+    },
+    {
+      "label": "ai-blueprint-extraction.md",
+      "file_type": "document",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L1",
+      "id": "prompts_ai_blueprint_extraction_md",
+      "community": 25,
+      "norm_label": "ai-blueprint-extraction.md"
+    },
+    {
+      "label": "AI Blueprint Extraction Prompt",
+      "file_type": "document",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L1",
+      "id": "prompts_ai_blueprint_extraction_ai_blueprint_extraction_prompt",
+      "community": 25,
+      "norm_label": "ai blueprint extraction prompt"
+    },
+    {
+      "label": "code:json ({)",
+      "file_type": "document",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L9",
+      "id": "prompts_ai_blueprint_extraction_codeblock_1",
+      "community": 25,
+      "norm_label": "code:json ({)"
+    },
+    {
+      "label": "Rules",
+      "file_type": "document",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L31",
+      "id": "prompts_ai_blueprint_extraction_rules",
+      "community": 25,
+      "norm_label": "rules"
+    },
+    {
+      "label": "Input Blocks",
+      "file_type": "document",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L45",
+      "id": "prompts_ai_blueprint_extraction_input_blocks",
+      "community": 25,
+      "norm_label": "input blocks"
+    },
+    {
+      "label": "Output Quality Bar",
+      "file_type": "document",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L64",
+      "id": "prompts_ai_blueprint_extraction_output_quality_bar",
+      "community": 25,
+      "norm_label": "output quality bar"
+    },
+    {
+      "label": "notion-template-generator.md",
+      "file_type": "document",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L1",
+      "id": "prompts_notion_template_generator_md",
+      "community": 30,
+      "norm_label": "notion-template-generator.md"
+    },
+    {
+      "label": "Notion Template Generator Prompt",
+      "file_type": "document",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L1",
+      "id": "prompts_notion_template_generator_notion_template_generator_prompt",
+      "community": 30,
+      "norm_label": "notion template generator prompt"
+    },
+    {
+      "label": "Constraints",
+      "file_type": "document",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L5",
+      "id": "prompts_notion_template_generator_constraints",
+      "community": 30,
+      "norm_label": "constraints"
+    },
+    {
+      "label": "Required Sections",
+      "file_type": "document",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L16",
+      "id": "prompts_notion_template_generator_required_sections",
+      "community": 30,
+      "norm_label": "required sections"
+    },
+    {
+      "label": "Output",
+      "file_type": "document",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L28",
+      "id": "prompts_notion_template_generator_output",
+      "community": 30,
+      "norm_label": "output"
+    },
+    {
+      "label": "shakti-system-intake.md",
+      "file_type": "document",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L1",
+      "id": "templates_notion_shakti_system_intake_md",
+      "community": 31,
+      "norm_label": "shakti-system-intake.md"
+    },
+    {
+      "label": "Sheetal \u2014 Shakti System Intake",
+      "file_type": "document",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L1",
+      "id": "notion_shakti_system_intake_sheetal_shakti_system_intake",
+      "community": 31,
+      "norm_label": "sheetal \u2014 shakti system intake"
+    },
+    {
+      "label": "Focus",
+      "file_type": "document",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L3",
+      "id": "notion_shakti_system_intake_focus",
+      "community": 31,
+      "norm_label": "focus"
+    },
+    {
+      "label": "Sections",
+      "file_type": "document",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L17",
+      "id": "notion_shakti_system_intake_sections",
+      "community": 31,
+      "norm_label": "sections"
+    },
+    {
+      "label": "Final Reflection Prompt",
+      "file_type": "document",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L29",
+      "id": "notion_shakti_system_intake_final_reflection_prompt",
+      "community": 31,
+      "norm_label": "final reflection prompt"
+    },
+    {
+      "label": "04-stripe-payment-status.spec.md",
+      "file_type": "document",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L1",
+      "id": "automations_n8n_04_stripe_payment_status_spec_md",
+      "community": 15,
+      "norm_label": "04-stripe-payment-status.spec.md"
+    },
+    {
+      "label": "04-stripe-payment-status",
+      "file_type": "document",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L1",
+      "id": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status",
+      "community": 15,
+      "norm_label": "04-stripe-payment-status"
+    },
+    {
+      "label": "Trigger",
+      "file_type": "document",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L3",
+      "id": "n8n_04_stripe_payment_status_spec_trigger",
+      "community": 15,
+      "norm_label": "trigger"
+    },
+    {
+      "label": "Inputs",
+      "file_type": "document",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L7",
+      "id": "n8n_04_stripe_payment_status_spec_inputs",
+      "community": 15,
+      "norm_label": "inputs"
+    },
+    {
+      "label": "Required Stripe Metadata",
+      "file_type": "document",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L18",
+      "id": "n8n_04_stripe_payment_status_spec_required_stripe_metadata",
+      "community": 15,
+      "norm_label": "required stripe metadata"
+    },
+    {
+      "label": "Actions",
+      "file_type": "document",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L26",
+      "id": "n8n_04_stripe_payment_status_spec_actions",
+      "community": 15,
+      "norm_label": "actions"
+    },
+    {
+      "label": "Write Guards",
+      "file_type": "document",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L35",
+      "id": "n8n_04_stripe_payment_status_spec_write_guards",
+      "community": 15,
+      "norm_label": "write guards"
+    },
+    {
+      "label": "03-blueprint-generator.spec.md",
+      "file_type": "document",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L1",
+      "id": "automations_n8n_03_blueprint_generator_spec_md",
+      "community": 16,
+      "norm_label": "03-blueprint-generator.spec.md"
+    },
+    {
+      "label": "03-blueprint-generator",
+      "file_type": "document",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L1",
+      "id": "n8n_03_blueprint_generator_spec_03_blueprint_generator",
+      "community": 16,
+      "norm_label": "03-blueprint-generator"
+    },
+    {
+      "label": "Trigger",
+      "file_type": "document",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L3",
+      "id": "n8n_03_blueprint_generator_spec_trigger",
+      "community": 16,
+      "norm_label": "trigger"
+    },
+    {
+      "label": "Inputs",
+      "file_type": "document",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L8",
+      "id": "n8n_03_blueprint_generator_spec_inputs",
+      "community": 16,
+      "norm_label": "inputs"
+    },
+    {
+      "label": "Actions",
+      "file_type": "document",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L18",
+      "id": "n8n_03_blueprint_generator_spec_actions",
+      "community": 16,
+      "norm_label": "actions"
+    },
+    {
+      "label": "Human Review Gate",
+      "file_type": "document",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L30",
+      "id": "n8n_03_blueprint_generator_spec_human_review_gate",
+      "community": 16,
+      "norm_label": "human review gate"
+    },
+    {
+      "label": "Error Handling",
+      "file_type": "document",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L36",
+      "id": "n8n_03_blueprint_generator_spec_error_handling",
+      "community": 16,
+      "norm_label": "error handling"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L1",
+      "id": "automations_n8n_readme_md",
+      "community": 17,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "n8n Workflows",
+      "file_type": "document",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L1",
+      "id": "n8n_readme_n8n_workflows",
+      "community": 17,
+      "norm_label": "n8n workflows"
+    },
+    {
+      "label": "Specs",
+      "file_type": "document",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L5",
+      "id": "n8n_readme_specs",
+      "community": 17,
+      "norm_label": "specs"
+    },
+    {
+      "label": "Workflow 1 \u2014 Client Intake Setup",
+      "file_type": "document",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L13",
+      "id": "n8n_readme_workflow_1_client_intake_setup",
+      "community": 17,
+      "norm_label": "workflow 1 \u2014 client intake setup"
+    },
+    {
+      "label": "Workflow 2 \u2014 Intake Sync",
+      "file_type": "document",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L27",
+      "id": "n8n_readme_workflow_2_intake_sync",
+      "community": 17,
+      "norm_label": "workflow 2 \u2014 intake sync"
+    },
+    {
+      "label": "Workflow 3 \u2014 Blueprint Generator",
+      "file_type": "document",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L38",
+      "id": "n8n_readme_workflow_3_blueprint_generator",
+      "community": 17,
+      "norm_label": "workflow 3 \u2014 blueprint generator"
+    },
+    {
+      "label": "Workflow 4 \u2014 Stripe Payment Status",
+      "file_type": "document",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L50",
+      "id": "n8n_readme_workflow_4_stripe_payment_status",
+      "community": 17,
+      "norm_label": "workflow 4 \u2014 stripe payment status"
+    },
+    {
+      "label": "workflow-env-map.md",
+      "file_type": "document",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L1",
+      "id": "automations_n8n_workflow_env_map_md",
+      "community": 12,
+      "norm_label": "workflow-env-map.md"
+    },
+    {
+      "label": "Workflow Environment Map",
+      "file_type": "document",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L1",
+      "id": "n8n_workflow_env_map_workflow_environment_map",
+      "community": 12,
+      "norm_label": "workflow environment map"
+    },
+    {
+      "label": "Airtable",
+      "file_type": "document",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L3",
+      "id": "n8n_workflow_env_map_airtable",
+      "community": 12,
+      "norm_label": "airtable"
+    },
+    {
+      "label": "Notion",
+      "file_type": "document",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L14",
+      "id": "n8n_workflow_env_map_notion",
+      "community": 12,
+      "norm_label": "notion"
+    },
+    {
+      "label": "AI",
+      "file_type": "document",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L20",
+      "id": "n8n_workflow_env_map_ai",
+      "community": 12,
+      "norm_label": "ai"
+    },
+    {
+      "label": "Stripe",
+      "file_type": "document",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L25",
+      "id": "n8n_workflow_env_map_stripe",
+      "community": 12,
+      "norm_label": "stripe"
+    },
+    {
+      "label": "Notifications",
+      "file_type": "document",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L33",
+      "id": "n8n_workflow_env_map_notifications",
+      "community": 12,
+      "norm_label": "notifications"
+    },
+    {
+      "label": "App",
+      "file_type": "document",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L38",
+      "id": "n8n_workflow_env_map_app",
+      "community": 12,
+      "norm_label": "app"
+    },
+    {
+      "label": "02-intake-sync.spec.md",
+      "file_type": "document",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L1",
+      "id": "automations_n8n_02_intake_sync_spec_md",
+      "community": 13,
+      "norm_label": "02-intake-sync.spec.md"
+    },
+    {
+      "label": "02-intake-sync",
+      "file_type": "document",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L1",
+      "id": "n8n_02_intake_sync_spec_02_intake_sync",
+      "community": 13,
+      "norm_label": "02-intake-sync"
+    },
+    {
+      "label": "Trigger",
+      "file_type": "document",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L3",
+      "id": "n8n_02_intake_sync_spec_trigger",
+      "community": 13,
+      "norm_label": "trigger"
+    },
+    {
+      "label": "Fallback",
+      "file_type": "document",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L7",
+      "id": "n8n_02_intake_sync_spec_fallback",
+      "community": 13,
+      "norm_label": "fallback"
+    },
+    {
+      "label": "Inputs",
+      "file_type": "document",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L11",
+      "id": "n8n_02_intake_sync_spec_inputs",
+      "community": 13,
+      "norm_label": "inputs"
+    },
+    {
+      "label": "Actions",
+      "file_type": "document",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L18",
+      "id": "n8n_02_intake_sync_spec_actions",
+      "community": 13,
+      "norm_label": "actions"
+    },
+    {
+      "label": "Upsert Key",
+      "file_type": "document",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L26",
+      "id": "n8n_02_intake_sync_spec_upsert_key",
+      "community": 13,
+      "norm_label": "upsert key"
+    },
+    {
+      "label": "Write Guards",
+      "file_type": "document",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L34",
+      "id": "n8n_02_intake_sync_spec_write_guards",
+      "community": 13,
+      "norm_label": "write guards"
+    },
+    {
+      "label": "01-client-intake-setup.spec.md",
+      "file_type": "document",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L1",
+      "id": "automations_n8n_01_client_intake_setup_spec_md",
+      "community": 18,
+      "norm_label": "01-client-intake-setup.spec.md"
+    },
+    {
+      "label": "01-client-intake-setup",
+      "file_type": "document",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L1",
+      "id": "n8n_01_client_intake_setup_spec_01_client_intake_setup",
+      "community": 18,
+      "norm_label": "01-client-intake-setup"
+    },
+    {
+      "label": "Trigger",
+      "file_type": "document",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L3",
+      "id": "n8n_01_client_intake_setup_spec_trigger",
+      "community": 18,
+      "norm_label": "trigger"
+    },
+    {
+      "label": "Inputs",
+      "file_type": "document",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L8",
+      "id": "n8n_01_client_intake_setup_spec_inputs",
+      "community": 18,
+      "norm_label": "inputs"
+    },
+    {
+      "label": "Actions",
+      "file_type": "document",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L17",
+      "id": "n8n_01_client_intake_setup_spec_actions",
+      "community": 18,
+      "norm_label": "actions"
+    },
+    {
+      "label": "Template Mapping",
+      "file_type": "document",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L27",
+      "id": "n8n_01_client_intake_setup_spec_template_mapping",
+      "community": 18,
+      "norm_label": "template mapping"
+    },
+    {
+      "label": "Write Guards",
+      "file_type": "document",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L36",
+      "id": "n8n_01_client_intake_setup_spec_write_guards",
+      "community": 18,
+      "norm_label": "write guards"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L1",
+      "id": "skills_client_clarity_intake_os_skill_md",
+      "community": 19,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Skill: Client Clarity Intake OS",
+      "file_type": "document",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L1",
+      "id": "client_clarity_intake_os_skill_skill_client_clarity_intake_os",
+      "community": 19,
+      "norm_label": "skill: client clarity intake os"
+    },
+    {
+      "label": "Purpose",
+      "file_type": "document",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L3",
+      "id": "client_clarity_intake_os_skill_purpose",
+      "community": 19,
+      "norm_label": "purpose"
+    },
+    {
+      "label": "Core Workflow",
+      "file_type": "document",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L7",
+      "id": "client_clarity_intake_os_skill_core_workflow",
+      "community": 19,
+      "norm_label": "core workflow"
+    },
+    {
+      "label": "Tools",
+      "file_type": "document",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L11",
+      "id": "client_clarity_intake_os_skill_tools",
+      "community": 19,
+      "norm_label": "tools"
+    },
+    {
+      "label": "Rules",
+      "file_type": "document",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L19",
+      "id": "client_clarity_intake_os_skill_rules",
+      "community": 19,
+      "norm_label": "rules"
+    },
+    {
+      "label": "Repo Contracts",
+      "file_type": "document",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L35",
+      "id": "client_clarity_intake_os_skill_repo_contracts",
+      "community": 19,
+      "norm_label": "repo contracts"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L1",
+      "id": "skills_proposal_builder_skill_md",
+      "community": 26,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Skill: Proposal Builder",
+      "file_type": "document",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L1",
+      "id": "proposal_builder_skill_skill_proposal_builder",
+      "community": 26,
+      "norm_label": "skill: proposal builder"
+    },
+    {
+      "label": "Purpose",
+      "file_type": "document",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L3",
+      "id": "proposal_builder_skill_purpose",
+      "community": 26,
+      "norm_label": "purpose"
+    },
+    {
+      "label": "Inputs",
+      "file_type": "document",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L7",
+      "id": "proposal_builder_skill_inputs",
+      "community": 26,
+      "norm_label": "inputs"
+    },
+    {
+      "label": "Rules",
+      "file_type": "document",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L15",
+      "id": "proposal_builder_skill_rules",
+      "community": 26,
+      "norm_label": "rules"
+    },
+    {
+      "label": "Source Prompt",
+      "file_type": "document",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L24",
+      "id": "proposal_builder_skill_source_prompt",
+      "community": 26,
+      "norm_label": "source prompt"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L1",
+      "id": "skills_blueprint_extractor_skill_md",
+      "community": 20,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Skill: Blueprint Extractor",
+      "file_type": "document",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L1",
+      "id": "blueprint_extractor_skill_skill_blueprint_extractor",
+      "community": 20,
+      "norm_label": "skill: blueprint extractor"
+    },
+    {
+      "label": "Purpose",
+      "file_type": "document",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L3",
+      "id": "blueprint_extractor_skill_purpose",
+      "community": 20,
+      "norm_label": "purpose"
+    },
+    {
+      "label": "Inputs",
+      "file_type": "document",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L7",
+      "id": "blueprint_extractor_skill_inputs",
+      "community": 20,
+      "norm_label": "inputs"
+    },
+    {
+      "label": "Rules",
+      "file_type": "document",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L15",
+      "id": "blueprint_extractor_skill_rules",
+      "community": 20,
+      "norm_label": "rules"
+    },
+    {
+      "label": "Validation",
+      "file_type": "document",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L26",
+      "id": "blueprint_extractor_skill_validation",
+      "community": 20,
+      "norm_label": "validation"
+    },
+    {
+      "label": "code:bash (node scripts/validate-blueprint-json.js path/to/output.json)",
+      "file_type": "document",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L30",
+      "id": "blueprint_extractor_skill_codeblock_1",
+      "community": 20,
+      "norm_label": "code:bash (node scripts/validate-blueprint-json.js path/to/output.json)"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L1",
+      "id": "skills_notion_intake_builder_skill_md",
+      "community": 32,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Skill: Notion Intake Builder",
+      "file_type": "document",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L1",
+      "id": "notion_intake_builder_skill_skill_notion_intake_builder",
+      "community": 32,
+      "norm_label": "skill: notion intake builder"
+    },
+    {
+      "label": "Purpose",
+      "file_type": "document",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L3",
+      "id": "notion_intake_builder_skill_purpose",
+      "community": 32,
+      "norm_label": "purpose"
+    },
+    {
+      "label": "Source Files",
+      "file_type": "document",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L7",
+      "id": "notion_intake_builder_skill_source_files",
+      "community": 32,
+      "norm_label": "source files"
+    },
+    {
+      "label": "Rules",
+      "file_type": "document",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L15",
+      "id": "notion_intake_builder_skill_rules",
+      "community": 32,
+      "norm_label": "rules"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-env.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_validate_env_js",
+      "target": "scripts_validate_env_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-env.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "scripts_validate_env_js",
+      "target": "scripts_validate_env_missing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_fs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_schemapath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_errors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_typeof",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_actualtype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-blueprint-json.js",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "scripts_validate_blueprint_json_js",
+      "target": "scripts_validate_blueprint_json_itemtype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_generate_client_slug_js",
+      "target": "scripts_generate_client_slug_clientname_projectname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "scripts_generate_client_slug_js",
+      "target": "scripts_generate_client_slug_stopwords",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "scripts_generate_client_slug_js",
+      "target": "scripts_generate_client_slug_words",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "scripts_generate_client_slug_js",
+      "target": "scripts_generate_client_slug_clientwords",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "scripts_generate_client_slug_js",
+      "target": "scripts_generate_client_slug_projectwords",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "scripts_generate_client_slug_js",
+      "target": "scripts_generate_client_slug_slugwords",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "scripts_generate_client_slug_js",
+      "target": "scripts_generate_client_slug_seen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-client-slug.js",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "scripts_generate_client_slug_js",
+      "target": "scripts_generate_client_slug_slug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_core_workflow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_current_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_repo_map",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_required_environment_variables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_airtable_tables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_notion_target",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_workflow_order",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_manual_test_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_not_yet_automated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_operating_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_readme_first_build_recommendation_logic",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_core_workflow",
+      "target": "client_clarity_intake_os_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_repo_map",
+      "target": "client_clarity_intake_os_readme_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_setup",
+      "target": "client_clarity_intake_os_readme_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_setup",
+      "target": "client_clarity_intake_os_readme_codeblock_4",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_readme_setup",
+      "target": "client_clarity_intake_os_readme_codeblock_5",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_md",
+      "target": "client_clarity_intake_os_agents_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/shaun-graffiti-media/intake-template.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "clients_shaun_graffiti_media_intake_template_md",
+      "target": "shaun_graffiti_media_intake_template_shaun_graffiti_media_engine_intake_template",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/shaun-graffiti-media/intake-template.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "shaun_graffiti_media_intake_template_shaun_graffiti_media_engine_intake_template",
+      "target": "shaun_graffiti_media_intake_template_specific_emphasis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/shaun-graffiti-media/intake-template.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "shaun_graffiti_media_intake_template_shaun_graffiti_media_engine_intake_template",
+      "target": "shaun_graffiti_media_intake_template_guardrails",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/shaun-graffiti-media/handoff.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "clients_shaun_graffiti_media_handoff_md",
+      "target": "shaun_graffiti_media_handoff_shaun_graffiti_media_engine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/shaun-graffiti-media/handoff.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "shaun_graffiti_media_handoff_shaun_graffiti_media_engine",
+      "target": "shaun_graffiti_media_handoff_first_pass_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/sheetal-shakti-system/intake-template.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "clients_sheetal_shakti_system_intake_template_md",
+      "target": "sheetal_shakti_system_intake_template_sheetal_shakti_system_intake_template",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/sheetal-shakti-system/intake-template.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "sheetal_shakti_system_intake_template_sheetal_shakti_system_intake_template",
+      "target": "sheetal_shakti_system_intake_template_specific_emphasis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/sheetal-shakti-system/intake-template.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "sheetal_shakti_system_intake_template_sheetal_shakti_system_intake_template",
+      "target": "sheetal_shakti_system_intake_template_guardrails",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "clients_sheetal_shakti_system_handoff_md",
+      "target": "sheetal_shakti_system_handoff_sheetal_shakti_system_handoff",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "sheetal_shakti_system_handoff_sheetal_shakti_system_handoff",
+      "target": "sheetal_shakti_system_handoff_archetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "sheetal_shakti_system_handoff_sheetal_shakti_system_handoff",
+      "target": "sheetal_shakti_system_handoff_focus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "sheetal_shakti_system_handoff_sheetal_shakti_system_handoff",
+      "target": "sheetal_shakti_system_handoff_operating_question",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/sheetal-shakti-system/handoff.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "sheetal_shakti_system_handoff_sheetal_shakti_system_handoff",
+      "target": "sheetal_shakti_system_handoff_first_pass_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "clients_theo_howling_mune_proposal_notes_md",
+      "target": "theo_howling_mune_proposal_notes_theo_howling_mune_proposal_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "theo_howling_mune_proposal_notes_theo_howling_mune_proposal_notes",
+      "target": "theo_howling_mune_proposal_notes_proposal_boundary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "theo_howling_mune_proposal_notes_theo_howling_mune_proposal_notes",
+      "target": "theo_howling_mune_proposal_notes_likely_proposal_angle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "theo_howling_mune_proposal_notes_theo_howling_mune_proposal_notes",
+      "target": "theo_howling_mune_proposal_notes_must_confirm_before_proposal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/proposal-notes.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "theo_howling_mune_proposal_notes_theo_howling_mune_proposal_notes",
+      "target": "theo_howling_mune_proposal_notes_do_not_invent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "clients_theo_howling_mune_readme_md",
+      "target": "theo_howling_mune_readme_theo_howling_mune",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "theo_howling_mune_readme_theo_howling_mune",
+      "target": "theo_howling_mune_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "theo_howling_mune_readme_theo_howling_mune",
+      "target": "theo_howling_mune_readme_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "theo_howling_mune_readme_theo_howling_mune",
+      "target": "theo_howling_mune_readme_boundary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "theo_howling_mune_readme_theo_howling_mune",
+      "target": "theo_howling_mune_readme_os_loop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "theo_howling_mune_readme_theo_howling_mune",
+      "target": "theo_howling_mune_readme_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/README.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "theo_howling_mune_readme_os_loop",
+      "target": "theo_howling_mune_readme_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "clients_theo_howling_mune_handoff_md",
+      "target": "theo_howling_mune_handoff_theo_howling_mune_handoff",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "theo_howling_mune_handoff_theo_howling_mune_handoff",
+      "target": "theo_howling_mune_handoff_archetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "theo_howling_mune_handoff_theo_howling_mune_handoff",
+      "target": "theo_howling_mune_handoff_focus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "theo_howling_mune_handoff_theo_howling_mune_handoff",
+      "target": "theo_howling_mune_handoff_operating_question",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "theo_howling_mune_handoff_theo_howling_mune_handoff",
+      "target": "theo_howling_mune_handoff_first_pass_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "theo_howling_mune_handoff_theo_howling_mune_handoff",
+      "target": "theo_howling_mune_handoff_dedicated_implementation_repo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "clients/theo-howling-mune/handoff.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "theo_howling_mune_handoff_dedicated_implementation_repo",
+      "target": "theo_howling_mune_handoff_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/n8n-workflows.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_n8n_workflows_md",
+      "target": "docs_n8n_workflows_n8n_workflows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/n8n-workflows.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "docs_n8n_workflows_n8n_workflows",
+      "target": "docs_n8n_workflows_workflow_order",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/n8n-workflows.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "docs_n8n_workflows_n8n_workflows",
+      "target": "docs_n8n_workflows_safety_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_airtable_schema_md",
+      "target": "docs_airtable_schema_airtable_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "docs_airtable_schema_airtable_schema",
+      "target": "docs_airtable_schema_client_clarity_os_clients",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "docs_airtable_schema_airtable_schema",
+      "target": "docs_airtable_schema_client_clarity_os_intake_responses",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "docs_airtable_schema_airtable_schema",
+      "target": "docs_airtable_schema_client_clarity_os_blueprint_outputs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "docs_airtable_schema_airtable_schema",
+      "target": "docs_airtable_schema_client_clarity_os_assets_data_room",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "docs_airtable_schema_airtable_schema",
+      "target": "docs_airtable_schema_client_clarity_os_build_tasks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/airtable-schema.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "docs_airtable_schema_airtable_schema",
+      "target": "docs_airtable_schema_client_clarity_os_master_schema_reference",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/testing-checklist.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_testing_checklist_md",
+      "target": "docs_testing_checklist_testing_checklist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/testing-checklist.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "docs_testing_checklist_testing_checklist",
+      "target": "docs_testing_checklist_local_scaffold_checks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/testing-checklist.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "docs_testing_checklist_testing_checklist",
+      "target": "docs_testing_checklist_production_readiness_gate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_architecture_md",
+      "target": "docs_architecture_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_architecture_architecture",
+      "target": "docs_architecture_purpose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "docs_architecture_architecture",
+      "target": "docs_architecture_system_flow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "docs_architecture_architecture",
+      "target": "docs_architecture_layer_responsibilities",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "docs_architecture_architecture",
+      "target": "docs_architecture_invariants",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/architecture.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "docs_architecture_system_flow",
+      "target": "docs_architecture_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_notion_schema_md",
+      "target": "docs_notion_schema_notion_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "docs_notion_schema_notion_schema",
+      "target": "docs_notion_schema_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "docs_notion_schema_notion_schema",
+      "target": "docs_notion_schema_views",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/notion-schema.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "docs_notion_schema_notion_schema",
+      "target": "docs_notion_schema_templates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_md",
+      "target": "docs_implementation_plan_implementation_plan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_implementation_plan",
+      "target": "docs_implementation_plan_stage_0_repo_scaffold",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_implementation_plan",
+      "target": "docs_implementation_plan_stage_1_notion_intake_database",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_implementation_plan",
+      "target": "docs_implementation_plan_stage_2_airtable_contract_verification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_implementation_plan",
+      "target": "docs_implementation_plan_stage_3_ai_blueprint_extraction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_implementation_plan",
+      "target": "docs_implementation_plan_stage_4_n8n_workflow_wiring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_implementation_plan",
+      "target": "docs_implementation_plan_stage_5_stripe_payment_stages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_implementation_plan",
+      "target": "docs_implementation_plan_stage_6_build_task_execution",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_implementation_plan",
+      "target": "docs_implementation_plan_first_live_implementation_example_theo_howling_mune",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_first_live_implementation_example_theo_howling_mune",
+      "target": "docs_implementation_plan_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/implementation-plan.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "docs_implementation_plan_first_live_implementation_example_theo_howling_mune",
+      "target": "docs_implementation_plan_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_sync_map_md",
+      "target": "docs_sync_map_sync_map",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_sync_map_sync_map",
+      "target": "docs_sync_map_client_identity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "docs_sync_map_sync_map",
+      "target": "docs_sync_map_notion_to_airtable_intake_mapping",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "docs_sync_map_sync_map",
+      "target": "docs_sync_map_ai_output_to_airtable_blueprint_mapping",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/sync-map.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "docs_sync_map_sync_map",
+      "target": "docs_sync_map_stripe_to_airtable_mapping",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_stripe_payment_flow_md",
+      "target": "docs_stripe_payment_flow_stripe_payment_flow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "docs_stripe_payment_flow_stripe_payment_flow",
+      "target": "docs_stripe_payment_flow_stages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "docs_stripe_payment_flow_stripe_payment_flow",
+      "target": "docs_stripe_payment_flow_required_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "docs_stripe_payment_flow_stripe_payment_flow",
+      "target": "docs_stripe_payment_flow_webhook_behavior",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/stripe-payment-flow.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "docs_stripe_payment_flow_stripe_payment_flow",
+      "target": "docs_stripe_payment_flow_human_review_boundary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_handover_md",
+      "target": "docs_handover_client_clarity_intake_os_project_handover",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "docs_handover_client_clarity_intake_os_project_handover",
+      "target": "docs_handover_core_workflow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "docs_handover_client_clarity_intake_os_project_handover",
+      "target": "docs_handover_proven_archetypes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "docs_handover_client_clarity_intake_os_project_handover",
+      "target": "docs_handover_current_implementation_state",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "docs_handover_client_clarity_intake_os_project_handover",
+      "target": "docs_handover_system_layers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "docs_handover_client_clarity_intake_os_project_handover",
+      "target": "docs_handover_agent_stop_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "docs_handover_client_clarity_intake_os_project_handover",
+      "target": "docs_handover_master_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "docs_handover_core_workflow",
+      "target": "docs_handover_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "docs_handover_proven_archetypes",
+      "target": "docs_handover_theo_creator_healer_os",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "docs_handover_proven_archetypes",
+      "target": "docs_handover_sheetal_shakti_system_os",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/handover.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "docs_handover_proven_archetypes",
+      "target": "docs_handover_shaun_graffiti_media_engine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "schemas_notion_generic_blueprint_template_md",
+      "target": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_opening",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_origin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_work_authority",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_people_icp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_offer_revenue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_resistance_boundaries",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_expression_delivery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_vision",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_reality_check",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/generic-blueprint.template.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "notion_generic_blueprint_template_generic_client_blueprint_intake",
+      "target": "notion_generic_blueprint_template_final_reflection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "schemas_notion_creator_healer_template_md",
+      "target": "notion_creator_healer_template_creator_healer_intake",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_opening",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_origin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_work_authority",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_people_icp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_offer_revenue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_resistance_boundaries",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_expression_delivery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_vision",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_reality_check",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/creator-healer.template.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "notion_creator_healer_template_creator_healer_intake",
+      "target": "notion_creator_healer_template_final_reflection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "schemas_notion_media_engine_template_md",
+      "target": "notion_media_engine_template_media_engine_intake",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_opening",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_origin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_work_authority",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_people_icp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_offer_revenue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_resistance_boundaries",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_expression_delivery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_vision",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_reality_check",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/media-engine.template.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "notion_media_engine_template_media_engine_intake",
+      "target": "notion_media_engine_template_final_reflection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "schemas_notion_shakti_system_template_md",
+      "target": "notion_shakti_system_template_shakti_system_intake",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_opening",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_origin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_work_authority",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_people_icp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_offer_revenue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_resistance_boundaries",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_expression_delivery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_vision",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_reality_check",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schemas/notion/shakti-system.template.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "notion_shakti_system_template_shakti_system_intake",
+      "target": "notion_shakti_system_template_final_reflection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "prompts_codex_operator_prompt_md",
+      "target": "prompts_codex_operator_prompt_codex_operator_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "prompts_codex_operator_prompt_codex_operator_prompt",
+      "target": "prompts_codex_operator_prompt_mission",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "prompts_codex_operator_prompt_codex_operator_prompt",
+      "target": "prompts_codex_operator_prompt_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/codex-operator-prompt.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "prompts_codex_operator_prompt_codex_operator_prompt",
+      "target": "prompts_codex_operator_prompt_validation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "prompts_proposal_generator_md",
+      "target": "prompts_proposal_generator_proposal_generator_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "prompts_proposal_generator_proposal_generator_prompt",
+      "target": "prompts_proposal_generator_inputs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "prompts_proposal_generator_proposal_generator_prompt",
+      "target": "prompts_proposal_generator_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/proposal-generator.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "prompts_proposal_generator_proposal_generator_prompt",
+      "target": "prompts_proposal_generator_sections",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "prompts_ai_blueprint_extraction_md",
+      "target": "prompts_ai_blueprint_extraction_ai_blueprint_extraction_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "prompts_ai_blueprint_extraction_ai_blueprint_extraction_prompt",
+      "target": "prompts_ai_blueprint_extraction_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "prompts_ai_blueprint_extraction_ai_blueprint_extraction_prompt",
+      "target": "prompts_ai_blueprint_extraction_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "prompts_ai_blueprint_extraction_ai_blueprint_extraction_prompt",
+      "target": "prompts_ai_blueprint_extraction_input_blocks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/ai-blueprint-extraction.md",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "prompts_ai_blueprint_extraction_ai_blueprint_extraction_prompt",
+      "target": "prompts_ai_blueprint_extraction_output_quality_bar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "prompts_notion_template_generator_md",
+      "target": "prompts_notion_template_generator_notion_template_generator_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "prompts_notion_template_generator_notion_template_generator_prompt",
+      "target": "prompts_notion_template_generator_constraints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "prompts_notion_template_generator_notion_template_generator_prompt",
+      "target": "prompts_notion_template_generator_required_sections",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "prompts/notion-template-generator.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "prompts_notion_template_generator_notion_template_generator_prompt",
+      "target": "prompts_notion_template_generator_output",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "templates_notion_shakti_system_intake_md",
+      "target": "notion_shakti_system_intake_sheetal_shakti_system_intake",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "notion_shakti_system_intake_sheetal_shakti_system_intake",
+      "target": "notion_shakti_system_intake_focus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "notion_shakti_system_intake_sheetal_shakti_system_intake",
+      "target": "notion_shakti_system_intake_sections",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "templates/notion/shakti-system-intake.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "notion_shakti_system_intake_sheetal_shakti_system_intake",
+      "target": "notion_shakti_system_intake_final_reflection_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "automations_n8n_04_stripe_payment_status_spec_md",
+      "target": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status",
+      "target": "n8n_04_stripe_payment_status_spec_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status",
+      "target": "n8n_04_stripe_payment_status_spec_inputs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status",
+      "target": "n8n_04_stripe_payment_status_spec_required_stripe_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status",
+      "target": "n8n_04_stripe_payment_status_spec_actions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status",
+      "target": "n8n_04_stripe_payment_status_spec_write_guards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "automations_n8n_03_blueprint_generator_spec_md",
+      "target": "n8n_03_blueprint_generator_spec_03_blueprint_generator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "n8n_03_blueprint_generator_spec_03_blueprint_generator",
+      "target": "n8n_03_blueprint_generator_spec_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "n8n_03_blueprint_generator_spec_03_blueprint_generator",
+      "target": "n8n_03_blueprint_generator_spec_inputs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "n8n_03_blueprint_generator_spec_03_blueprint_generator",
+      "target": "n8n_03_blueprint_generator_spec_actions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "n8n_03_blueprint_generator_spec_03_blueprint_generator",
+      "target": "n8n_03_blueprint_generator_spec_human_review_gate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/03-blueprint-generator.spec.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "n8n_03_blueprint_generator_spec_03_blueprint_generator",
+      "target": "n8n_03_blueprint_generator_spec_error_handling",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "automations_n8n_readme_md",
+      "target": "n8n_readme_n8n_workflows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "n8n_readme_n8n_workflows",
+      "target": "n8n_readme_specs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "n8n_readme_n8n_workflows",
+      "target": "n8n_readme_workflow_1_client_intake_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "n8n_readme_n8n_workflows",
+      "target": "n8n_readme_workflow_2_intake_sync",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "n8n_readme_n8n_workflows",
+      "target": "n8n_readme_workflow_3_blueprint_generator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/README.md",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "n8n_readme_n8n_workflows",
+      "target": "n8n_readme_workflow_4_stripe_payment_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "automations_n8n_workflow_env_map_md",
+      "target": "n8n_workflow_env_map_workflow_environment_map",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "n8n_workflow_env_map_workflow_environment_map",
+      "target": "n8n_workflow_env_map_airtable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "n8n_workflow_env_map_workflow_environment_map",
+      "target": "n8n_workflow_env_map_notion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "n8n_workflow_env_map_workflow_environment_map",
+      "target": "n8n_workflow_env_map_ai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "n8n_workflow_env_map_workflow_environment_map",
+      "target": "n8n_workflow_env_map_stripe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "n8n_workflow_env_map_workflow_environment_map",
+      "target": "n8n_workflow_env_map_notifications",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/workflow-env-map.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "n8n_workflow_env_map_workflow_environment_map",
+      "target": "n8n_workflow_env_map_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "automations_n8n_02_intake_sync_spec_md",
+      "target": "n8n_02_intake_sync_spec_02_intake_sync",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "n8n_02_intake_sync_spec_02_intake_sync",
+      "target": "n8n_02_intake_sync_spec_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "n8n_02_intake_sync_spec_02_intake_sync",
+      "target": "n8n_02_intake_sync_spec_fallback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "n8n_02_intake_sync_spec_02_intake_sync",
+      "target": "n8n_02_intake_sync_spec_inputs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "n8n_02_intake_sync_spec_02_intake_sync",
+      "target": "n8n_02_intake_sync_spec_actions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "n8n_02_intake_sync_spec_02_intake_sync",
+      "target": "n8n_02_intake_sync_spec_upsert_key",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/02-intake-sync.spec.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "n8n_02_intake_sync_spec_02_intake_sync",
+      "target": "n8n_02_intake_sync_spec_write_guards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "automations_n8n_01_client_intake_setup_spec_md",
+      "target": "n8n_01_client_intake_setup_spec_01_client_intake_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "n8n_01_client_intake_setup_spec_01_client_intake_setup",
+      "target": "n8n_01_client_intake_setup_spec_trigger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "n8n_01_client_intake_setup_spec_01_client_intake_setup",
+      "target": "n8n_01_client_intake_setup_spec_inputs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "n8n_01_client_intake_setup_spec_01_client_intake_setup",
+      "target": "n8n_01_client_intake_setup_spec_actions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "n8n_01_client_intake_setup_spec_01_client_intake_setup",
+      "target": "n8n_01_client_intake_setup_spec_template_mapping",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "automations/n8n/01-client-intake-setup.spec.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "n8n_01_client_intake_setup_spec_01_client_intake_setup",
+      "target": "n8n_01_client_intake_setup_spec_write_guards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "skills_client_clarity_intake_os_skill_md",
+      "target": "client_clarity_intake_os_skill_skill_client_clarity_intake_os",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_skill_skill_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_skill_purpose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_skill_skill_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_skill_core_workflow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_skill_skill_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_skill_tools",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_skill_skill_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_skill_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/client-clarity-intake-os/SKILL.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "client_clarity_intake_os_skill_skill_client_clarity_intake_os",
+      "target": "client_clarity_intake_os_skill_repo_contracts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "skills_proposal_builder_skill_md",
+      "target": "proposal_builder_skill_skill_proposal_builder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "proposal_builder_skill_skill_proposal_builder",
+      "target": "proposal_builder_skill_purpose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "proposal_builder_skill_skill_proposal_builder",
+      "target": "proposal_builder_skill_inputs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "proposal_builder_skill_skill_proposal_builder",
+      "target": "proposal_builder_skill_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/proposal-builder/SKILL.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "proposal_builder_skill_skill_proposal_builder",
+      "target": "proposal_builder_skill_source_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "skills_blueprint_extractor_skill_md",
+      "target": "blueprint_extractor_skill_skill_blueprint_extractor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "blueprint_extractor_skill_skill_blueprint_extractor",
+      "target": "blueprint_extractor_skill_purpose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "blueprint_extractor_skill_skill_blueprint_extractor",
+      "target": "blueprint_extractor_skill_inputs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "blueprint_extractor_skill_skill_blueprint_extractor",
+      "target": "blueprint_extractor_skill_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "blueprint_extractor_skill_skill_blueprint_extractor",
+      "target": "blueprint_extractor_skill_validation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/blueprint-extractor/SKILL.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "blueprint_extractor_skill_validation",
+      "target": "blueprint_extractor_skill_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "skills_notion_intake_builder_skill_md",
+      "target": "notion_intake_builder_skill_skill_notion_intake_builder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "notion_intake_builder_skill_skill_notion_intake_builder",
+      "target": "notion_intake_builder_skill_purpose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "notion_intake_builder_skill_skill_notion_intake_builder",
+      "target": "notion_intake_builder_skill_source_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills/notion-intake-builder/SKILL.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "notion_intake_builder_skill_skill_notion_intake_builder",
+      "target": "notion_intake_builder_skill_rules",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "b8ffb536761c43cdd6f5f391e347f015112345b6"
+}
