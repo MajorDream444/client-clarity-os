@@ -26,3 +26,13 @@ What is the simplest first build that lets the right people understand the work,
 - Identify what has already created trust or money.
 - Do not overbuild the full community/retreat pathway before the front door is clear.
 - Proposal pricing remains human-reviewed.
+
+## Dedicated Implementation Repo
+
+Theo V1 now has a dedicated local implementation scaffold:
+
+```text
+/Users/majordreamwilliams/Desktop/theo-howling-mune-client-flow-engine
+```
+
+Use that project for Theo-specific implementation files. Keep this folder as the generic Client Clarity OS reference/pointer.

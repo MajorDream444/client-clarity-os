@@ -51,3 +51,23 @@ Status: built in this repo.
 - Convert approved blueprint `thirty_day_plan` entries into Build Tasks.
 - Keep generated tasks staged, reviewable, and editable.
 - Do not start fulfillment until Stage 1 payment and human approval are confirmed.
+
+## First Live Implementation Example — Theo / Howling Mune
+
+Status: dedicated implementation scaffold created at:
+
+```text
+/Users/majordreamwilliams/Desktop/theo-howling-mune-client-flow-engine
+```
+
+Theo / Howling Mune is the first concrete V1 client implementation of this OS loop. The dedicated project owns the client-specific front door, intake routing, CRM fields, close flow, prompts, schemas, source index, and automation specs.
+
+This generic repo remains the reusable Client Clarity OS spine. The Theo repo is the live client layer that proves the loop:
+
+```text
+Client record -> Intake/source material -> Blueprint extraction -> Human review
+-> Proposal/SOW -> Stripe payment -> Build tasks -> Front door/intake/CRM
+-> Launch and optimization
+```
+
+Do not copy Theo-specific doctrine into generic templates unless it is explicitly generalized. Keep Sheetal, Shaun, and Theo language separate.
