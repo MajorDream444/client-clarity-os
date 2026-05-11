@@ -8,2601 +8,2601 @@
       "file_type": "code",
       "source_file": "scripts/validate-env.js",
       "source_location": "L1",
-      "id": "scripts_validate_env_js",
       "community": 37,
-      "norm_label": "validate-env.js"
+      "norm_label": "validate-env.js",
+      "id": "scripts_validate_env_js"
     },
     {
       "label": "required",
       "file_type": "code",
       "source_file": "scripts/validate-env.js",
       "source_location": "L3",
-      "id": "scripts_validate_env_required",
       "community": 37,
-      "norm_label": "required"
+      "norm_label": "required",
+      "id": "scripts_validate_env_required"
     },
     {
       "label": "missing",
       "file_type": "code",
       "source_file": "scripts/validate-env.js",
       "source_location": "L27",
-      "id": "scripts_validate_env_missing",
       "community": 37,
-      "norm_label": "missing"
+      "norm_label": "missing",
+      "id": "scripts_validate_env_missing"
     },
     {
       "label": "validate-blueprint-json.js",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L1",
-      "id": "scripts_validate_blueprint_json_js",
       "community": 7,
-      "norm_label": "validate-blueprint-json.js"
+      "norm_label": "validate-blueprint-json.js",
+      "id": "scripts_validate_blueprint_json_js"
     },
     {
       "label": "fs",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L3",
-      "id": "scripts_validate_blueprint_json_fs",
       "community": 7,
-      "norm_label": "fs"
+      "norm_label": "fs",
+      "id": "scripts_validate_blueprint_json_fs"
     },
     {
       "label": "path",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L4",
-      "id": "scripts_validate_blueprint_json_path",
       "community": 7,
-      "norm_label": "path"
+      "norm_label": "path",
+      "id": "scripts_validate_blueprint_json_path"
     },
     {
       "label": "schemaPath",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L13",
-      "id": "scripts_validate_blueprint_json_schemapath",
       "community": 7,
-      "norm_label": "schemapath"
+      "norm_label": "schemapath",
+      "id": "scripts_validate_blueprint_json_schemapath"
     },
     {
       "label": "schema",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L14",
-      "id": "scripts_validate_blueprint_json_schema",
       "community": 7,
-      "norm_label": "schema"
+      "norm_label": "schema",
+      "id": "scripts_validate_blueprint_json_schema"
     },
     {
       "label": "data",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L15",
-      "id": "scripts_validate_blueprint_json_data",
       "community": 7,
-      "norm_label": "data"
+      "norm_label": "data",
+      "id": "scripts_validate_blueprint_json_data"
     },
     {
       "label": "errors",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L17",
-      "id": "scripts_validate_blueprint_json_errors",
       "community": 7,
-      "norm_label": "errors"
+      "norm_label": "errors",
+      "id": "scripts_validate_blueprint_json_errors"
     },
     {
       "label": "typeOf()",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L19",
-      "id": "scripts_validate_blueprint_json_typeof",
       "community": 7,
-      "norm_label": "typeof()"
+      "norm_label": "typeof()",
+      "id": "scripts_validate_blueprint_json_typeof"
     },
     {
       "label": "actualType",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L42",
-      "id": "scripts_validate_blueprint_json_actualtype",
       "community": 7,
-      "norm_label": "actualtype"
+      "norm_label": "actualtype",
+      "id": "scripts_validate_blueprint_json_actualtype"
     },
     {
       "label": "itemType",
       "file_type": "code",
       "source_file": "scripts/validate-blueprint-json.js",
       "source_location": "L50",
-      "id": "scripts_validate_blueprint_json_itemtype",
       "community": 7,
-      "norm_label": "itemtype"
+      "norm_label": "itemtype",
+      "id": "scripts_validate_blueprint_json_itemtype"
     },
     {
       "label": "generate-client-slug.js",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L1",
-      "id": "scripts_generate_client_slug_js",
       "community": 8,
-      "norm_label": "generate-client-slug.js"
+      "norm_label": "generate-client-slug.js",
+      "id": "scripts_generate_client_slug_js"
     },
     {
       "label": "[clientName = \"\", projectName = \"\"]",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L3",
-      "id": "scripts_generate_client_slug_clientname_projectname",
       "community": 8,
-      "norm_label": "[clientname = \"\", projectname = \"\"]"
+      "norm_label": "[clientname = \"\", projectname = \"\"]",
+      "id": "scripts_generate_client_slug_clientname_projectname"
     },
     {
       "label": "stopWords",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L10",
-      "id": "scripts_generate_client_slug_stopwords",
       "community": 8,
-      "norm_label": "stopwords"
+      "norm_label": "stopwords",
+      "id": "scripts_generate_client_slug_stopwords"
     },
     {
       "label": "words()",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L22",
-      "id": "scripts_generate_client_slug_words",
       "community": 8,
-      "norm_label": "words()"
+      "norm_label": "words()",
+      "id": "scripts_generate_client_slug_words"
     },
     {
       "label": "clientWords",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L33",
-      "id": "scripts_generate_client_slug_clientwords",
       "community": 8,
-      "norm_label": "clientwords"
+      "norm_label": "clientwords",
+      "id": "scripts_generate_client_slug_clientwords"
     },
     {
       "label": "projectWords",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L34",
-      "id": "scripts_generate_client_slug_projectwords",
       "community": 8,
-      "norm_label": "projectwords"
+      "norm_label": "projectwords",
+      "id": "scripts_generate_client_slug_projectwords"
     },
     {
       "label": "slugWords",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L36",
-      "id": "scripts_generate_client_slug_slugwords",
       "community": 8,
-      "norm_label": "slugwords"
+      "norm_label": "slugwords",
+      "id": "scripts_generate_client_slug_slugwords"
     },
     {
       "label": "seen",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L38",
-      "id": "scripts_generate_client_slug_seen",
       "community": 8,
-      "norm_label": "seen"
+      "norm_label": "seen",
+      "id": "scripts_generate_client_slug_seen"
     },
     {
       "label": "slug",
       "file_type": "code",
       "source_file": "scripts/generate-client-slug.js",
       "source_location": "L39",
-      "id": "scripts_generate_client_slug_slug",
       "community": 8,
-      "norm_label": "slug"
+      "norm_label": "slug",
+      "id": "scripts_generate_client_slug_slug"
     },
     {
       "label": "README.md",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L1",
-      "id": "readme_md",
       "community": 0,
-      "norm_label": "readme.md"
+      "norm_label": "readme.md",
+      "id": "readme_md"
     },
     {
       "label": "Client Clarity Intake OS",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L1",
-      "id": "client_clarity_intake_os_readme_client_clarity_intake_os",
       "community": 0,
-      "norm_label": "client clarity intake os"
+      "norm_label": "client clarity intake os",
+      "id": "client_clarity_intake_os_readme_client_clarity_intake_os"
     },
     {
       "label": "Core Workflow",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L11",
-      "id": "client_clarity_intake_os_readme_core_workflow",
       "community": 0,
-      "norm_label": "core workflow"
+      "norm_label": "core workflow",
+      "id": "client_clarity_intake_os_readme_core_workflow"
     },
     {
       "label": "code:text (Client)",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L13",
-      "id": "client_clarity_intake_os_readme_codeblock_1",
       "community": 0,
-      "norm_label": "code:text (client)"
+      "norm_label": "code:text (client)",
+      "id": "client_clarity_intake_os_readme_codeblock_1"
     },
     {
       "label": "Current Stack",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L26",
-      "id": "client_clarity_intake_os_readme_current_stack",
       "community": 0,
-      "norm_label": "current stack"
+      "norm_label": "current stack",
+      "id": "client_clarity_intake_os_readme_current_stack"
     },
     {
       "label": "Repo Map",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L35",
-      "id": "client_clarity_intake_os_readme_repo_map",
       "community": 0,
-      "norm_label": "repo map"
+      "norm_label": "repo map",
+      "id": "client_clarity_intake_os_readme_repo_map"
     },
     {
       "label": "code:text (docs/                 Architecture, implementation plan, sch)",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L37",
-      "id": "client_clarity_intake_os_readme_codeblock_2",
       "community": 0,
-      "norm_label": "code:text (docs/                 architecture, implementation plan, sch)"
+      "norm_label": "code:text (docs/                 architecture, implementation plan, sch)",
+      "id": "client_clarity_intake_os_readme_codeblock_2"
     },
     {
       "label": "Setup",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L48",
-      "id": "client_clarity_intake_os_readme_setup",
       "community": 0,
-      "norm_label": "setup"
+      "norm_label": "setup",
+      "id": "client_clarity_intake_os_readme_setup"
     },
     {
       "label": "code:bash (node scripts/validate-env.js)",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L55",
-      "id": "client_clarity_intake_os_readme_codeblock_3",
       "community": 0,
-      "norm_label": "code:bash (node scripts/validate-env.js)"
+      "norm_label": "code:bash (node scripts/validate-env.js)",
+      "id": "client_clarity_intake_os_readme_codeblock_3"
     },
     {
       "label": "code:bash (node scripts/validate-blueprint-json.js path/to/blueprint-ou)",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L61",
-      "id": "client_clarity_intake_os_readme_codeblock_4",
       "community": 0,
-      "norm_label": "code:bash (node scripts/validate-blueprint-json.js path/to/blueprint-ou)"
+      "norm_label": "code:bash (node scripts/validate-blueprint-json.js path/to/blueprint-ou)",
+      "id": "client_clarity_intake_os_readme_codeblock_4"
     },
     {
       "label": "code:bash (node scripts/generate-client-slug.js \"Sheetal Kandola\" \"Shak)",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L67",
-      "id": "client_clarity_intake_os_readme_codeblock_5",
       "community": 0,
-      "norm_label": "code:bash (node scripts/generate-client-slug.js \"sheetal kandola\" \"shak)"
+      "norm_label": "code:bash (node scripts/generate-client-slug.js \"sheetal kandola\" \"shak)",
+      "id": "client_clarity_intake_os_readme_codeblock_5"
     },
     {
       "label": "Required Environment Variables",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L71",
-      "id": "client_clarity_intake_os_readme_required_environment_variables",
       "community": 0,
-      "norm_label": "required environment variables"
+      "norm_label": "required environment variables",
+      "id": "client_clarity_intake_os_readme_required_environment_variables"
     },
     {
       "label": "Airtable Tables",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L75",
-      "id": "client_clarity_intake_os_readme_airtable_tables",
       "community": 0,
-      "norm_label": "airtable tables"
+      "norm_label": "airtable tables",
+      "id": "client_clarity_intake_os_readme_airtable_tables"
     },
     {
       "label": "Notion Target",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L88",
-      "id": "client_clarity_intake_os_readme_notion_target",
       "community": 0,
-      "norm_label": "notion target"
+      "norm_label": "notion target",
+      "id": "client_clarity_intake_os_readme_notion_target"
     },
     {
       "label": "Workflow Order",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L101",
-      "id": "client_clarity_intake_os_readme_workflow_order",
       "community": 0,
-      "norm_label": "workflow order"
+      "norm_label": "workflow order",
+      "id": "client_clarity_intake_os_readme_workflow_order"
     },
     {
       "label": "Manual Test Path",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L110",
-      "id": "client_clarity_intake_os_readme_manual_test_path",
       "community": 0,
-      "norm_label": "manual test path"
+      "norm_label": "manual test path",
+      "id": "client_clarity_intake_os_readme_manual_test_path"
     },
     {
       "label": "Not Yet Automated",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L121",
-      "id": "client_clarity_intake_os_readme_not_yet_automated",
       "community": 0,
-      "norm_label": "not yet automated"
+      "norm_label": "not yet automated",
+      "id": "client_clarity_intake_os_readme_not_yet_automated"
     },
     {
       "label": "Operating Rules",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L131",
-      "id": "client_clarity_intake_os_readme_operating_rules",
       "community": 0,
-      "norm_label": "operating rules"
+      "norm_label": "operating rules",
+      "id": "client_clarity_intake_os_readme_operating_rules"
     },
     {
       "label": "First Build Recommendation Logic",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L145",
-      "id": "client_clarity_intake_os_readme_first_build_recommendation_logic",
       "community": 0,
-      "norm_label": "first build recommendation logic"
+      "norm_label": "first build recommendation logic",
+      "id": "client_clarity_intake_os_readme_first_build_recommendation_logic"
     },
     {
       "label": "AGENTS.md",
       "file_type": "document",
       "source_file": "AGENTS.md",
       "source_location": "L1",
-      "id": "agents_md",
       "community": 39,
-      "norm_label": "agents.md"
+      "norm_label": "agents.md",
+      "id": "agents_md"
     },
     {
       "label": "graphify",
       "file_type": "document",
       "source_file": "AGENTS.md",
       "source_location": "L1",
-      "id": "client_clarity_intake_os_agents_graphify",
       "community": 39,
-      "norm_label": "graphify"
+      "norm_label": "graphify",
+      "id": "client_clarity_intake_os_agents_graphify"
     },
     {
       "label": "intake-template.md",
       "file_type": "document",
       "source_file": "clients/shaun-graffiti-media/intake-template.md",
       "source_location": "L1",
-      "id": "clients_shaun_graffiti_media_intake_template_md",
       "community": 33,
-      "norm_label": "intake-template.md"
+      "norm_label": "intake-template.md",
+      "id": "clients_shaun_graffiti_media_intake_template_md"
     },
     {
       "label": "Shaun \u2014 Graffiti Media Engine Intake Template",
       "file_type": "document",
       "source_file": "clients/shaun-graffiti-media/intake-template.md",
       "source_location": "L1",
-      "id": "shaun_graffiti_media_intake_template_shaun_graffiti_media_engine_intake_template",
       "community": 33,
-      "norm_label": "shaun \u2014 graffiti media engine intake template"
+      "norm_label": "shaun \u2014 graffiti media engine intake template",
+      "id": "shaun_graffiti_media_intake_template_shaun_graffiti_media_engine_intake_template"
     },
     {
       "label": "Specific Emphasis",
       "file_type": "document",
       "source_file": "clients/shaun-graffiti-media/intake-template.md",
       "source_location": "L5",
-      "id": "shaun_graffiti_media_intake_template_specific_emphasis",
       "community": 33,
-      "norm_label": "specific emphasis"
+      "norm_label": "specific emphasis",
+      "id": "shaun_graffiti_media_intake_template_specific_emphasis"
     },
     {
       "label": "Guardrails",
       "file_type": "document",
       "source_file": "clients/shaun-graffiti-media/intake-template.md",
       "source_location": "L16",
-      "id": "shaun_graffiti_media_intake_template_guardrails",
       "community": 33,
-      "norm_label": "guardrails"
+      "norm_label": "guardrails",
+      "id": "shaun_graffiti_media_intake_template_guardrails"
     },
     {
       "label": "handoff.md",
       "file_type": "document",
       "source_file": "clients/shaun-graffiti-media/handoff.md",
       "source_location": "L1",
-      "id": "clients_shaun_graffiti_media_handoff_md",
       "community": 38,
-      "norm_label": "handoff.md"
+      "norm_label": "handoff.md",
+      "id": "clients_shaun_graffiti_media_handoff_md"
     },
     {
       "label": "Shaun \u2014 Graffiti Media Engine",
       "file_type": "document",
       "source_file": "clients/shaun-graffiti-media/handoff.md",
       "source_location": "L1",
-      "id": "shaun_graffiti_media_handoff_shaun_graffiti_media_engine",
       "community": 38,
-      "norm_label": "shaun \u2014 graffiti media engine"
+      "norm_label": "shaun \u2014 graffiti media engine",
+      "id": "shaun_graffiti_media_handoff_shaun_graffiti_media_engine"
     },
     {
       "label": "First-Pass Notes",
       "file_type": "document",
       "source_file": "clients/shaun-graffiti-media/handoff.md",
       "source_location": "L23",
-      "id": "shaun_graffiti_media_handoff_first_pass_notes",
       "community": 38,
-      "norm_label": "first-pass notes"
+      "norm_label": "first-pass notes",
+      "id": "shaun_graffiti_media_handoff_first_pass_notes"
     },
     {
       "label": "intake-template.md",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/intake-template.md",
       "source_location": "L1",
-      "id": "clients_sheetal_shakti_system_intake_template_md",
       "community": 34,
-      "norm_label": "intake-template.md"
+      "norm_label": "intake-template.md",
+      "id": "clients_sheetal_shakti_system_intake_template_md"
     },
     {
       "label": "Sheetal \u2014 Shakti System Intake Template",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/intake-template.md",
       "source_location": "L1",
-      "id": "sheetal_shakti_system_intake_template_sheetal_shakti_system_intake_template",
       "community": 34,
-      "norm_label": "sheetal \u2014 shakti system intake template"
+      "norm_label": "sheetal \u2014 shakti system intake template",
+      "id": "sheetal_shakti_system_intake_template_sheetal_shakti_system_intake_template"
     },
     {
       "label": "Specific Emphasis",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/intake-template.md",
       "source_location": "L5",
-      "id": "sheetal_shakti_system_intake_template_specific_emphasis",
       "community": 34,
-      "norm_label": "specific emphasis"
+      "norm_label": "specific emphasis",
+      "id": "sheetal_shakti_system_intake_template_specific_emphasis"
     },
     {
       "label": "Guardrails",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/intake-template.md",
       "source_location": "L16",
-      "id": "sheetal_shakti_system_intake_template_guardrails",
       "community": 34,
-      "norm_label": "guardrails"
+      "norm_label": "guardrails",
+      "id": "sheetal_shakti_system_intake_template_guardrails"
     },
     {
       "label": "handoff.md",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/handoff.md",
       "source_location": "L1",
-      "id": "clients_sheetal_shakti_system_handoff_md",
       "community": 21,
-      "norm_label": "handoff.md"
+      "norm_label": "handoff.md",
+      "id": "clients_sheetal_shakti_system_handoff_md"
     },
     {
       "label": "Sheetal \u2014 Shakti System Handoff",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/handoff.md",
       "source_location": "L1",
-      "id": "sheetal_shakti_system_handoff_sheetal_shakti_system_handoff",
       "community": 21,
-      "norm_label": "sheetal \u2014 shakti system handoff"
+      "norm_label": "sheetal \u2014 shakti system handoff",
+      "id": "sheetal_shakti_system_handoff_sheetal_shakti_system_handoff"
     },
     {
       "label": "Archetype",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/handoff.md",
       "source_location": "L3",
-      "id": "sheetal_shakti_system_handoff_archetype",
       "community": 21,
-      "norm_label": "archetype"
+      "norm_label": "archetype",
+      "id": "sheetal_shakti_system_handoff_archetype"
     },
     {
       "label": "Focus",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/handoff.md",
       "source_location": "L7",
-      "id": "sheetal_shakti_system_handoff_focus",
       "community": 21,
-      "norm_label": "focus"
+      "norm_label": "focus",
+      "id": "sheetal_shakti_system_handoff_focus"
     },
     {
       "label": "Operating Question",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/handoff.md",
       "source_location": "L17",
-      "id": "sheetal_shakti_system_handoff_operating_question",
       "community": 21,
-      "norm_label": "operating question"
+      "norm_label": "operating question",
+      "id": "sheetal_shakti_system_handoff_operating_question"
     },
     {
       "label": "First-Pass Notes",
       "file_type": "document",
       "source_file": "clients/sheetal-shakti-system/handoff.md",
       "source_location": "L21",
-      "id": "sheetal_shakti_system_handoff_first_pass_notes",
       "community": 21,
-      "norm_label": "first-pass notes"
+      "norm_label": "first-pass notes",
+      "id": "sheetal_shakti_system_handoff_first_pass_notes"
     },
     {
       "label": "proposal-notes.md",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/proposal-notes.md",
       "source_location": "L1",
-      "id": "clients_theo_howling_mune_proposal_notes_md",
       "community": 22,
-      "norm_label": "proposal-notes.md"
+      "norm_label": "proposal-notes.md",
+      "id": "clients_theo_howling_mune_proposal_notes_md"
     },
     {
       "label": "Theo \u2014 Howling Mune Proposal Notes",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/proposal-notes.md",
       "source_location": "L1",
-      "id": "theo_howling_mune_proposal_notes_theo_howling_mune_proposal_notes",
       "community": 22,
-      "norm_label": "theo \u2014 howling mune proposal notes"
+      "norm_label": "theo \u2014 howling mune proposal notes",
+      "id": "theo_howling_mune_proposal_notes_theo_howling_mune_proposal_notes"
     },
     {
       "label": "Proposal Boundary",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/proposal-notes.md",
       "source_location": "L3",
-      "id": "theo_howling_mune_proposal_notes_proposal_boundary",
       "community": 22,
-      "norm_label": "proposal boundary"
+      "norm_label": "proposal boundary",
+      "id": "theo_howling_mune_proposal_notes_proposal_boundary"
     },
     {
       "label": "Likely Proposal Angle",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/proposal-notes.md",
       "source_location": "L7",
-      "id": "theo_howling_mune_proposal_notes_likely_proposal_angle",
       "community": 22,
-      "norm_label": "likely proposal angle"
+      "norm_label": "likely proposal angle",
+      "id": "theo_howling_mune_proposal_notes_likely_proposal_angle"
     },
     {
       "label": "Must Confirm Before Proposal",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/proposal-notes.md",
       "source_location": "L11",
-      "id": "theo_howling_mune_proposal_notes_must_confirm_before_proposal",
       "community": 22,
-      "norm_label": "must confirm before proposal"
+      "norm_label": "must confirm before proposal",
+      "id": "theo_howling_mune_proposal_notes_must_confirm_before_proposal"
     },
     {
       "label": "Do Not Invent",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/proposal-notes.md",
       "source_location": "L20",
-      "id": "theo_howling_mune_proposal_notes_do_not_invent",
       "community": 22,
-      "norm_label": "do not invent"
+      "norm_label": "do not invent",
+      "id": "theo_howling_mune_proposal_notes_do_not_invent"
     },
     {
       "label": "README.md",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/README.md",
       "source_location": "L1",
-      "id": "clients_theo_howling_mune_readme_md",
       "community": 9,
-      "norm_label": "readme.md"
+      "norm_label": "readme.md",
+      "id": "clients_theo_howling_mune_readme_md"
     },
     {
       "label": "Theo / Howling Mune",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/README.md",
       "source_location": "L1",
-      "id": "theo_howling_mune_readme_theo_howling_mune",
       "community": 9,
-      "norm_label": "theo / howling mune"
+      "norm_label": "theo / howling mune",
+      "id": "theo_howling_mune_readme_theo_howling_mune"
     },
     {
       "label": "code:text (/Users/majordreamwilliams/Desktop/theo-howling-mune-client-f)",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/README.md",
       "source_location": "L7",
-      "id": "theo_howling_mune_readme_codeblock_1",
       "community": 9,
-      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)"
+      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)",
+      "id": "theo_howling_mune_readme_codeblock_1"
     },
     {
       "label": "code:text (https://github.com/MajorDream444/theo-howling-mune-client-fl)",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/README.md",
       "source_location": "L13",
-      "id": "theo_howling_mune_readme_codeblock_2",
       "community": 9,
-      "norm_label": "code:text (https://github.com/majordream444/theo-howling-mune-client-fl)"
+      "norm_label": "code:text (https://github.com/majordream444/theo-howling-mune-client-fl)",
+      "id": "theo_howling_mune_readme_codeblock_2"
     },
     {
       "label": "Boundary",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/README.md",
       "source_location": "L17",
-      "id": "theo_howling_mune_readme_boundary",
       "community": 9,
-      "norm_label": "boundary"
+      "norm_label": "boundary",
+      "id": "theo_howling_mune_readme_boundary"
     },
     {
       "label": "OS Loop",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/README.md",
       "source_location": "L21",
-      "id": "theo_howling_mune_readme_os_loop",
       "community": 9,
-      "norm_label": "os loop"
+      "norm_label": "os loop",
+      "id": "theo_howling_mune_readme_os_loop"
     },
     {
       "label": "code:text (Client record in Airtable)",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/README.md",
       "source_location": "L25",
-      "id": "theo_howling_mune_readme_codeblock_3",
       "community": 9,
-      "norm_label": "code:text (client record in airtable)"
+      "norm_label": "code:text (client record in airtable)",
+      "id": "theo_howling_mune_readme_codeblock_3"
     },
     {
       "label": "Rules",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/README.md",
       "source_location": "L37",
-      "id": "theo_howling_mune_readme_rules",
       "community": 9,
-      "norm_label": "rules"
+      "norm_label": "rules",
+      "id": "theo_howling_mune_readme_rules"
     },
     {
       "label": "handoff.md",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/handoff.md",
       "source_location": "L1",
-      "id": "clients_theo_howling_mune_handoff_md",
       "community": 10,
-      "norm_label": "handoff.md"
+      "norm_label": "handoff.md",
+      "id": "clients_theo_howling_mune_handoff_md"
     },
     {
       "label": "Theo \u2014 Howling Mune Handoff",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/handoff.md",
       "source_location": "L1",
-      "id": "theo_howling_mune_handoff_theo_howling_mune_handoff",
       "community": 10,
-      "norm_label": "theo \u2014 howling mune handoff"
+      "norm_label": "theo \u2014 howling mune handoff",
+      "id": "theo_howling_mune_handoff_theo_howling_mune_handoff"
     },
     {
       "label": "Archetype",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/handoff.md",
       "source_location": "L3",
-      "id": "theo_howling_mune_handoff_archetype",
       "community": 10,
-      "norm_label": "archetype"
+      "norm_label": "archetype",
+      "id": "theo_howling_mune_handoff_archetype"
     },
     {
       "label": "Focus",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/handoff.md",
       "source_location": "L7",
-      "id": "theo_howling_mune_handoff_focus",
       "community": 10,
-      "norm_label": "focus"
+      "norm_label": "focus",
+      "id": "theo_howling_mune_handoff_focus"
     },
     {
       "label": "Operating Question",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/handoff.md",
       "source_location": "L19",
-      "id": "theo_howling_mune_handoff_operating_question",
       "community": 10,
-      "norm_label": "operating question"
+      "norm_label": "operating question",
+      "id": "theo_howling_mune_handoff_operating_question"
     },
     {
       "label": "First-Pass Notes",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/handoff.md",
       "source_location": "L23",
-      "id": "theo_howling_mune_handoff_first_pass_notes",
       "community": 10,
-      "norm_label": "first-pass notes"
+      "norm_label": "first-pass notes",
+      "id": "theo_howling_mune_handoff_first_pass_notes"
     },
     {
       "label": "Dedicated Implementation Repo",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/handoff.md",
       "source_location": "L30",
-      "id": "theo_howling_mune_handoff_dedicated_implementation_repo",
       "community": 10,
-      "norm_label": "dedicated implementation repo"
+      "norm_label": "dedicated implementation repo",
+      "id": "theo_howling_mune_handoff_dedicated_implementation_repo"
     },
     {
       "label": "code:text (/Users/majordreamwilliams/Desktop/theo-howling-mune-client-f)",
       "file_type": "document",
       "source_file": "clients/theo-howling-mune/handoff.md",
       "source_location": "L34",
-      "id": "theo_howling_mune_handoff_codeblock_1",
       "community": 10,
-      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)"
+      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)",
+      "id": "theo_howling_mune_handoff_codeblock_1"
     },
     {
       "label": "n8n-workflows.md",
       "file_type": "document",
       "source_file": "docs/n8n-workflows.md",
       "source_location": "L1",
-      "id": "docs_n8n_workflows_md",
       "community": 35,
-      "norm_label": "n8n-workflows.md"
+      "norm_label": "n8n-workflows.md",
+      "id": "docs_n8n_workflows_md"
     },
     {
       "label": "n8n Workflows",
       "file_type": "document",
       "source_file": "docs/n8n-workflows.md",
       "source_location": "L1",
-      "id": "docs_n8n_workflows_n8n_workflows",
       "community": 35,
-      "norm_label": "n8n workflows"
+      "norm_label": "n8n workflows",
+      "id": "docs_n8n_workflows_n8n_workflows"
     },
     {
       "label": "Workflow Order",
       "file_type": "document",
       "source_file": "docs/n8n-workflows.md",
       "source_location": "L5",
-      "id": "docs_n8n_workflows_workflow_order",
       "community": 35,
-      "norm_label": "workflow order"
+      "norm_label": "workflow order",
+      "id": "docs_n8n_workflows_workflow_order"
     },
     {
       "label": "Safety Rules",
       "file_type": "document",
       "source_file": "docs/n8n-workflows.md",
       "source_location": "L12",
-      "id": "docs_n8n_workflows_safety_rules",
       "community": 35,
-      "norm_label": "safety rules"
+      "norm_label": "safety rules",
+      "id": "docs_n8n_workflows_safety_rules"
     },
     {
       "label": "airtable-schema.md",
       "file_type": "document",
       "source_file": "docs/airtable-schema.md",
       "source_location": "L1",
-      "id": "docs_airtable_schema_md",
       "community": 11,
-      "norm_label": "airtable-schema.md"
+      "norm_label": "airtable-schema.md",
+      "id": "docs_airtable_schema_md"
     },
     {
       "label": "Airtable Schema",
       "file_type": "document",
       "source_file": "docs/airtable-schema.md",
       "source_location": "L1",
-      "id": "docs_airtable_schema_airtable_schema",
       "community": 11,
-      "norm_label": "airtable schema"
+      "norm_label": "airtable schema",
+      "id": "docs_airtable_schema_airtable_schema"
     },
     {
       "label": "Client Clarity OS - Clients",
       "file_type": "document",
       "source_file": "docs/airtable-schema.md",
       "source_location": "L7",
-      "id": "docs_airtable_schema_client_clarity_os_clients",
       "community": 11,
-      "norm_label": "client clarity os - clients"
+      "norm_label": "client clarity os - clients",
+      "id": "docs_airtable_schema_client_clarity_os_clients"
     },
     {
       "label": "Client Clarity OS - Intake Responses",
       "file_type": "document",
       "source_file": "docs/airtable-schema.md",
       "source_location": "L15",
-      "id": "docs_airtable_schema_client_clarity_os_intake_responses",
       "community": 11,
-      "norm_label": "client clarity os - intake responses"
+      "norm_label": "client clarity os - intake responses",
+      "id": "docs_airtable_schema_client_clarity_os_intake_responses"
     },
     {
       "label": "Client Clarity OS - Blueprint Outputs",
       "file_type": "document",
       "source_file": "docs/airtable-schema.md",
       "source_location": "L21",
-      "id": "docs_airtable_schema_client_clarity_os_blueprint_outputs",
       "community": 11,
-      "norm_label": "client clarity os - blueprint outputs"
+      "norm_label": "client clarity os - blueprint outputs",
+      "id": "docs_airtable_schema_client_clarity_os_blueprint_outputs"
     },
     {
       "label": "Client Clarity OS - Assets & Data Room",
       "file_type": "document",
       "source_file": "docs/airtable-schema.md",
       "source_location": "L27",
-      "id": "docs_airtable_schema_client_clarity_os_assets_data_room",
       "community": 11,
-      "norm_label": "client clarity os - assets & data room"
+      "norm_label": "client clarity os - assets & data room",
+      "id": "docs_airtable_schema_client_clarity_os_assets_data_room"
     },
     {
       "label": "Client Clarity OS - Build Tasks",
       "file_type": "document",
       "source_file": "docs/airtable-schema.md",
       "source_location": "L33",
-      "id": "docs_airtable_schema_client_clarity_os_build_tasks",
       "community": 11,
-      "norm_label": "client clarity os - build tasks"
+      "norm_label": "client clarity os - build tasks",
+      "id": "docs_airtable_schema_client_clarity_os_build_tasks"
     },
     {
       "label": "Client Clarity OS - Master Schema Reference",
       "file_type": "document",
       "source_file": "docs/airtable-schema.md",
       "source_location": "L39",
-      "id": "docs_airtable_schema_client_clarity_os_master_schema_reference",
       "community": 11,
-      "norm_label": "client clarity os - master schema reference"
+      "norm_label": "client clarity os - master schema reference",
+      "id": "docs_airtable_schema_client_clarity_os_master_schema_reference"
     },
     {
       "label": "testing-checklist.md",
       "file_type": "document",
       "source_file": "docs/testing-checklist.md",
       "source_location": "L1",
-      "id": "docs_testing_checklist_md",
       "community": 36,
-      "norm_label": "testing-checklist.md"
+      "norm_label": "testing-checklist.md",
+      "id": "docs_testing_checklist_md"
     },
     {
       "label": "Testing Checklist",
       "file_type": "document",
       "source_file": "docs/testing-checklist.md",
       "source_location": "L1",
-      "id": "docs_testing_checklist_testing_checklist",
       "community": 36,
-      "norm_label": "testing checklist"
+      "norm_label": "testing checklist",
+      "id": "docs_testing_checklist_testing_checklist"
     },
     {
       "label": "Local Scaffold Checks",
       "file_type": "document",
       "source_file": "docs/testing-checklist.md",
       "source_location": "L16",
-      "id": "docs_testing_checklist_local_scaffold_checks",
       "community": 36,
-      "norm_label": "local scaffold checks"
+      "norm_label": "local scaffold checks",
+      "id": "docs_testing_checklist_local_scaffold_checks"
     },
     {
       "label": "Production Readiness Gate",
       "file_type": "document",
       "source_file": "docs/testing-checklist.md",
       "source_location": "L22",
-      "id": "docs_testing_checklist_production_readiness_gate",
       "community": 36,
-      "norm_label": "production readiness gate"
+      "norm_label": "production readiness gate",
+      "id": "docs_testing_checklist_production_readiness_gate"
     },
     {
       "label": "architecture.md",
       "file_type": "document",
       "source_file": "docs/architecture.md",
       "source_location": "L1",
-      "id": "docs_architecture_md",
       "community": 14,
-      "norm_label": "architecture.md"
+      "norm_label": "architecture.md",
+      "id": "docs_architecture_md"
     },
     {
       "label": "Architecture",
       "file_type": "document",
       "source_file": "docs/architecture.md",
       "source_location": "L1",
-      "id": "docs_architecture_architecture",
       "community": 14,
-      "norm_label": "architecture"
+      "norm_label": "architecture",
+      "id": "docs_architecture_architecture"
     },
     {
       "label": "Purpose",
       "file_type": "document",
       "source_file": "docs/architecture.md",
       "source_location": "L3",
-      "id": "docs_architecture_purpose",
       "community": 14,
-      "norm_label": "purpose"
+      "norm_label": "purpose",
+      "id": "docs_architecture_purpose"
     },
     {
       "label": "System Flow",
       "file_type": "document",
       "source_file": "docs/architecture.md",
       "source_location": "L7",
-      "id": "docs_architecture_system_flow",
       "community": 14,
-      "norm_label": "system flow"
+      "norm_label": "system flow",
+      "id": "docs_architecture_system_flow"
     },
     {
       "label": "code:text (Client)",
       "file_type": "document",
       "source_file": "docs/architecture.md",
       "source_location": "L9",
-      "id": "docs_architecture_codeblock_1",
       "community": 14,
-      "norm_label": "code:text (client)"
+      "norm_label": "code:text (client)",
+      "id": "docs_architecture_codeblock_1"
     },
     {
       "label": "Layer Responsibilities",
       "file_type": "document",
       "source_file": "docs/architecture.md",
       "source_location": "L21",
-      "id": "docs_architecture_layer_responsibilities",
       "community": 14,
-      "norm_label": "layer responsibilities"
+      "norm_label": "layer responsibilities",
+      "id": "docs_architecture_layer_responsibilities"
     },
     {
       "label": "Invariants",
       "file_type": "document",
       "source_file": "docs/architecture.md",
       "source_location": "L33",
-      "id": "docs_architecture_invariants",
       "community": 14,
-      "norm_label": "invariants"
+      "norm_label": "invariants",
+      "id": "docs_architecture_invariants"
     },
     {
       "label": "notion-schema.md",
       "file_type": "document",
       "source_file": "docs/notion-schema.md",
       "source_location": "L1",
-      "id": "docs_notion_schema_md",
       "community": 27,
-      "norm_label": "notion-schema.md"
+      "norm_label": "notion-schema.md",
+      "id": "docs_notion_schema_md"
     },
     {
       "label": "Notion Schema",
       "file_type": "document",
       "source_file": "docs/notion-schema.md",
       "source_location": "L1",
-      "id": "docs_notion_schema_notion_schema",
       "community": 27,
-      "norm_label": "notion schema"
+      "norm_label": "notion schema",
+      "id": "docs_notion_schema_notion_schema"
     },
     {
       "label": "Properties",
       "file_type": "document",
       "source_file": "docs/notion-schema.md",
       "source_location": "L7",
-      "id": "docs_notion_schema_properties",
       "community": 27,
-      "norm_label": "properties"
+      "norm_label": "properties",
+      "id": "docs_notion_schema_properties"
     },
     {
       "label": "Views",
       "file_type": "document",
       "source_file": "docs/notion-schema.md",
       "source_location": "L33",
-      "id": "docs_notion_schema_views",
       "community": 27,
-      "norm_label": "views"
+      "norm_label": "views",
+      "id": "docs_notion_schema_views"
     },
     {
       "label": "Templates",
       "file_type": "document",
       "source_file": "docs/notion-schema.md",
       "source_location": "L42",
-      "id": "docs_notion_schema_templates",
       "community": 27,
-      "norm_label": "templates"
+      "norm_label": "templates",
+      "id": "docs_notion_schema_templates"
     },
     {
       "label": "implementation-plan.md",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L1",
-      "id": "docs_implementation_plan_md",
       "community": 1,
-      "norm_label": "implementation-plan.md"
+      "norm_label": "implementation-plan.md",
+      "id": "docs_implementation_plan_md"
     },
     {
       "label": "Implementation Plan",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L1",
-      "id": "docs_implementation_plan_implementation_plan",
       "community": 1,
-      "norm_label": "implementation plan"
+      "norm_label": "implementation plan",
+      "id": "docs_implementation_plan_implementation_plan"
     },
     {
       "label": "Stage 0 \u2014 Repo Scaffold",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L3",
-      "id": "docs_implementation_plan_stage_0_repo_scaffold",
       "community": 1,
-      "norm_label": "stage 0 \u2014 repo scaffold"
+      "norm_label": "stage 0 \u2014 repo scaffold",
+      "id": "docs_implementation_plan_stage_0_repo_scaffold"
     },
     {
       "label": "Stage 1 \u2014 Notion Intake Database",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L12",
-      "id": "docs_implementation_plan_stage_1_notion_intake_database",
       "community": 1,
-      "norm_label": "stage 1 \u2014 notion intake database"
+      "norm_label": "stage 1 \u2014 notion intake database",
+      "id": "docs_implementation_plan_stage_1_notion_intake_database"
     },
     {
       "label": "Stage 2 \u2014 Airtable Contract Verification",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L20",
-      "id": "docs_implementation_plan_stage_2_airtable_contract_verification",
       "community": 1,
-      "norm_label": "stage 2 \u2014 airtable contract verification"
+      "norm_label": "stage 2 \u2014 airtable contract verification",
+      "id": "docs_implementation_plan_stage_2_airtable_contract_verification"
     },
     {
       "label": "Stage 3 \u2014 AI Blueprint Extraction",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L27",
-      "id": "docs_implementation_plan_stage_3_ai_blueprint_extraction",
       "community": 1,
-      "norm_label": "stage 3 \u2014 ai blueprint extraction"
+      "norm_label": "stage 3 \u2014 ai blueprint extraction",
+      "id": "docs_implementation_plan_stage_3_ai_blueprint_extraction"
     },
     {
       "label": "Stage 4 \u2014 n8n Workflow Wiring",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L35",
-      "id": "docs_implementation_plan_stage_4_n8n_workflow_wiring",
       "community": 1,
-      "norm_label": "stage 4 \u2014 n8n workflow wiring"
+      "norm_label": "stage 4 \u2014 n8n workflow wiring",
+      "id": "docs_implementation_plan_stage_4_n8n_workflow_wiring"
     },
     {
       "label": "Stage 5 \u2014 Stripe Payment Stages",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L42",
-      "id": "docs_implementation_plan_stage_5_stripe_payment_stages",
       "community": 1,
-      "norm_label": "stage 5 \u2014 stripe payment stages"
+      "norm_label": "stage 5 \u2014 stripe payment stages",
+      "id": "docs_implementation_plan_stage_5_stripe_payment_stages"
     },
     {
       "label": "Stage 6 \u2014 Build Task Execution",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L49",
-      "id": "docs_implementation_plan_stage_6_build_task_execution",
       "community": 1,
-      "norm_label": "stage 6 \u2014 build task execution"
+      "norm_label": "stage 6 \u2014 build task execution",
+      "id": "docs_implementation_plan_stage_6_build_task_execution"
     },
     {
       "label": "First Live Implementation Example \u2014 Theo / Howling Mune",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L55",
-      "id": "docs_implementation_plan_first_live_implementation_example_theo_howling_mune",
       "community": 1,
-      "norm_label": "first live implementation example \u2014 theo / howling mune"
+      "norm_label": "first live implementation example \u2014 theo / howling mune",
+      "id": "docs_implementation_plan_first_live_implementation_example_theo_howling_mune"
     },
     {
       "label": "code:text (/Users/majordreamwilliams/Desktop/theo-howling-mune-client-f)",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L59",
-      "id": "docs_implementation_plan_codeblock_1",
       "community": 1,
-      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)"
+      "norm_label": "code:text (/users/majordreamwilliams/desktop/theo-howling-mune-client-f)",
+      "id": "docs_implementation_plan_codeblock_1"
     },
     {
       "label": "code:text (Client record -> Intake/source material -> Blueprint extract)",
       "file_type": "document",
       "source_file": "docs/implementation-plan.md",
       "source_location": "L67",
-      "id": "docs_implementation_plan_codeblock_2",
       "community": 1,
-      "norm_label": "code:text (client record -> intake/source material -> blueprint extract)"
+      "norm_label": "code:text (client record -> intake/source material -> blueprint extract)",
+      "id": "docs_implementation_plan_codeblock_2"
     },
     {
       "label": "sync-map.md",
       "file_type": "document",
       "source_file": "docs/sync-map.md",
       "source_location": "L1",
-      "id": "docs_sync_map_md",
       "community": 23,
-      "norm_label": "sync-map.md"
+      "norm_label": "sync-map.md",
+      "id": "docs_sync_map_md"
     },
     {
       "label": "Sync Map",
       "file_type": "document",
       "source_file": "docs/sync-map.md",
       "source_location": "L1",
-      "id": "docs_sync_map_sync_map",
       "community": 23,
-      "norm_label": "sync map"
+      "norm_label": "sync map",
+      "id": "docs_sync_map_sync_map"
     },
     {
       "label": "Client Identity",
       "file_type": "document",
       "source_file": "docs/sync-map.md",
       "source_location": "L3",
-      "id": "docs_sync_map_client_identity",
       "community": 23,
-      "norm_label": "client identity"
+      "norm_label": "client identity",
+      "id": "docs_sync_map_client_identity"
     },
     {
       "label": "Notion to Airtable Intake Mapping",
       "file_type": "document",
       "source_file": "docs/sync-map.md",
       "source_location": "L12",
-      "id": "docs_sync_map_notion_to_airtable_intake_mapping",
       "community": 23,
-      "norm_label": "notion to airtable intake mapping"
+      "norm_label": "notion to airtable intake mapping",
+      "id": "docs_sync_map_notion_to_airtable_intake_mapping"
     },
     {
       "label": "AI Output to Airtable Blueprint Mapping",
       "file_type": "document",
       "source_file": "docs/sync-map.md",
       "source_location": "L33",
-      "id": "docs_sync_map_ai_output_to_airtable_blueprint_mapping",
       "community": 23,
-      "norm_label": "ai output to airtable blueprint mapping"
+      "norm_label": "ai output to airtable blueprint mapping",
+      "id": "docs_sync_map_ai_output_to_airtable_blueprint_mapping"
     },
     {
       "label": "Stripe to Airtable Mapping",
       "file_type": "document",
       "source_file": "docs/sync-map.md",
       "source_location": "L49",
-      "id": "docs_sync_map_stripe_to_airtable_mapping",
       "community": 23,
-      "norm_label": "stripe to airtable mapping"
+      "norm_label": "stripe to airtable mapping",
+      "id": "docs_sync_map_stripe_to_airtable_mapping"
     },
     {
       "label": "stripe-payment-flow.md",
       "file_type": "document",
       "source_file": "docs/stripe-payment-flow.md",
       "source_location": "L1",
-      "id": "docs_stripe_payment_flow_md",
       "community": 24,
-      "norm_label": "stripe-payment-flow.md"
+      "norm_label": "stripe-payment-flow.md",
+      "id": "docs_stripe_payment_flow_md"
     },
     {
       "label": "Stripe Payment Flow",
       "file_type": "document",
       "source_file": "docs/stripe-payment-flow.md",
       "source_location": "L1",
-      "id": "docs_stripe_payment_flow_stripe_payment_flow",
       "community": 24,
-      "norm_label": "stripe payment flow"
+      "norm_label": "stripe payment flow",
+      "id": "docs_stripe_payment_flow_stripe_payment_flow"
     },
     {
       "label": "Stages",
       "file_type": "document",
       "source_file": "docs/stripe-payment-flow.md",
       "source_location": "L5",
-      "id": "docs_stripe_payment_flow_stages",
       "community": 24,
-      "norm_label": "stages"
+      "norm_label": "stages",
+      "id": "docs_stripe_payment_flow_stages"
     },
     {
       "label": "Required Metadata",
       "file_type": "document",
       "source_file": "docs/stripe-payment-flow.md",
       "source_location": "L13",
-      "id": "docs_stripe_payment_flow_required_metadata",
       "community": 24,
-      "norm_label": "required metadata"
+      "norm_label": "required metadata",
+      "id": "docs_stripe_payment_flow_required_metadata"
     },
     {
       "label": "Webhook Behavior",
       "file_type": "document",
       "source_file": "docs/stripe-payment-flow.md",
       "source_location": "L23",
-      "id": "docs_stripe_payment_flow_webhook_behavior",
       "community": 24,
-      "norm_label": "webhook behavior"
+      "norm_label": "webhook behavior",
+      "id": "docs_stripe_payment_flow_webhook_behavior"
     },
     {
       "label": "Human Review Boundary",
       "file_type": "document",
       "source_file": "docs/stripe-payment-flow.md",
       "source_location": "L34",
-      "id": "docs_stripe_payment_flow_human_review_boundary",
       "community": 24,
-      "norm_label": "human review boundary"
+      "norm_label": "human review boundary",
+      "id": "docs_stripe_payment_flow_human_review_boundary"
     },
     {
       "label": "handover.md",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L1",
-      "id": "docs_handover_md",
       "community": 2,
-      "norm_label": "handover.md"
+      "norm_label": "handover.md",
+      "id": "docs_handover_md"
     },
     {
       "label": "Client Clarity Intake OS \u2014 Project Handover",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L1",
-      "id": "docs_handover_client_clarity_intake_os_project_handover",
       "community": 2,
-      "norm_label": "client clarity intake os \u2014 project handover"
+      "norm_label": "client clarity intake os \u2014 project handover",
+      "id": "docs_handover_client_clarity_intake_os_project_handover"
     },
     {
       "label": "Core Workflow",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L11",
-      "id": "docs_handover_core_workflow",
       "community": 2,
-      "norm_label": "core workflow"
+      "norm_label": "core workflow",
+      "id": "docs_handover_core_workflow"
     },
     {
       "label": "code:text (Client Conversation)",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L13",
-      "id": "docs_handover_codeblock_1",
       "community": 2,
-      "norm_label": "code:text (client conversation)"
+      "norm_label": "code:text (client conversation)",
+      "id": "docs_handover_codeblock_1"
     },
     {
       "label": "Proven Archetypes",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L35",
-      "id": "docs_handover_proven_archetypes",
       "community": 2,
-      "norm_label": "proven archetypes"
+      "norm_label": "proven archetypes",
+      "id": "docs_handover_proven_archetypes"
     },
     {
       "label": "Theo \u2014 Creator-Healer OS",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L37",
-      "id": "docs_handover_theo_creator_healer_os",
       "community": 2,
-      "norm_label": "theo \u2014 creator-healer os"
+      "norm_label": "theo \u2014 creator-healer os",
+      "id": "docs_handover_theo_creator_healer_os"
     },
     {
       "label": "Sheetal \u2014 Shakti System OS",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L40",
-      "id": "docs_handover_sheetal_shakti_system_os",
       "community": 2,
-      "norm_label": "sheetal \u2014 shakti system os"
+      "norm_label": "sheetal \u2014 shakti system os",
+      "id": "docs_handover_sheetal_shakti_system_os"
     },
     {
       "label": "Shaun \u2014 Graffiti Media Engine",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L43",
-      "id": "docs_handover_shaun_graffiti_media_engine",
       "community": 2,
-      "norm_label": "shaun \u2014 graffiti media engine"
+      "norm_label": "shaun \u2014 graffiti media engine",
+      "id": "docs_handover_shaun_graffiti_media_engine"
     },
     {
       "label": "Current Implementation State",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L46",
-      "id": "docs_handover_current_implementation_state",
       "community": 2,
-      "norm_label": "current implementation state"
+      "norm_label": "current implementation state",
+      "id": "docs_handover_current_implementation_state"
     },
     {
       "label": "System Layers",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L55",
-      "id": "docs_handover_system_layers",
       "community": 2,
-      "norm_label": "system layers"
+      "norm_label": "system layers",
+      "id": "docs_handover_system_layers"
     },
     {
       "label": "Agent Stop Rules",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L65",
-      "id": "docs_handover_agent_stop_rules",
       "community": 2,
-      "norm_label": "agent stop rules"
+      "norm_label": "agent stop rules",
+      "id": "docs_handover_agent_stop_rules"
     },
     {
       "label": "Master Rule",
       "file_type": "document",
       "source_file": "docs/handover.md",
       "source_location": "L73",
-      "id": "docs_handover_master_rule",
       "community": 2,
-      "norm_label": "master rule"
+      "norm_label": "master rule",
+      "id": "docs_handover_master_rule"
     },
     {
       "label": "generic-blueprint.template.md",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L1",
-      "id": "schemas_notion_generic_blueprint_template_md",
       "community": 3,
-      "norm_label": "generic-blueprint.template.md"
+      "norm_label": "generic-blueprint.template.md",
+      "id": "schemas_notion_generic_blueprint_template_md"
     },
     {
       "label": "Generic Client Blueprint Intake",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L1",
-      "id": "notion_generic_blueprint_template_generic_client_blueprint_intake",
       "community": 3,
-      "norm_label": "generic client blueprint intake"
+      "norm_label": "generic client blueprint intake",
+      "id": "notion_generic_blueprint_template_generic_client_blueprint_intake"
     },
     {
       "label": "Opening",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L5",
-      "id": "notion_generic_blueprint_template_opening",
       "community": 3,
-      "norm_label": "opening"
+      "norm_label": "opening",
+      "id": "notion_generic_blueprint_template_opening"
     },
     {
       "label": "Origin",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L9",
-      "id": "notion_generic_blueprint_template_origin",
       "community": 3,
-      "norm_label": "origin"
+      "norm_label": "origin",
+      "id": "notion_generic_blueprint_template_origin"
     },
     {
       "label": "Work / Authority",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L15",
-      "id": "notion_generic_blueprint_template_work_authority",
       "community": 3,
-      "norm_label": "work / authority"
+      "norm_label": "work / authority",
+      "id": "notion_generic_blueprint_template_work_authority"
     },
     {
       "label": "People / ICP",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L21",
-      "id": "notion_generic_blueprint_template_people_icp",
       "community": 3,
-      "norm_label": "people / icp"
+      "norm_label": "people / icp",
+      "id": "notion_generic_blueprint_template_people_icp"
     },
     {
       "label": "Offer / Revenue",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L27",
-      "id": "notion_generic_blueprint_template_offer_revenue",
       "community": 3,
-      "norm_label": "offer / revenue"
+      "norm_label": "offer / revenue",
+      "id": "notion_generic_blueprint_template_offer_revenue"
     },
     {
       "label": "Resistance / Boundaries",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L33",
-      "id": "notion_generic_blueprint_template_resistance_boundaries",
       "community": 3,
-      "norm_label": "resistance / boundaries"
+      "norm_label": "resistance / boundaries",
+      "id": "notion_generic_blueprint_template_resistance_boundaries"
     },
     {
       "label": "Expression / Delivery",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L38",
-      "id": "notion_generic_blueprint_template_expression_delivery",
       "community": 3,
-      "norm_label": "expression / delivery"
+      "norm_label": "expression / delivery",
+      "id": "notion_generic_blueprint_template_expression_delivery"
     },
     {
       "label": "Vision",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L43",
-      "id": "notion_generic_blueprint_template_vision",
       "community": 3,
-      "norm_label": "vision"
+      "norm_label": "vision",
+      "id": "notion_generic_blueprint_template_vision"
     },
     {
       "label": "Reality Check",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L48",
-      "id": "notion_generic_blueprint_template_reality_check",
       "community": 3,
-      "norm_label": "reality check"
+      "norm_label": "reality check",
+      "id": "notion_generic_blueprint_template_reality_check"
     },
     {
       "label": "Final Reflection",
       "file_type": "document",
       "source_file": "schemas/notion/generic-blueprint.template.md",
       "source_location": "L53",
-      "id": "notion_generic_blueprint_template_final_reflection",
       "community": 3,
-      "norm_label": "final reflection"
+      "norm_label": "final reflection",
+      "id": "notion_generic_blueprint_template_final_reflection"
     },
     {
       "label": "creator-healer.template.md",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L1",
-      "id": "schemas_notion_creator_healer_template_md",
       "community": 4,
-      "norm_label": "creator-healer.template.md"
+      "norm_label": "creator-healer.template.md",
+      "id": "schemas_notion_creator_healer_template_md"
     },
     {
       "label": "Creator-Healer Intake",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L1",
-      "id": "notion_creator_healer_template_creator_healer_intake",
       "community": 4,
-      "norm_label": "creator-healer intake"
+      "norm_label": "creator-healer intake",
+      "id": "notion_creator_healer_template_creator_healer_intake"
     },
     {
       "label": "Opening",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L5",
-      "id": "notion_creator_healer_template_opening",
       "community": 4,
-      "norm_label": "opening"
+      "norm_label": "opening",
+      "id": "notion_creator_healer_template_opening"
     },
     {
       "label": "Origin",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L11",
-      "id": "notion_creator_healer_template_origin",
       "community": 4,
-      "norm_label": "origin"
+      "norm_label": "origin",
+      "id": "notion_creator_healer_template_origin"
     },
     {
       "label": "Work / Authority",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L17",
-      "id": "notion_creator_healer_template_work_authority",
       "community": 4,
-      "norm_label": "work / authority"
+      "norm_label": "work / authority",
+      "id": "notion_creator_healer_template_work_authority"
     },
     {
       "label": "People / ICP",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L23",
-      "id": "notion_creator_healer_template_people_icp",
       "community": 4,
-      "norm_label": "people / icp"
+      "norm_label": "people / icp",
+      "id": "notion_creator_healer_template_people_icp"
     },
     {
       "label": "Offer / Revenue",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L30",
-      "id": "notion_creator_healer_template_offer_revenue",
       "community": 4,
-      "norm_label": "offer / revenue"
+      "norm_label": "offer / revenue",
+      "id": "notion_creator_healer_template_offer_revenue"
     },
     {
       "label": "Resistance / Boundaries",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L37",
-      "id": "notion_creator_healer_template_resistance_boundaries",
       "community": 4,
-      "norm_label": "resistance / boundaries"
+      "norm_label": "resistance / boundaries",
+      "id": "notion_creator_healer_template_resistance_boundaries"
     },
     {
       "label": "Expression / Delivery",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L43",
-      "id": "notion_creator_healer_template_expression_delivery",
       "community": 4,
-      "norm_label": "expression / delivery"
+      "norm_label": "expression / delivery",
+      "id": "notion_creator_healer_template_expression_delivery"
     },
     {
       "label": "Vision",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L49",
-      "id": "notion_creator_healer_template_vision",
       "community": 4,
-      "norm_label": "vision"
+      "norm_label": "vision",
+      "id": "notion_creator_healer_template_vision"
     },
     {
       "label": "Reality Check",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L54",
-      "id": "notion_creator_healer_template_reality_check",
       "community": 4,
-      "norm_label": "reality check"
+      "norm_label": "reality check",
+      "id": "notion_creator_healer_template_reality_check"
     },
     {
       "label": "Final Reflection",
       "file_type": "document",
       "source_file": "schemas/notion/creator-healer.template.md",
       "source_location": "L60",
-      "id": "notion_creator_healer_template_final_reflection",
       "community": 4,
-      "norm_label": "final reflection"
+      "norm_label": "final reflection",
+      "id": "notion_creator_healer_template_final_reflection"
     },
     {
       "label": "media-engine.template.md",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L1",
-      "id": "schemas_notion_media_engine_template_md",
       "community": 5,
-      "norm_label": "media-engine.template.md"
+      "norm_label": "media-engine.template.md",
+      "id": "schemas_notion_media_engine_template_md"
     },
     {
       "label": "Media Engine Intake",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L1",
-      "id": "notion_media_engine_template_media_engine_intake",
       "community": 5,
-      "norm_label": "media engine intake"
+      "norm_label": "media engine intake",
+      "id": "notion_media_engine_template_media_engine_intake"
     },
     {
       "label": "Opening",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L5",
-      "id": "notion_media_engine_template_opening",
       "community": 5,
-      "norm_label": "opening"
+      "norm_label": "opening",
+      "id": "notion_media_engine_template_opening"
     },
     {
       "label": "Origin",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L11",
-      "id": "notion_media_engine_template_origin",
       "community": 5,
-      "norm_label": "origin"
+      "norm_label": "origin",
+      "id": "notion_media_engine_template_origin"
     },
     {
       "label": "Work / Authority",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L17",
-      "id": "notion_media_engine_template_work_authority",
       "community": 5,
-      "norm_label": "work / authority"
+      "norm_label": "work / authority",
+      "id": "notion_media_engine_template_work_authority"
     },
     {
       "label": "People / ICP",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L23",
-      "id": "notion_media_engine_template_people_icp",
       "community": 5,
-      "norm_label": "people / icp"
+      "norm_label": "people / icp",
+      "id": "notion_media_engine_template_people_icp"
     },
     {
       "label": "Offer / Revenue",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L29",
-      "id": "notion_media_engine_template_offer_revenue",
       "community": 5,
-      "norm_label": "offer / revenue"
+      "norm_label": "offer / revenue",
+      "id": "notion_media_engine_template_offer_revenue"
     },
     {
       "label": "Resistance / Boundaries",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L35",
-      "id": "notion_media_engine_template_resistance_boundaries",
       "community": 5,
-      "norm_label": "resistance / boundaries"
+      "norm_label": "resistance / boundaries",
+      "id": "notion_media_engine_template_resistance_boundaries"
     },
     {
       "label": "Expression / Delivery",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L41",
-      "id": "notion_media_engine_template_expression_delivery",
       "community": 5,
-      "norm_label": "expression / delivery"
+      "norm_label": "expression / delivery",
+      "id": "notion_media_engine_template_expression_delivery"
     },
     {
       "label": "Vision",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L47",
-      "id": "notion_media_engine_template_vision",
       "community": 5,
-      "norm_label": "vision"
+      "norm_label": "vision",
+      "id": "notion_media_engine_template_vision"
     },
     {
       "label": "Reality Check",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L53",
-      "id": "notion_media_engine_template_reality_check",
       "community": 5,
-      "norm_label": "reality check"
+      "norm_label": "reality check",
+      "id": "notion_media_engine_template_reality_check"
     },
     {
       "label": "Final Reflection",
       "file_type": "document",
       "source_file": "schemas/notion/media-engine.template.md",
       "source_location": "L58",
-      "id": "notion_media_engine_template_final_reflection",
       "community": 5,
-      "norm_label": "final reflection"
+      "norm_label": "final reflection",
+      "id": "notion_media_engine_template_final_reflection"
     },
     {
       "label": "shakti-system.template.md",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L1",
-      "id": "schemas_notion_shakti_system_template_md",
       "community": 6,
-      "norm_label": "shakti-system.template.md"
+      "norm_label": "shakti-system.template.md",
+      "id": "schemas_notion_shakti_system_template_md"
     },
     {
       "label": "Shakti System Intake",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L1",
-      "id": "notion_shakti_system_template_shakti_system_intake",
       "community": 6,
-      "norm_label": "shakti system intake"
+      "norm_label": "shakti system intake",
+      "id": "notion_shakti_system_template_shakti_system_intake"
     },
     {
       "label": "Opening",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L5",
-      "id": "notion_shakti_system_template_opening",
       "community": 6,
-      "norm_label": "opening"
+      "norm_label": "opening",
+      "id": "notion_shakti_system_template_opening"
     },
     {
       "label": "Origin",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L11",
-      "id": "notion_shakti_system_template_origin",
       "community": 6,
-      "norm_label": "origin"
+      "norm_label": "origin",
+      "id": "notion_shakti_system_template_origin"
     },
     {
       "label": "Work / Authority",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L17",
-      "id": "notion_shakti_system_template_work_authority",
       "community": 6,
-      "norm_label": "work / authority"
+      "norm_label": "work / authority",
+      "id": "notion_shakti_system_template_work_authority"
     },
     {
       "label": "People / ICP",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L23",
-      "id": "notion_shakti_system_template_people_icp",
       "community": 6,
-      "norm_label": "people / icp"
+      "norm_label": "people / icp",
+      "id": "notion_shakti_system_template_people_icp"
     },
     {
       "label": "Offer / Revenue",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L30",
-      "id": "notion_shakti_system_template_offer_revenue",
       "community": 6,
-      "norm_label": "offer / revenue"
+      "norm_label": "offer / revenue",
+      "id": "notion_shakti_system_template_offer_revenue"
     },
     {
       "label": "Resistance / Boundaries",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L36",
-      "id": "notion_shakti_system_template_resistance_boundaries",
       "community": 6,
-      "norm_label": "resistance / boundaries"
+      "norm_label": "resistance / boundaries",
+      "id": "notion_shakti_system_template_resistance_boundaries"
     },
     {
       "label": "Expression / Delivery",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L42",
-      "id": "notion_shakti_system_template_expression_delivery",
       "community": 6,
-      "norm_label": "expression / delivery"
+      "norm_label": "expression / delivery",
+      "id": "notion_shakti_system_template_expression_delivery"
     },
     {
       "label": "Vision",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L48",
-      "id": "notion_shakti_system_template_vision",
       "community": 6,
-      "norm_label": "vision"
+      "norm_label": "vision",
+      "id": "notion_shakti_system_template_vision"
     },
     {
       "label": "Reality Check",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L53",
-      "id": "notion_shakti_system_template_reality_check",
       "community": 6,
-      "norm_label": "reality check"
+      "norm_label": "reality check",
+      "id": "notion_shakti_system_template_reality_check"
     },
     {
       "label": "Final Reflection",
       "file_type": "document",
       "source_file": "schemas/notion/shakti-system.template.md",
       "source_location": "L59",
-      "id": "notion_shakti_system_template_final_reflection",
       "community": 6,
-      "norm_label": "final reflection"
+      "norm_label": "final reflection",
+      "id": "notion_shakti_system_template_final_reflection"
     },
     {
       "label": "codex-operator-prompt.md",
       "file_type": "document",
       "source_file": "prompts/codex-operator-prompt.md",
       "source_location": "L1",
-      "id": "prompts_codex_operator_prompt_md",
       "community": 28,
-      "norm_label": "codex-operator-prompt.md"
+      "norm_label": "codex-operator-prompt.md",
+      "id": "prompts_codex_operator_prompt_md"
     },
     {
       "label": "Codex Operator Prompt",
       "file_type": "document",
       "source_file": "prompts/codex-operator-prompt.md",
       "source_location": "L1",
-      "id": "prompts_codex_operator_prompt_codex_operator_prompt",
       "community": 28,
-      "norm_label": "codex operator prompt"
+      "norm_label": "codex operator prompt",
+      "id": "prompts_codex_operator_prompt_codex_operator_prompt"
     },
     {
       "label": "Mission",
       "file_type": "document",
       "source_file": "prompts/codex-operator-prompt.md",
       "source_location": "L5",
-      "id": "prompts_codex_operator_prompt_mission",
       "community": 28,
-      "norm_label": "mission"
+      "norm_label": "mission",
+      "id": "prompts_codex_operator_prompt_mission"
     },
     {
       "label": "Rules",
       "file_type": "document",
       "source_file": "prompts/codex-operator-prompt.md",
       "source_location": "L9",
-      "id": "prompts_codex_operator_prompt_rules",
       "community": 28,
-      "norm_label": "rules"
+      "norm_label": "rules",
+      "id": "prompts_codex_operator_prompt_rules"
     },
     {
       "label": "Validation",
       "file_type": "document",
       "source_file": "prompts/codex-operator-prompt.md",
       "source_location": "L23",
-      "id": "prompts_codex_operator_prompt_validation",
       "community": 28,
-      "norm_label": "validation"
+      "norm_label": "validation",
+      "id": "prompts_codex_operator_prompt_validation"
     },
     {
       "label": "proposal-generator.md",
       "file_type": "document",
       "source_file": "prompts/proposal-generator.md",
       "source_location": "L1",
-      "id": "prompts_proposal_generator_md",
       "community": 29,
-      "norm_label": "proposal-generator.md"
+      "norm_label": "proposal-generator.md",
+      "id": "prompts_proposal_generator_md"
     },
     {
       "label": "Proposal Generator Prompt",
       "file_type": "document",
       "source_file": "prompts/proposal-generator.md",
       "source_location": "L1",
-      "id": "prompts_proposal_generator_proposal_generator_prompt",
       "community": 29,
-      "norm_label": "proposal generator prompt"
+      "norm_label": "proposal generator prompt",
+      "id": "prompts_proposal_generator_proposal_generator_prompt"
     },
     {
       "label": "Inputs",
       "file_type": "document",
       "source_file": "prompts/proposal-generator.md",
       "source_location": "L5",
-      "id": "prompts_proposal_generator_inputs",
       "community": 29,
-      "norm_label": "inputs"
+      "norm_label": "inputs",
+      "id": "prompts_proposal_generator_inputs"
     },
     {
       "label": "Rules",
       "file_type": "document",
       "source_file": "prompts/proposal-generator.md",
       "source_location": "L14",
-      "id": "prompts_proposal_generator_rules",
       "community": 29,
-      "norm_label": "rules"
+      "norm_label": "rules",
+      "id": "prompts_proposal_generator_rules"
     },
     {
       "label": "Sections",
       "file_type": "document",
       "source_file": "prompts/proposal-generator.md",
       "source_location": "L24",
-      "id": "prompts_proposal_generator_sections",
       "community": 29,
-      "norm_label": "sections"
+      "norm_label": "sections",
+      "id": "prompts_proposal_generator_sections"
     },
     {
       "label": "ai-blueprint-extraction.md",
       "file_type": "document",
       "source_file": "prompts/ai-blueprint-extraction.md",
       "source_location": "L1",
-      "id": "prompts_ai_blueprint_extraction_md",
       "community": 25,
-      "norm_label": "ai-blueprint-extraction.md"
+      "norm_label": "ai-blueprint-extraction.md",
+      "id": "prompts_ai_blueprint_extraction_md"
     },
     {
       "label": "AI Blueprint Extraction Prompt",
       "file_type": "document",
       "source_file": "prompts/ai-blueprint-extraction.md",
       "source_location": "L1",
-      "id": "prompts_ai_blueprint_extraction_ai_blueprint_extraction_prompt",
       "community": 25,
-      "norm_label": "ai blueprint extraction prompt"
+      "norm_label": "ai blueprint extraction prompt",
+      "id": "prompts_ai_blueprint_extraction_ai_blueprint_extraction_prompt"
     },
     {
       "label": "code:json ({)",
       "file_type": "document",
       "source_file": "prompts/ai-blueprint-extraction.md",
       "source_location": "L9",
-      "id": "prompts_ai_blueprint_extraction_codeblock_1",
       "community": 25,
-      "norm_label": "code:json ({)"
+      "norm_label": "code:json ({)",
+      "id": "prompts_ai_blueprint_extraction_codeblock_1"
     },
     {
       "label": "Rules",
       "file_type": "document",
       "source_file": "prompts/ai-blueprint-extraction.md",
       "source_location": "L31",
-      "id": "prompts_ai_blueprint_extraction_rules",
       "community": 25,
-      "norm_label": "rules"
+      "norm_label": "rules",
+      "id": "prompts_ai_blueprint_extraction_rules"
     },
     {
       "label": "Input Blocks",
       "file_type": "document",
       "source_file": "prompts/ai-blueprint-extraction.md",
       "source_location": "L45",
-      "id": "prompts_ai_blueprint_extraction_input_blocks",
       "community": 25,
-      "norm_label": "input blocks"
+      "norm_label": "input blocks",
+      "id": "prompts_ai_blueprint_extraction_input_blocks"
     },
     {
       "label": "Output Quality Bar",
       "file_type": "document",
       "source_file": "prompts/ai-blueprint-extraction.md",
       "source_location": "L64",
-      "id": "prompts_ai_blueprint_extraction_output_quality_bar",
       "community": 25,
-      "norm_label": "output quality bar"
+      "norm_label": "output quality bar",
+      "id": "prompts_ai_blueprint_extraction_output_quality_bar"
     },
     {
       "label": "notion-template-generator.md",
       "file_type": "document",
       "source_file": "prompts/notion-template-generator.md",
       "source_location": "L1",
-      "id": "prompts_notion_template_generator_md",
       "community": 30,
-      "norm_label": "notion-template-generator.md"
+      "norm_label": "notion-template-generator.md",
+      "id": "prompts_notion_template_generator_md"
     },
     {
       "label": "Notion Template Generator Prompt",
       "file_type": "document",
       "source_file": "prompts/notion-template-generator.md",
       "source_location": "L1",
-      "id": "prompts_notion_template_generator_notion_template_generator_prompt",
       "community": 30,
-      "norm_label": "notion template generator prompt"
+      "norm_label": "notion template generator prompt",
+      "id": "prompts_notion_template_generator_notion_template_generator_prompt"
     },
     {
       "label": "Constraints",
       "file_type": "document",
       "source_file": "prompts/notion-template-generator.md",
       "source_location": "L5",
-      "id": "prompts_notion_template_generator_constraints",
       "community": 30,
-      "norm_label": "constraints"
+      "norm_label": "constraints",
+      "id": "prompts_notion_template_generator_constraints"
     },
     {
       "label": "Required Sections",
       "file_type": "document",
       "source_file": "prompts/notion-template-generator.md",
       "source_location": "L16",
-      "id": "prompts_notion_template_generator_required_sections",
       "community": 30,
-      "norm_label": "required sections"
+      "norm_label": "required sections",
+      "id": "prompts_notion_template_generator_required_sections"
     },
     {
       "label": "Output",
       "file_type": "document",
       "source_file": "prompts/notion-template-generator.md",
       "source_location": "L28",
-      "id": "prompts_notion_template_generator_output",
       "community": 30,
-      "norm_label": "output"
+      "norm_label": "output",
+      "id": "prompts_notion_template_generator_output"
     },
     {
       "label": "shakti-system-intake.md",
       "file_type": "document",
       "source_file": "templates/notion/shakti-system-intake.md",
       "source_location": "L1",
-      "id": "templates_notion_shakti_system_intake_md",
       "community": 31,
-      "norm_label": "shakti-system-intake.md"
+      "norm_label": "shakti-system-intake.md",
+      "id": "templates_notion_shakti_system_intake_md"
     },
     {
       "label": "Sheetal \u2014 Shakti System Intake",
       "file_type": "document",
       "source_file": "templates/notion/shakti-system-intake.md",
       "source_location": "L1",
-      "id": "notion_shakti_system_intake_sheetal_shakti_system_intake",
       "community": 31,
-      "norm_label": "sheetal \u2014 shakti system intake"
+      "norm_label": "sheetal \u2014 shakti system intake",
+      "id": "notion_shakti_system_intake_sheetal_shakti_system_intake"
     },
     {
       "label": "Focus",
       "file_type": "document",
       "source_file": "templates/notion/shakti-system-intake.md",
       "source_location": "L3",
-      "id": "notion_shakti_system_intake_focus",
       "community": 31,
-      "norm_label": "focus"
+      "norm_label": "focus",
+      "id": "notion_shakti_system_intake_focus"
     },
     {
       "label": "Sections",
       "file_type": "document",
       "source_file": "templates/notion/shakti-system-intake.md",
       "source_location": "L17",
-      "id": "notion_shakti_system_intake_sections",
       "community": 31,
-      "norm_label": "sections"
+      "norm_label": "sections",
+      "id": "notion_shakti_system_intake_sections"
     },
     {
       "label": "Final Reflection Prompt",
       "file_type": "document",
       "source_file": "templates/notion/shakti-system-intake.md",
       "source_location": "L29",
-      "id": "notion_shakti_system_intake_final_reflection_prompt",
       "community": 31,
-      "norm_label": "final reflection prompt"
+      "norm_label": "final reflection prompt",
+      "id": "notion_shakti_system_intake_final_reflection_prompt"
     },
     {
       "label": "04-stripe-payment-status.spec.md",
       "file_type": "document",
       "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
       "source_location": "L1",
-      "id": "automations_n8n_04_stripe_payment_status_spec_md",
       "community": 15,
-      "norm_label": "04-stripe-payment-status.spec.md"
+      "norm_label": "04-stripe-payment-status.spec.md",
+      "id": "automations_n8n_04_stripe_payment_status_spec_md"
     },
     {
       "label": "04-stripe-payment-status",
       "file_type": "document",
       "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
       "source_location": "L1",
-      "id": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status",
       "community": 15,
-      "norm_label": "04-stripe-payment-status"
+      "norm_label": "04-stripe-payment-status",
+      "id": "n8n_04_stripe_payment_status_spec_04_stripe_payment_status"
     },
     {
       "label": "Trigger",
       "file_type": "document",
       "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
       "source_location": "L3",
-      "id": "n8n_04_stripe_payment_status_spec_trigger",
       "community": 15,
-      "norm_label": "trigger"
+      "norm_label": "trigger",
+      "id": "n8n_04_stripe_payment_status_spec_trigger"
     },
     {
       "label": "Inputs",
       "file_type": "document",
       "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
       "source_location": "L7",
-      "id": "n8n_04_stripe_payment_status_spec_inputs",
       "community": 15,
-      "norm_label": "inputs"
+      "norm_label": "inputs",
+      "id": "n8n_04_stripe_payment_status_spec_inputs"
     },
     {
       "label": "Required Stripe Metadata",
       "file_type": "document",
       "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
       "source_location": "L18",
-      "id": "n8n_04_stripe_payment_status_spec_required_stripe_metadata",
       "community": 15,
-      "norm_label": "required stripe metadata"
+      "norm_label": "required stripe metadata",
+      "id": "n8n_04_stripe_payment_status_spec_required_stripe_metadata"
     },
     {
       "label": "Actions",
       "file_type": "document",
       "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
       "source_location": "L26",
-      "id": "n8n_04_stripe_payment_status_spec_actions",
       "community": 15,
-      "norm_label": "actions"
+      "norm_label": "actions",
+      "id": "n8n_04_stripe_payment_status_spec_actions"
     },
     {
       "label": "Write Guards",
       "file_type": "document",
       "source_file": "automations/n8n/04-stripe-payment-status.spec.md",
       "source_location": "L35",
-      "id": "n8n_04_stripe_payment_status_spec_write_guards",
       "community": 15,
-      "norm_label": "write guards"
+      "norm_label": "write guards",
+      "id": "n8n_04_stripe_payment_status_spec_write_guards"
     },
     {
       "label": "03-blueprint-generator.spec.md",
       "file_type": "document",
       "source_file": "automations/n8n/03-blueprint-generator.spec.md",
       "source_location": "L1",
-      "id": "automations_n8n_03_blueprint_generator_spec_md",
       "community": 16,
-      "norm_label": "03-blueprint-generator.spec.md"
+      "norm_label": "03-blueprint-generator.spec.md",
+      "id": "automations_n8n_03_blueprint_generator_spec_md"
     },
     {
       "label": "03-blueprint-generator",
       "file_type": "document",
       "source_file": "automations/n8n/03-blueprint-generator.spec.md",
       "source_location": "L1",
-      "id": "n8n_03_blueprint_generator_spec_03_blueprint_generator",
       "community": 16,
-      "norm_label": "03-blueprint-generator"
+      "norm_label": "03-blueprint-generator",
+      "id": "n8n_03_blueprint_generator_spec_03_blueprint_generator"
     },
     {
       "label": "Trigger",
       "file_type": "document",
       "source_file": "automations/n8n/03-blueprint-generator.spec.md",
       "source_location": "L3",
-      "id": "n8n_03_blueprint_generator_spec_trigger",
       "community": 16,
-      "norm_label": "trigger"
+      "norm_label": "trigger",
+      "id": "n8n_03_blueprint_generator_spec_trigger"
     },
     {
       "label": "Inputs",
       "file_type": "document",
       "source_file": "automations/n8n/03-blueprint-generator.spec.md",
       "source_location": "L8",
-      "id": "n8n_03_blueprint_generator_spec_inputs",
       "community": 16,
-      "norm_label": "inputs"
+      "norm_label": "inputs",
+      "id": "n8n_03_blueprint_generator_spec_inputs"
     },
     {
       "label": "Actions",
       "file_type": "document",
       "source_file": "automations/n8n/03-blueprint-generator.spec.md",
       "source_location": "L18",
-      "id": "n8n_03_blueprint_generator_spec_actions",
       "community": 16,
-      "norm_label": "actions"
+      "norm_label": "actions",
+      "id": "n8n_03_blueprint_generator_spec_actions"
     },
     {
       "label": "Human Review Gate",
       "file_type": "document",
       "source_file": "automations/n8n/03-blueprint-generator.spec.md",
       "source_location": "L30",
-      "id": "n8n_03_blueprint_generator_spec_human_review_gate",
       "community": 16,
-      "norm_label": "human review gate"
+      "norm_label": "human review gate",
+      "id": "n8n_03_blueprint_generator_spec_human_review_gate"
     },
     {
       "label": "Error Handling",
       "file_type": "document",
       "source_file": "automations/n8n/03-blueprint-generator.spec.md",
       "source_location": "L36",
-      "id": "n8n_03_blueprint_generator_spec_error_handling",
       "community": 16,
-      "norm_label": "error handling"
+      "norm_label": "error handling",
+      "id": "n8n_03_blueprint_generator_spec_error_handling"
     },
     {
       "label": "README.md",
       "file_type": "document",
       "source_file": "automations/n8n/README.md",
       "source_location": "L1",
-      "id": "automations_n8n_readme_md",
       "community": 17,
-      "norm_label": "readme.md"
+      "norm_label": "readme.md",
+      "id": "automations_n8n_readme_md"
     },
     {
       "label": "n8n Workflows",
       "file_type": "document",
       "source_file": "automations/n8n/README.md",
       "source_location": "L1",
-      "id": "n8n_readme_n8n_workflows",
       "community": 17,
-      "norm_label": "n8n workflows"
+      "norm_label": "n8n workflows",
+      "id": "n8n_readme_n8n_workflows"
     },
     {
       "label": "Specs",
       "file_type": "document",
       "source_file": "automations/n8n/README.md",
       "source_location": "L5",
-      "id": "n8n_readme_specs",
       "community": 17,
-      "norm_label": "specs"
+      "norm_label": "specs",
+      "id": "n8n_readme_specs"
     },
     {
       "label": "Workflow 1 \u2014 Client Intake Setup",
       "file_type": "document",
       "source_file": "automations/n8n/README.md",
       "source_location": "L13",
-      "id": "n8n_readme_workflow_1_client_intake_setup",
       "community": 17,
-      "norm_label": "workflow 1 \u2014 client intake setup"
+      "norm_label": "workflow 1 \u2014 client intake setup",
+      "id": "n8n_readme_workflow_1_client_intake_setup"
     },
     {
       "label": "Workflow 2 \u2014 Intake Sync",
       "file_type": "document",
       "source_file": "automations/n8n/README.md",
       "source_location": "L27",
-      "id": "n8n_readme_workflow_2_intake_sync",
       "community": 17,
-      "norm_label": "workflow 2 \u2014 intake sync"
+      "norm_label": "workflow 2 \u2014 intake sync",
+      "id": "n8n_readme_workflow_2_intake_sync"
     },
     {
       "label": "Workflow 3 \u2014 Blueprint Generator",
       "file_type": "document",
       "source_file": "automations/n8n/README.md",
       "source_location": "L38",
-      "id": "n8n_readme_workflow_3_blueprint_generator",
       "community": 17,
-      "norm_label": "workflow 3 \u2014 blueprint generator"
+      "norm_label": "workflow 3 \u2014 blueprint generator",
+      "id": "n8n_readme_workflow_3_blueprint_generator"
     },
     {
       "label": "Workflow 4 \u2014 Stripe Payment Status",
       "file_type": "document",
       "source_file": "automations/n8n/README.md",
       "source_location": "L50",
-      "id": "n8n_readme_workflow_4_stripe_payment_status",
       "community": 17,
-      "norm_label": "workflow 4 \u2014 stripe payment status"
+      "norm_label": "workflow 4 \u2014 stripe payment status",
+      "id": "n8n_readme_workflow_4_stripe_payment_status"
     },
     {
       "label": "workflow-env-map.md",
       "file_type": "document",
       "source_file": "automations/n8n/workflow-env-map.md",
       "source_location": "L1",
-      "id": "automations_n8n_workflow_env_map_md",
       "community": 12,
-      "norm_label": "workflow-env-map.md"
+      "norm_label": "workflow-env-map.md",
+      "id": "automations_n8n_workflow_env_map_md"
     },
     {
       "label": "Workflow Environment Map",
       "file_type": "document",
       "source_file": "automations/n8n/workflow-env-map.md",
       "source_location": "L1",
-      "id": "n8n_workflow_env_map_workflow_environment_map",
       "community": 12,
-      "norm_label": "workflow environment map"
+      "norm_label": "workflow environment map",
+      "id": "n8n_workflow_env_map_workflow_environment_map"
     },
     {
       "label": "Airtable",
       "file_type": "document",
       "source_file": "automations/n8n/workflow-env-map.md",
       "source_location": "L3",
-      "id": "n8n_workflow_env_map_airtable",
       "community": 12,
-      "norm_label": "airtable"
+      "norm_label": "airtable",
+      "id": "n8n_workflow_env_map_airtable"
     },
     {
       "label": "Notion",
       "file_type": "document",
       "source_file": "automations/n8n/workflow-env-map.md",
       "source_location": "L14",
-      "id": "n8n_workflow_env_map_notion",
       "community": 12,
-      "norm_label": "notion"
+      "norm_label": "notion",
+      "id": "n8n_workflow_env_map_notion"
     },
     {
       "label": "AI",
       "file_type": "document",
       "source_file": "automations/n8n/workflow-env-map.md",
       "source_location": "L20",
-      "id": "n8n_workflow_env_map_ai",
       "community": 12,
-      "norm_label": "ai"
+      "norm_label": "ai",
+      "id": "n8n_workflow_env_map_ai"
     },
     {
       "label": "Stripe",
       "file_type": "document",
       "source_file": "automations/n8n/workflow-env-map.md",
       "source_location": "L25",
-      "id": "n8n_workflow_env_map_stripe",
       "community": 12,
-      "norm_label": "stripe"
+      "norm_label": "stripe",
+      "id": "n8n_workflow_env_map_stripe"
     },
     {
       "label": "Notifications",
       "file_type": "document",
       "source_file": "automations/n8n/workflow-env-map.md",
       "source_location": "L33",
-      "id": "n8n_workflow_env_map_notifications",
       "community": 12,
-      "norm_label": "notifications"
+      "norm_label": "notifications",
+      "id": "n8n_workflow_env_map_notifications"
     },
     {
       "label": "App",
       "file_type": "document",
       "source_file": "automations/n8n/workflow-env-map.md",
       "source_location": "L38",
-      "id": "n8n_workflow_env_map_app",
       "community": 12,
-      "norm_label": "app"
+      "norm_label": "app",
+      "id": "n8n_workflow_env_map_app"
     },
     {
       "label": "02-intake-sync.spec.md",
       "file_type": "document",
       "source_file": "automations/n8n/02-intake-sync.spec.md",
       "source_location": "L1",
-      "id": "automations_n8n_02_intake_sync_spec_md",
       "community": 13,
-      "norm_label": "02-intake-sync.spec.md"
+      "norm_label": "02-intake-sync.spec.md",
+      "id": "automations_n8n_02_intake_sync_spec_md"
     },
     {
       "label": "02-intake-sync",
       "file_type": "document",
       "source_file": "automations/n8n/02-intake-sync.spec.md",
       "source_location": "L1",
-      "id": "n8n_02_intake_sync_spec_02_intake_sync",
       "community": 13,
-      "norm_label": "02-intake-sync"
+      "norm_label": "02-intake-sync",
+      "id": "n8n_02_intake_sync_spec_02_intake_sync"
     },
     {
       "label": "Trigger",
       "file_type": "document",
       "source_file": "automations/n8n/02-intake-sync.spec.md",
       "source_location": "L3",
-      "id": "n8n_02_intake_sync_spec_trigger",
       "community": 13,
-      "norm_label": "trigger"
+      "norm_label": "trigger",
+      "id": "n8n_02_intake_sync_spec_trigger"
     },
     {
       "label": "Fallback",
       "file_type": "document",
       "source_file": "automations/n8n/02-intake-sync.spec.md",
       "source_location": "L7",
-      "id": "n8n_02_intake_sync_spec_fallback",
       "community": 13,
-      "norm_label": "fallback"
+      "norm_label": "fallback",
+      "id": "n8n_02_intake_sync_spec_fallback"
     },
     {
       "label": "Inputs",
       "file_type": "document",
       "source_file": "automations/n8n/02-intake-sync.spec.md",
       "source_location": "L11",
-      "id": "n8n_02_intake_sync_spec_inputs",
       "community": 13,
-      "norm_label": "inputs"
+      "norm_label": "inputs",
+      "id": "n8n_02_intake_sync_spec_inputs"
     },
     {
       "label": "Actions",
       "file_type": "document",
       "source_file": "automations/n8n/02-intake-sync.spec.md",
       "source_location": "L18",
-      "id": "n8n_02_intake_sync_spec_actions",
       "community": 13,
-      "norm_label": "actions"
+      "norm_label": "actions",
+      "id": "n8n_02_intake_sync_spec_actions"
     },
     {
       "label": "Upsert Key",
       "file_type": "document",
       "source_file": "automations/n8n/02-intake-sync.spec.md",
       "source_location": "L26",
-      "id": "n8n_02_intake_sync_spec_upsert_key",
       "community": 13,
-      "norm_label": "upsert key"
+      "norm_label": "upsert key",
+      "id": "n8n_02_intake_sync_spec_upsert_key"
     },
     {
       "label": "Write Guards",
       "file_type": "document",
       "source_file": "automations/n8n/02-intake-sync.spec.md",
       "source_location": "L34",
-      "id": "n8n_02_intake_sync_spec_write_guards",
       "community": 13,
-      "norm_label": "write guards"
+      "norm_label": "write guards",
+      "id": "n8n_02_intake_sync_spec_write_guards"
     },
     {
       "label": "01-client-intake-setup.spec.md",
       "file_type": "document",
       "source_file": "automations/n8n/01-client-intake-setup.spec.md",
       "source_location": "L1",
-      "id": "automations_n8n_01_client_intake_setup_spec_md",
       "community": 18,
-      "norm_label": "01-client-intake-setup.spec.md"
+      "norm_label": "01-client-intake-setup.spec.md",
+      "id": "automations_n8n_01_client_intake_setup_spec_md"
     },
     {
       "label": "01-client-intake-setup",
       "file_type": "document",
       "source_file": "automations/n8n/01-client-intake-setup.spec.md",
       "source_location": "L1",
-      "id": "n8n_01_client_intake_setup_spec_01_client_intake_setup",
       "community": 18,
-      "norm_label": "01-client-intake-setup"
+      "norm_label": "01-client-intake-setup",
+      "id": "n8n_01_client_intake_setup_spec_01_client_intake_setup"
     },
     {
       "label": "Trigger",
       "file_type": "document",
       "source_file": "automations/n8n/01-client-intake-setup.spec.md",
       "source_location": "L3",
-      "id": "n8n_01_client_intake_setup_spec_trigger",
       "community": 18,
-      "norm_label": "trigger"
+      "norm_label": "trigger",
+      "id": "n8n_01_client_intake_setup_spec_trigger"
     },
     {
       "label": "Inputs",
       "file_type": "document",
       "source_file": "automations/n8n/01-client-intake-setup.spec.md",
       "source_location": "L8",
-      "id": "n8n_01_client_intake_setup_spec_inputs",
       "community": 18,
-      "norm_label": "inputs"
+      "norm_label": "inputs",
+      "id": "n8n_01_client_intake_setup_spec_inputs"
     },
     {
       "label": "Actions",
       "file_type": "document",
       "source_file": "automations/n8n/01-client-intake-setup.spec.md",
       "source_location": "L17",
-      "id": "n8n_01_client_intake_setup_spec_actions",
       "community": 18,
-      "norm_label": "actions"
+      "norm_label": "actions",
+      "id": "n8n_01_client_intake_setup_spec_actions"
     },
     {
       "label": "Template Mapping",
       "file_type": "document",
       "source_file": "automations/n8n/01-client-intake-setup.spec.md",
       "source_location": "L27",
-      "id": "n8n_01_client_intake_setup_spec_template_mapping",
       "community": 18,
-      "norm_label": "template mapping"
+      "norm_label": "template mapping",
+      "id": "n8n_01_client_intake_setup_spec_template_mapping"
     },
     {
       "label": "Write Guards",
       "file_type": "document",
       "source_file": "automations/n8n/01-client-intake-setup.spec.md",
       "source_location": "L36",
-      "id": "n8n_01_client_intake_setup_spec_write_guards",
       "community": 18,
-      "norm_label": "write guards"
+      "norm_label": "write guards",
+      "id": "n8n_01_client_intake_setup_spec_write_guards"
     },
     {
       "label": "SKILL.md",
       "file_type": "document",
       "source_file": "skills/client-clarity-intake-os/SKILL.md",
       "source_location": "L1",
-      "id": "skills_client_clarity_intake_os_skill_md",
       "community": 19,
-      "norm_label": "skill.md"
+      "norm_label": "skill.md",
+      "id": "skills_client_clarity_intake_os_skill_md"
     },
     {
       "label": "Skill: Client Clarity Intake OS",
       "file_type": "document",
       "source_file": "skills/client-clarity-intake-os/SKILL.md",
       "source_location": "L1",
-      "id": "client_clarity_intake_os_skill_skill_client_clarity_intake_os",
       "community": 19,
-      "norm_label": "skill: client clarity intake os"
+      "norm_label": "skill: client clarity intake os",
+      "id": "client_clarity_intake_os_skill_skill_client_clarity_intake_os"
     },
     {
       "label": "Purpose",
       "file_type": "document",
       "source_file": "skills/client-clarity-intake-os/SKILL.md",
       "source_location": "L3",
-      "id": "client_clarity_intake_os_skill_purpose",
       "community": 19,
-      "norm_label": "purpose"
+      "norm_label": "purpose",
+      "id": "client_clarity_intake_os_skill_purpose"
     },
     {
       "label": "Core Workflow",
       "file_type": "document",
       "source_file": "skills/client-clarity-intake-os/SKILL.md",
       "source_location": "L7",
-      "id": "client_clarity_intake_os_skill_core_workflow",
       "community": 19,
-      "norm_label": "core workflow"
+      "norm_label": "core workflow",
+      "id": "client_clarity_intake_os_skill_core_workflow"
     },
     {
       "label": "Tools",
       "file_type": "document",
       "source_file": "skills/client-clarity-intake-os/SKILL.md",
       "source_location": "L11",
-      "id": "client_clarity_intake_os_skill_tools",
       "community": 19,
-      "norm_label": "tools"
+      "norm_label": "tools",
+      "id": "client_clarity_intake_os_skill_tools"
     },
     {
       "label": "Rules",
       "file_type": "document",
       "source_file": "skills/client-clarity-intake-os/SKILL.md",
       "source_location": "L19",
-      "id": "client_clarity_intake_os_skill_rules",
       "community": 19,
-      "norm_label": "rules"
+      "norm_label": "rules",
+      "id": "client_clarity_intake_os_skill_rules"
     },
     {
       "label": "Repo Contracts",
       "file_type": "document",
       "source_file": "skills/client-clarity-intake-os/SKILL.md",
       "source_location": "L35",
-      "id": "client_clarity_intake_os_skill_repo_contracts",
       "community": 19,
-      "norm_label": "repo contracts"
+      "norm_label": "repo contracts",
+      "id": "client_clarity_intake_os_skill_repo_contracts"
     },
     {
       "label": "SKILL.md",
       "file_type": "document",
       "source_file": "skills/proposal-builder/SKILL.md",
       "source_location": "L1",
-      "id": "skills_proposal_builder_skill_md",
       "community": 26,
-      "norm_label": "skill.md"
+      "norm_label": "skill.md",
+      "id": "skills_proposal_builder_skill_md"
     },
     {
       "label": "Skill: Proposal Builder",
       "file_type": "document",
       "source_file": "skills/proposal-builder/SKILL.md",
       "source_location": "L1",
-      "id": "proposal_builder_skill_skill_proposal_builder",
       "community": 26,
-      "norm_label": "skill: proposal builder"
+      "norm_label": "skill: proposal builder",
+      "id": "proposal_builder_skill_skill_proposal_builder"
     },
     {
       "label": "Purpose",
       "file_type": "document",
       "source_file": "skills/proposal-builder/SKILL.md",
       "source_location": "L3",
-      "id": "proposal_builder_skill_purpose",
       "community": 26,
-      "norm_label": "purpose"
+      "norm_label": "purpose",
+      "id": "proposal_builder_skill_purpose"
     },
     {
       "label": "Inputs",
       "file_type": "document",
       "source_file": "skills/proposal-builder/SKILL.md",
       "source_location": "L7",
-      "id": "proposal_builder_skill_inputs",
       "community": 26,
-      "norm_label": "inputs"
+      "norm_label": "inputs",
+      "id": "proposal_builder_skill_inputs"
     },
     {
       "label": "Rules",
       "file_type": "document",
       "source_file": "skills/proposal-builder/SKILL.md",
       "source_location": "L15",
-      "id": "proposal_builder_skill_rules",
       "community": 26,
-      "norm_label": "rules"
+      "norm_label": "rules",
+      "id": "proposal_builder_skill_rules"
     },
     {
       "label": "Source Prompt",
       "file_type": "document",
       "source_file": "skills/proposal-builder/SKILL.md",
       "source_location": "L24",
-      "id": "proposal_builder_skill_source_prompt",
       "community": 26,
-      "norm_label": "source prompt"
+      "norm_label": "source prompt",
+      "id": "proposal_builder_skill_source_prompt"
     },
     {
       "label": "SKILL.md",
       "file_type": "document",
       "source_file": "skills/blueprint-extractor/SKILL.md",
       "source_location": "L1",
-      "id": "skills_blueprint_extractor_skill_md",
       "community": 20,
-      "norm_label": "skill.md"
+      "norm_label": "skill.md",
+      "id": "skills_blueprint_extractor_skill_md"
     },
     {
       "label": "Skill: Blueprint Extractor",
       "file_type": "document",
       "source_file": "skills/blueprint-extractor/SKILL.md",
       "source_location": "L1",
-      "id": "blueprint_extractor_skill_skill_blueprint_extractor",
       "community": 20,
-      "norm_label": "skill: blueprint extractor"
+      "norm_label": "skill: blueprint extractor",
+      "id": "blueprint_extractor_skill_skill_blueprint_extractor"
     },
     {
       "label": "Purpose",
       "file_type": "document",
       "source_file": "skills/blueprint-extractor/SKILL.md",
       "source_location": "L3",
-      "id": "blueprint_extractor_skill_purpose",
       "community": 20,
-      "norm_label": "purpose"
+      "norm_label": "purpose",
+      "id": "blueprint_extractor_skill_purpose"
     },
     {
       "label": "Inputs",
       "file_type": "document",
       "source_file": "skills/blueprint-extractor/SKILL.md",
       "source_location": "L7",
-      "id": "blueprint_extractor_skill_inputs",
       "community": 20,
-      "norm_label": "inputs"
+      "norm_label": "inputs",
+      "id": "blueprint_extractor_skill_inputs"
     },
     {
       "label": "Rules",
       "file_type": "document",
       "source_file": "skills/blueprint-extractor/SKILL.md",
       "source_location": "L15",
-      "id": "blueprint_extractor_skill_rules",
       "community": 20,
-      "norm_label": "rules"
+      "norm_label": "rules",
+      "id": "blueprint_extractor_skill_rules"
     },
     {
       "label": "Validation",
       "file_type": "document",
       "source_file": "skills/blueprint-extractor/SKILL.md",
       "source_location": "L26",
-      "id": "blueprint_extractor_skill_validation",
       "community": 20,
-      "norm_label": "validation"
+      "norm_label": "validation",
+      "id": "blueprint_extractor_skill_validation"
     },
     {
       "label": "code:bash (node scripts/validate-blueprint-json.js path/to/output.json)",
       "file_type": "document",
       "source_file": "skills/blueprint-extractor/SKILL.md",
       "source_location": "L30",
-      "id": "blueprint_extractor_skill_codeblock_1",
       "community": 20,
-      "norm_label": "code:bash (node scripts/validate-blueprint-json.js path/to/output.json)"
+      "norm_label": "code:bash (node scripts/validate-blueprint-json.js path/to/output.json)",
+      "id": "blueprint_extractor_skill_codeblock_1"
     },
     {
       "label": "SKILL.md",
       "file_type": "document",
       "source_file": "skills/notion-intake-builder/SKILL.md",
       "source_location": "L1",
-      "id": "skills_notion_intake_builder_skill_md",
       "community": 32,
-      "norm_label": "skill.md"
+      "norm_label": "skill.md",
+      "id": "skills_notion_intake_builder_skill_md"
     },
     {
       "label": "Skill: Notion Intake Builder",
       "file_type": "document",
       "source_file": "skills/notion-intake-builder/SKILL.md",
       "source_location": "L1",
-      "id": "notion_intake_builder_skill_skill_notion_intake_builder",
       "community": 32,
-      "norm_label": "skill: notion intake builder"
+      "norm_label": "skill: notion intake builder",
+      "id": "notion_intake_builder_skill_skill_notion_intake_builder"
     },
     {
       "label": "Purpose",
       "file_type": "document",
       "source_file": "skills/notion-intake-builder/SKILL.md",
       "source_location": "L3",
-      "id": "notion_intake_builder_skill_purpose",
       "community": 32,
-      "norm_label": "purpose"
+      "norm_label": "purpose",
+      "id": "notion_intake_builder_skill_purpose"
     },
     {
       "label": "Source Files",
       "file_type": "document",
       "source_file": "skills/notion-intake-builder/SKILL.md",
       "source_location": "L7",
-      "id": "notion_intake_builder_skill_source_files",
       "community": 32,
-      "norm_label": "source files"
+      "norm_label": "source files",
+      "id": "notion_intake_builder_skill_source_files"
     },
     {
       "label": "Rules",
       "file_type": "document",
       "source_file": "skills/notion-intake-builder/SKILL.md",
       "source_location": "L15",
-      "id": "notion_intake_builder_skill_rules",
       "community": 32,
-      "norm_label": "rules"
+      "norm_label": "rules",
+      "id": "notion_intake_builder_skill_rules"
     }
   ],
   "links": [
@@ -5098,5 +5098,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "a3a3a6c4e3058540c8fcfb0a3cded742e5e2afe7"
+  "built_at_commit": "99d08cf1e616b21912e25f9d6c1b1b4e0e12c178"
 }
