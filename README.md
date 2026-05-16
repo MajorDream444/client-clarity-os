@@ -1,6 +1,6 @@
-# Client Clarity Intake OS
+# Client Clarity OS
 
-Client Clarity Intake OS is a repeatable onboarding workflow that turns a client's raw story, doctrine, offers, assets, and business reality into a structured blueprint that can be reviewed, priced, proposed, paid for, and built.
+Client Clarity OS is the master operating system for turning a client’s raw story, doctrine, offers, assets, and business reality into a structured blueprint that can be reviewed, priced, proposed, paid for, built, documented, and handed off cleanly.
 
 The operating principle:
 
@@ -17,60 +17,50 @@ Client
 → Airtable
 → AI Blueprint
 → Human Review
+→ Blueprint Review / Diagnosis Reveal
 → Proposal
+→ Statement of Work
+→ Signature / Acceptance
 → Stripe Payment
 → Build Tasks
 → Execution
+→ Client Update Rhythm
+→ Handover / Support / Expansion
 ```
+
+## What This Repo Now Governs
+
+Client Clarity OS now includes five connected layers:
+
+1. **Client Clarity Intake OS** — founder/business extraction.
+2. **Blueprint Extraction Layer** — doctrine, ICP, revenue leaks, first build.
+3. **Close Protocol** — proposal, SOW, scope, payment, terms.
+4. **Build Activation System** — payment-to-build launch, tasks, repos, source control.
+5. **Handover & Support Doctrine** — clean transfer, support windows, internal IP protection.
 
 ## Current Stack
 
 - **Airtable**: operational source of truth. Existing base: `AMA MOB OS V2`.
-- **Notion**: client-facing intake and dossier layer. Production database target: `Client Clarity Intake`.
+- **Notion**: client-facing intake, dossiers, and client OS spaces.
 - **AI extraction**: drafts structured blueprint JSON from completed intake answers.
-- **Stripe**: staged payment layer. Products/payment links are not implemented yet.
-- **n8n / Make**: future orchestration layer. Workflow specs exist in this repo; production JSON is not wired yet.
-- **GitHub**: repo-managed source for prompts, specs, skills, schemas, and helper scripts.
+- **Stripe**: staged payment layer. Products/payment links remain human-reviewed and implemented as needed.
+- **n8n / Make**: orchestration layer. Workflow specs live in this repo; production JSON can be wired when credentials are available.
+- **GitHub**: doctrine of truth for specs, prompts, skills, handoffs, SOW standards, and durable operating memory.
+- **Graphify**: persistent context layer. Scan and query repo/project folders before major structural decisions.
+- **NotebookLM**: client update and briefing layer, especially for milestone podcasts and contextual progress summaries.
 
 ## Repo Map
 
 ```text
-docs/                 Architecture, implementation plan, schema docs, sync maps, testing checklist
-schemas/              Airtable table specs, Notion database spec, AI blueprint JSON schema
-prompts/              AI extraction, Notion template, proposal, and operator prompts
+docs/                 Architecture, implementation plan, close protocol, terms doctrine, ingestion, pricing, sync maps
+schemas/              Airtable table specs, Notion database specs, AI blueprint JSON schema
+prompts/              AI extraction, Notion template, proposal, operator, close-protocol prompts
 skills/               Reusable agent/operator skills
 automations/n8n/      Workflow specs and environment map
 scripts/              Local validation and slug helper scripts
 clients/              Client-specific handoffs and notes
 templates/            Legacy/working template notes kept for continuity
 ```
-
-## Setup
-
-1. Copy `.env.example` to `.env`.
-2. Fill Airtable, Notion, OpenAI, Stripe, Telegram, and app URL values.
-3. Keep secrets local. Do not commit `.env`.
-4. Run the environment check:
-
-```bash
-node scripts/validate-env.js
-```
-
-5. Validate a blueprint JSON file:
-
-```bash
-node scripts/validate-blueprint-json.js path/to/blueprint-output.json
-```
-
-6. Generate a stable client slug:
-
-```bash
-node scripts/generate-client-slug.js "Sheetal Kandola" "Shakti System Foundation"
-```
-
-## Required Environment Variables
-
-See [.env.example](.env.example). All Airtable table IDs, Notion database/page IDs, Stripe prices, and webhook secrets must come from environment variables. The repo does not assume table IDs or hardcode secrets.
 
 ## Airtable Tables
 
@@ -85,50 +75,89 @@ Canonical Airtable base: `AMA MOB OS V2`.
 
 Detailed table contracts live in [docs/airtable-schema.md](docs/airtable-schema.md) and `schemas/airtable/`.
 
-## Notion Target
+## Notion Layer
 
-Production database target: `Client Clarity Intake`.
+Notion is the client-facing experience layer.
 
-Notion is the client-facing experience layer. Templates must stay specific:
+Current live environments include:
+
+- `CLIENT CLARITY OS`
+- `Howling Mūne OS`
+- `Theo — Clarity Blueprint`
+- `Shakti System OS`
+- `Sheetal-Clarity Blueprint`
+- `Graffiti Media Engine OS`
+
+Templates must stay specific:
 
 - Creator-Healer Intake for Theo-style clients.
 - Shakti System Intake for Sheetal-style clients.
 - Media Engine Intake for Shaun-style clients.
 - Generic Client Blueprint as fallback.
 
-See [docs/notion-schema.md](docs/notion-schema.md) and `schemas/notion/`.
+## Intake Standard
 
-## Workflow Order
+The intake is not merely a form. It is:
 
-1. `01-client-intake-setup`: Airtable client record creates the Notion intake page.
-2. `02-intake-sync`: submitted Notion intake syncs into Airtable.
-3. `03-blueprint-generator`: AI drafts JSON, Airtable blueprint output, Notion dossier, and build tasks.
-4. `04-stripe-payment-status`: Stripe payment events update Airtable stage/payment state.
+```text
+founder extraction
++
+business telemetry
++
+operational readiness capture
+```
 
-Workflow specs live in `automations/n8n/`.
+Every serious intake should collect:
 
-## Manual Test Path
+- origin, authority, doctrine, philosophy
+- ICP, offers, pricing, audience, current proof
+- monthly revenue reality and referral dependency
+- lead sources, conversion reality, capacity, bottlenecks
+- assets/access needed
+- support expectations
+- handover expectations
+- software/subscription sensitivity
+- ownership/IP concerns
+- performance targets discussion
+- measurement readiness
+- budget comfort
+- final reflection
 
-Use [docs/testing-checklist.md](docs/testing-checklist.md) as the acceptance checklist. The short path is:
+## Pricing Doctrine
 
-1. Create a test Airtable client.
-2. Confirm Notion intake creation and URL writeback.
-3. Submit a Notion intake.
-4. Confirm Airtable intake response sync.
-5. Run AI extraction and JSON validation.
-6. Confirm blueprint output, build tasks, Stripe test payment update, and notification.
+Internally, even “basic” system builds should be treated as **$13K+ architecture packages** in market value. A client may pay less based on scope, strategic relationship, case-study value, or alignment structure, but the system should feel premium, disciplined, and more valuable than the fee.
 
-## Not Yet Automated
+We provide:
+- system architecture
+- founder/doctrine extraction
+- ICP and offer lock
+- front door / client pathway
+- intake/application logic
+- backend data layer
+- close/follow-up language
+- documentation and handoff
 
-- Production Notion database creation.
-- Airtable table ID discovery.
-- Stripe staged products/payment links.
-- Live n8n workflow JSON import.
-- Live OpenAI extraction calls.
-- Telegram/operator notification delivery.
-- Proposal pricing and final terms. These remain human-reviewed.
+We do **not** automatically provide:
+- voice agents
+- autonomous enterprise workflows
+- daily social media management
+- paid ad operations
+- unlimited revisions
+- full brand redesign
+- scope drift disguised as “small changes”
+- advanced features outside the signed SOW
 
-## Operating Rules
+## Marketing Boundary
+
+AMA / Hanzo builds systems, pathways, and operational foundations. We do **not** become the client’s general marketing department unless that is explicitly scoped, separately priced, and documented.
+
+That means:
+- we may design content rhythm and conversion pathways
+- we may write launch or follow-up language
+- we may create strategic messaging systems
+- we do not guarantee organic traffic, client posting consistency, sales activity, media placement, or lead volume without a separately controlled/distributed campaign
+
+## Core Operating Rules
 
 - Do not overbuild.
 - Clarity before scale.
@@ -140,7 +169,10 @@ Use [docs/testing-checklist.md](docs/testing-checklist.md) as the acceptance che
 - Always include what should not be built yet.
 - AI drafts. Human approves.
 - Pricing and final proposal terms remain human-reviewed.
-- Airtable runs the machine. Notion holds the client-facing experience.
+- Airtable runs the machine. Notion holds the client-facing experience. GitHub preserves doctrine.
+- Graphify should be queried before major structural decisions.
+- NotebookLM may be used for milestone/update briefing podcasts when useful.
+- No loose documents: route uploads, transcripts, emails, and artifacts into the proper client/project system.
 
 ## First Build Recommendation Logic
 
@@ -149,3 +181,18 @@ Use [docs/testing-checklist.md](docs/testing-checklist.md) as the acceptance che
 - Doctrine exists but monetization is unclear → Foundation + Offer Ladder.
 - Multiple directions are competing → One Door + Routing Logic.
 - Client wants full OS too early → Phase 1 foundation first; defer expansion.
+
+## Current Priority
+
+The system is now moving into a sharper close and activation doctrine. Immediate documents to maintain inside this repo:
+
+- `docs/close-protocol.md`
+- `docs/build-activation-system.md`
+- `docs/standard-terms-and-conditions.md`
+- `docs/marketing-boundary-and-scope-lock.md`
+- `docs/pricing-and-margin-discipline.md`
+- `docs/document-ingestion-protocol.md`
+- `docs/notebooklm-client-update-protocol.md`
+- `docs/graphify-context-protocol.md`
+
+These are not separate projects. They are modules inside Client Clarity OS.
