@@ -1,3 +1,5 @@
+[![Edit on Hanzo](https://hanzo.ai/badges/edit-on-hanzo.svg)](https://hanzo.app/dev?repo=https%3A%2F%2Fgithub.com%2FMajorDream444%2Fclient-clarity-os)
+
 # Client Clarity OS
 
 Client Clarity OS is the master operating system for turning a client’s raw story, doctrine, offers, assets, and business reality into a structured blueprint that can be reviewed, priced, proposed, paid for, built, documented, and handed off cleanly.
